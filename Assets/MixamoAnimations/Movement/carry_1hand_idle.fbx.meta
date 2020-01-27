@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 931987231461d644dade41df2f3ba8a6
+guid: 350f5d91d005e8a4dbca7df616a77820
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -1522721342945410402
-    second: happy_walk
+      74: -8438523329182082513
+    second: holding_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: happy_walk
+      name: holding_idle
       takeName: mixamo.com
-      internalID: -1522721342945410402
+      internalID: -8438523329182082513
       firstFrame: 0
-      lastFrame: 33
+      lastFrame: 180
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -53,7 +53,7 @@ ModelImporter:
       loopBlend: 0
       loopBlendOrientation: 1
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 0
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

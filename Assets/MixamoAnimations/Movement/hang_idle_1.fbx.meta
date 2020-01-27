@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 931987231461d644dade41df2f3ba8a6
+guid: b3895e2347b8470479301ea6c1c42b5b
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -1522721342945410402
-    second: happy_walk
+      74: -8668983280424911126
+    second: hanging_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: happy_walk
+      name: hanging_idle
       takeName: mixamo.com
-      internalID: -1522721342945410402
+      internalID: -8668983280424911126
       firstFrame: 0
-      lastFrame: 33
+      lastFrame: 141
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -53,11 +53,11 @@ ModelImporter:
       loopBlend: 0
       loopBlendOrientation: 1
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 0
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
-      keepOriginalPositionY: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

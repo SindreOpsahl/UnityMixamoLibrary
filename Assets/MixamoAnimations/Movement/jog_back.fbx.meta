@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 931987231461d644dade41df2f3ba8a6
+guid: 000c7e573d070084a8a0abf7b40654ed
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -1522721342945410402
-    second: happy_walk
+      74: 646861057059379178
+    second: jog_backward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: happy_walk
+      name: jog_backward
       takeName: mixamo.com
-      internalID: -1522721342945410402
+      internalID: 646861057059379178
       firstFrame: 0
-      lastFrame: 33
+      lastFrame: 24
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
