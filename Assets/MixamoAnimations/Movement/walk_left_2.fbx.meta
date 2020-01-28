@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2321ed4bc1f8a9045904ddf0a42371f0
+guid: d097818cc1d124e4eb364b02d08d5be7
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -2993534804863918692
-    second: jump
+      74: 7717143398549519054
+    second: left_strafe_walking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,25 +38,25 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jump
+      name: left_strafe_walking
       takeName: mixamo.com
-      internalID: -2993534804863918692
+      internalID: 7717143398549519054
       firstFrame: 0
-      lastFrame: 50
+      lastFrame: 31
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 1
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 1
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

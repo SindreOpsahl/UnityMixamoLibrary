@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9ed03fb26816f564dbe01b0389e399e0
+guid: 335031d2a1d17564bbdcec01dd7b6603
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,11 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -6425240061059589176
-    second: crouched_sneaking_left
-  - first:
-      74: 3547741323253487829
-    second: crouched_sneaking_left
+      74: 3391456099807766548
+    second: left_cover_sneak
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,23 +38,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouched_sneaking_left
+      name: left_cover_sneak
       takeName: mixamo.com
-      internalID: 3547741323253487829
+      internalID: 3391456099807766548
       firstFrame: 0
-      lastFrame: 38
+      lastFrame: 34
       wrapMode: 0
-      orientationOffsetY: 180
+      orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

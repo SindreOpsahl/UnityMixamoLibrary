@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2321ed4bc1f8a9045904ddf0a42371f0
+guid: 56bc6dc38079aa84c8f6227658054783
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -2993534804863918692
-    second: jump
+      74: 786840738106341465
+    second: left_turn(5)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jump
+      name: left_turn(5)
       takeName: mixamo.com
-      internalID: -2993534804863918692
+      internalID: 786840738106341465
       firstFrame: 0
-      lastFrame: 50
+      lastFrame: 32
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -56,7 +56,7 @@ ModelImporter:
       loopBlendPositionXZ: 1
       keepOriginalOrientation: 1
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
