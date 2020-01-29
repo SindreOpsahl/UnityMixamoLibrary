@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 94e4524b1da6a8d42b307ce10164820b
+guid: 50c69dd579bbd4145b52d5b2e1f292a6
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: 4194721749168340768
-    second: wall_run
+      74: 3942346545567155174
+    second: running_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: wall_run
+      name: running_1
       takeName: mixamo.com
-      internalID: 4194721749168340768
+      internalID: 3942346545567155174
       firstFrame: 0
-      lastFrame: 30
+      lastFrame: 49
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
