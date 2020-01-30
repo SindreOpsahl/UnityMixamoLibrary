@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b8284fc83fd0f9c48b3d220f3433c4f5
+guid: 859ba6c26dd19cf46a392a5236e07c6c
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: 1892239248611113967
-    second: victory_1
+      74: 5029710099000895372
+    second: victory
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: victory_1
+      name: victory
       takeName: mixamo.com
-      internalID: 1892239248611113967
+      internalID: 5029710099000895372
       firstFrame: 0
-      lastFrame: 183
+      lastFrame: 256
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -51,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

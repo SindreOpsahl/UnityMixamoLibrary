@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5c75f62b71f7d2045babe5643bc85e64
+guid: 91ba7a09daa6fb041aa68b97c1f6772d
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,11 +7,11 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -4551023944649311083
-    second: Crouch_To_Standing_Idle
+      74: -7066457783367203233
+    second: crouch_to_standing_idle(1)
   - first:
-      74: 5995490245957735552
-    second: crouch_to_standing_idle1
+      74: -1426211378011253715
+    second: crouch_to_standing_idle2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,11 +41,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_to_standing_idle1
+      name: crouch_to_standing_idle2
       takeName: mixamo.com
-      internalID: 5995490245957735552
+      internalID: -1426211378011253715
       firstFrame: 0
-      lastFrame: 30
+      lastFrame: 19
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

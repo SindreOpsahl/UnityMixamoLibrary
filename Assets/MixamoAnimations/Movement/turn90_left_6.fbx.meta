@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7879b9e2c0d001d4c8ac55e9fbeab432
+guid: 316443150ab8ff54087968a85d406d6f
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: -1504528824749689650
-    second: left_turn_90
+      74: 8174497804025958561
+    second: unarmed_turn_left_90
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: left_turn_90
+      name: unarmed_turn_left_90
       takeName: mixamo.com
-      internalID: -1504528824749689650
+      internalID: 8174497804025958561
       firstFrame: 0
-      lastFrame: 28
+      lastFrame: 45
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -51,9 +51,9 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

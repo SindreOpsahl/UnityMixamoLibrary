@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ff7148ceb0e522d468d7f222be438df5
+guid: 8c852b44d0970ad48ba59fce9470574d
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable:
@@ -7,8 +7,8 @@ ModelImporter:
       74: -203655887218126122
     second: mixamo.com
   - first:
-      74: 3172135971258091552
-    second: idle_1
+      74: -495529700482571410
+    second: breathing_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,23 +38,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: idle_1
+      name: breathing_idle
       takeName: mixamo.com
-      internalID: 3172135971258091552
+      internalID: -495529700482571410
       firstFrame: 0
-      lastFrame: 98
+      lastFrame: 298
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
