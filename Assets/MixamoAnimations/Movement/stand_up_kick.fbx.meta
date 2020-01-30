@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -752168148352494154
     second: kip_up
+  - first:
+      74: 61712520683128244
+    second: stand_up_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: kip_up
+      name: stand_up_kick
       takeName: mixamo.com
-      internalID: -752168148352494154
+      internalID: 61712520683128244
       firstFrame: 0
       lastFrame: 61
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

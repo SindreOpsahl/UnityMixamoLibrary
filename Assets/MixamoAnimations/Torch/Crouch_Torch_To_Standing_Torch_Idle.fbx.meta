@@ -43,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Crouch_Torch_To_Standing_Torch_Idle
       takeName: mixamo.com
-      internalID: -2887159783577534727
+      internalID: 3108256713464741433
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

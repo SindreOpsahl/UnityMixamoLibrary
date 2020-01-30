@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8341234713905679361
     second: quick_steps
+  - first:
+      74: 3043576007748218053
+    second: quick_steps
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: quick_steps
       takeName: mixamo.com
-      internalID: -8341234713905679361
+      internalID: 3043576007748218053
       firstFrame: 0
       lastFrame: 220
       wrapMode: 0

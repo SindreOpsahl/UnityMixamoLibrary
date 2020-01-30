@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7510815807429177186
     second: pulling_lever
+  - first:
+      74: -7774855663168629025
+    second: pulling_lever
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pulling_lever
       takeName: mixamo.com
-      internalID: -7510815807429177186
+      internalID: -7774855663168629025
       firstFrame: 0
       lastFrame: 188
       wrapMode: 0

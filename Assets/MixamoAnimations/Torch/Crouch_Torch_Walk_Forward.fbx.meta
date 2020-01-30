@@ -43,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Crouch_Torch_Walk_Forward
       takeName: mixamo.com
-      internalID: 6237779464794193812
+      internalID: -5377116977702911427
       firstFrame: 0
       lastFrame: 33
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -416230083053583163
     second: transition
+  - first:
+      74: 7922342429752164165
+    second: transition
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: transition
       takeName: mixamo.com
-      internalID: -416230083053583163
+      internalID: 7922342429752164165
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0

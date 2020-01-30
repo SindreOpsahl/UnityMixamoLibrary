@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4411840457222943149
     second: scared
+  - first:
+      74: -3789211386498775548
+    second: scared
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: scared
       takeName: mixamo.com
-      internalID: 4411840457222943149
+      internalID: -3789211386498775548
       firstFrame: 0
       lastFrame: 302
       wrapMode: 0

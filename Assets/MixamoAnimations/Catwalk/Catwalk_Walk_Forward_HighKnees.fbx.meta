@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8641460641850010139
     second: Catwalk_Walk_Forward_HighKnees
+  - first:
+      74: -6652726153103053944
+    second: Catwalk_Walk_Forward_HighKnees
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Walk_Forward_HighKnees
       takeName: mixamo.com
-      internalID: -8641460641850010139
+      internalID: -6652726153103053944
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0

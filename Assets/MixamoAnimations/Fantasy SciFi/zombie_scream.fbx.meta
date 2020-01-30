@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8249598357626409691
     second: zombie_scream
+  - first:
+      74: 8031455018555586140
+    second: zombie_scream
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_scream
       takeName: mixamo.com
-      internalID: -8249598357626409691
+      internalID: 8031455018555586140
       firstFrame: 0
       lastFrame: 84
       wrapMode: 0

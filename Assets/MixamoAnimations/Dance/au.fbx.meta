@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2150145301092325748
     second: cartwheel
+  - first:
+      74: 9023448396141462861
+    second: au
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: cartwheel
+      name: au
       takeName: mixamo.com
-      internalID: -2150145301092325748
+      internalID: 9023448396141462861
       firstFrame: 0
       lastFrame: 87
       wrapMode: 0

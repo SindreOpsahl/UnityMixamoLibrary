@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8429771073789421594
     second: opening_a_filing_cabinet
+  - first:
+      74: -812567946921040228
+    second: opening_a_filing_cabinet
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: opening_a_filing_cabinet
       takeName: mixamo.com
-      internalID: 8429771073789421594
+      internalID: -812567946921040228
       firstFrame: 0
       lastFrame: 425
       wrapMode: 0

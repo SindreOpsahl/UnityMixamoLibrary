@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1352413630333975658
     second: dancing_maraschino_step
+  - first:
+      74: -5861848910684741468
+    second: dancing_maraschino_step
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dancing_maraschino_step
       takeName: mixamo.com
-      internalID: 1352413630333975658
+      internalID: -5861848910684741468
       firstFrame: 0
       lastFrame: 97
       wrapMode: 0

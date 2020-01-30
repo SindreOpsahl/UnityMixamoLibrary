@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1520722302808644805
     second: jump(3)
+  - first:
+      74: 8705113624019396585
+    second: run_back_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jump(3)
+      name: run_back_jump
       takeName: mixamo.com
-      internalID: 1520722302808644805
+      internalID: 8705113624019396585
       firstFrame: 0
       lastFrame: 28
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

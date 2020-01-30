@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5950772456085876189
     second: falling_into_pool
+  - first:
+      74: 2564573596566113694
+    second: falling_into_pool
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: falling_into_pool
       takeName: mixamo.com
-      internalID: -5950772456085876189
+      internalID: 2564573596566113694
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

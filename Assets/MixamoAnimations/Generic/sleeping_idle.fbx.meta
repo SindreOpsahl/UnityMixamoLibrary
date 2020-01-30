@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4470533238966869926
     second: sleeping_idle
+  - first:
+      74: 7026109620870315663
+    second: sleeping_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sleeping_idle
       takeName: mixamo.com
-      internalID: 4470533238966869926
+      internalID: 7026109620870315663
       firstFrame: 0
       lastFrame: 206
       wrapMode: 0

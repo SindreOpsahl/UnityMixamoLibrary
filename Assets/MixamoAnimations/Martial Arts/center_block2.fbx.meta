@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5549899203558028585
     second: center_block2
+  - first:
+      74: 1965106578353799755
+    second: center_block2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: center_block2
       takeName: mixamo.com
-      internalID: -5549899203558028585
+      internalID: 1965106578353799755
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

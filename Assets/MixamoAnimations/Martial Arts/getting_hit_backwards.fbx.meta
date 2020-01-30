@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1878478684473431172
     second: getting_hit_backwards
+  - first:
+      74: -8719937238843058229
+    second: getting_hit_backwards
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: getting_hit_backwards
       takeName: mixamo.com
-      internalID: 1878478684473431172
+      internalID: -8719937238843058229
       firstFrame: 0
       lastFrame: 80
       wrapMode: 0

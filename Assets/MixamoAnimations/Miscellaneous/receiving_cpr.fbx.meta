@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1048203162871067410
     second: receiving_cpr
+  - first:
+      74: -1227670195659101801
+    second: receiving_cpr
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: receiving_cpr
       takeName: mixamo.com
-      internalID: 1048203162871067410
+      internalID: -1227670195659101801
       firstFrame: 0
       lastFrame: 259
       wrapMode: 0

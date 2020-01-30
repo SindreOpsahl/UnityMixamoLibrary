@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2004014207931216501
     second: golf_post_swing
+  - first:
+      74: 2781866272275450596
+    second: golf_post_swing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_post_swing
       takeName: mixamo.com
-      internalID: -2004014207931216501
+      internalID: 2781866272275450596
       firstFrame: 0
       lastFrame: 291
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7531205002471031079
     second: stop_jumping_jacks
+  - first:
+      74: 2100633360001396186
+    second: stop_jumping_jacks
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stop_jumping_jacks
       takeName: mixamo.com
-      internalID: -7531205002471031079
+      internalID: 2100633360001396186
       firstFrame: 0
       lastFrame: 32
       wrapMode: 0

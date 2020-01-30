@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8383550206685704063
     second: defeat_idle
+  - first:
+      74: 35455861065150533
+    second: defeat_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: defeat_idle
+      name: defeat_3
       takeName: mixamo.com
-      internalID: -8383550206685704063
+      internalID: 35455861065150533
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

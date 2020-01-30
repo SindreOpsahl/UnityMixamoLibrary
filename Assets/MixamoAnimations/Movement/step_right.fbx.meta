@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 306824959817811268
     second: side_step
+  - first:
+      74: 427532137481051294
+    second: step_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: side_step
+      name: step_right
       takeName: mixamo.com
-      internalID: 306824959817811268
+      internalID: 427532137481051294
       firstFrame: 0
       lastFrame: 44
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

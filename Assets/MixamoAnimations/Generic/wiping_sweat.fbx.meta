@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2847966009628149186
     second: wiping_sweat
+  - first:
+      74: 4466439613100643968
+    second: wiping_sweat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wiping_sweat
       takeName: mixamo.com
-      internalID: 2847966009628149186
+      internalID: 4466439613100643968
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0

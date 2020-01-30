@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4995585337291531173
     second: turn_left(1)
+  - first:
+      74: -2720552745974344942
+    second: rifle_aim_kneel_turn90_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: turn_left(1)
+      name: rifle_aim_kneel_turn90_left
       takeName: mixamo.com
-      internalID: 4995585337291531173
+      internalID: -2720552745974344942
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0
@@ -52,11 +55,11 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

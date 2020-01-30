@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 9203978577415602220
     second: jumping_down(2)
+  - first:
+      74: 5467250025511037481
+    second: rifle_jump_down_ledge_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jumping_down(2)
+      name: rifle_jump_down_ledge_2
       takeName: mixamo.com
-      internalID: 9203978577415602220
+      internalID: 5467250025511037481
       firstFrame: 0
       lastFrame: 88
       wrapMode: 0
@@ -51,13 +54,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
-      heightFromFeet: 1
+      heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

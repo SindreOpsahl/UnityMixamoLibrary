@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3339535806368027968
     second: hanging
+  - first:
+      74: -2886212457573553041
+    second: rope_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: hanging
+      name: rope_idle
       takeName: mixamo.com
-      internalID: 3339535806368027968
+      internalID: -2886212457573553041
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0
@@ -51,13 +54,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
-      heightFromFeet: 1
+      heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

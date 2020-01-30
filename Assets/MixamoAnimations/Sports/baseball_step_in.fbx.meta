@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1744582214610927339
     second: baseball_step_in
+  - first:
+      74: 3895763837291729801
+    second: baseball_step_in
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_step_in
       takeName: mixamo.com
-      internalID: -1744582214610927339
+      internalID: 3895763837291729801
       firstFrame: 0
       lastFrame: 113
       wrapMode: 0

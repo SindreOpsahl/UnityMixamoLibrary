@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6338743924824328450
     second: fist_pump(3)
+  - first:
+      74: -4005439226494465497
+    second: fist_pump(3)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fist_pump(3)
       takeName: mixamo.com
-      internalID: 6338743924824328450
+      internalID: -4005439226494465497
       firstFrame: 0
       lastFrame: 61
       wrapMode: 0

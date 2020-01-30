@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5243690013968927092
     second: throw_object
+  - first:
+      74: -2322438879834498523
+    second: throw_object
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: throw_object
       takeName: mixamo.com
-      internalID: -5243690013968927092
+      internalID: -2322438879834498523
       firstFrame: 0
       lastFrame: 146
       wrapMode: 0

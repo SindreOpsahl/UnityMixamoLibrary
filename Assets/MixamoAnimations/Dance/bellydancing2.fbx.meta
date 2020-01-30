@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5602490983557016299
     second: bellydancing2
+  - first:
+      74: -5386646857324039135
+    second: bellydancing2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bellydancing2
       takeName: mixamo.com
-      internalID: 5602490983557016299
+      internalID: -5386646857324039135
       firstFrame: 0
       lastFrame: 589
       wrapMode: 0

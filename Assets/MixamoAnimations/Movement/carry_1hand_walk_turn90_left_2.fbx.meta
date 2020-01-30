@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5086096730094102566
     second: left_turn_w_briefcase
+  - first:
+      74: 3788621538699568637
+    second: carry_1hand_walk_turn90_left_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: left_turn_w_briefcase
+      name: carry_1hand_walk_turn90_left_2
       takeName: mixamo.com
-      internalID: -5086096730094102566
+      internalID: 3788621538699568637
       firstFrame: 0
       lastFrame: 66
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

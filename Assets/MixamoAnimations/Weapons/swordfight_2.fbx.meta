@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1098297970809232336
     second: sword_fight_one(1)
+  - first:
+      74: -3808863024423645728
+    second: swordfight_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sword_fight_one(1)
+      name: swordfight_2
       takeName: mixamo.com
-      internalID: -1098297970809232336
+      internalID: -3808863024423645728
       firstFrame: 0
       lastFrame: 245
       wrapMode: 0
@@ -51,9 +54,9 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

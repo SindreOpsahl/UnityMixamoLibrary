@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3497987528660428376
     second: ginga_sideways_to_au
+  - first:
+      74: 941365581370569750
+    second: ginga_sideways_to_au
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ginga_sideways_to_au
       takeName: mixamo.com
-      internalID: 3497987528660428376
+      internalID: 941365581370569750
       firstFrame: 0
       lastFrame: 113
       wrapMode: 0

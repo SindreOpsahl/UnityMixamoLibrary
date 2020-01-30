@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4484957512017939019
     second: head_spinning
+  - first:
+      74: -2542662527596256986
+    second: head_spinning
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: head_spinning
       takeName: mixamo.com
-      internalID: -4484957512017939019
+      internalID: -2542662527596256986
       firstFrame: 0
       lastFrame: 25
       wrapMode: 0

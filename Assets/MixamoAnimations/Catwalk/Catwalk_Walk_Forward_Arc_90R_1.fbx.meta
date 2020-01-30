@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2247535573355684882
     second: Catwalk_Walk_Forward_Arc_90R_1
+  - first:
+      74: 473738384261698500
+    second: Catwalk_Walk_Forward_Arc_90R_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Walk_Forward_Arc_90R_1
       takeName: mixamo.com
-      internalID: 2247535573355684882
+      internalID: 473738384261698500
       firstFrame: 0
       lastFrame: 72
       wrapMode: 0

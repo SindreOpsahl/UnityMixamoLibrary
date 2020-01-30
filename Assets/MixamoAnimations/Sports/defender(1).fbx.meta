@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5499207972722419438
     second: defender(1)
+  - first:
+      74: -801847915231580335
+    second: defender(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: defender(1)
       takeName: mixamo.com
-      internalID: -5499207972722419438
+      internalID: -801847915231580335
       firstFrame: 0
       lastFrame: 108
       wrapMode: 0

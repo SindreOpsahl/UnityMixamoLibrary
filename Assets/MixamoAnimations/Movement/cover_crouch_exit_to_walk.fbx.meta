@@ -12,6 +12,9 @@ ModelImporter:
   - first:
       74: 3889898773559592767
     second: crouch_cover_to_walk
+  - first:
+      74: -7338093712845106640
+    second: cover_crouch_exit_to_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_cover_to_walk
+      name: cover_crouch_exit_to_walk
       takeName: mixamo.com
-      internalID: 3889898773559592767
+      internalID: -7338093712845106640
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0
@@ -55,9 +58,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

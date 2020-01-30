@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2753430589272172880
     second: receive_punch_to_the_face
+  - first:
+      74: 1979605761010481119
+    second: receive_punch_to_the_face
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: receive_punch_to_the_face
       takeName: mixamo.com
-      internalID: -2753430589272172880
+      internalID: 1979605761010481119
       firstFrame: 0
       lastFrame: 39
       wrapMode: 0

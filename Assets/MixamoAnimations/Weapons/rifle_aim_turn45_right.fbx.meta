@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1089690687874318652
     second: turning_right_45_degrees
+  - first:
+      74: 577430621813864820
+    second: rifle_aim_turn45_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: turning_right_45_degrees
+      name: rifle_aim_turn45_right
       takeName: mixamo.com
-      internalID: 1089690687874318652
+      internalID: 577430621813864820
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -52,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

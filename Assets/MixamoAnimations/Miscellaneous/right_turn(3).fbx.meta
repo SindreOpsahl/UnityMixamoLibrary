@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5907449824731787535
     second: right_turn(3)
+  - first:
+      74: 9137079412797781230
+    second: right_turn(3)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: right_turn(3)
       takeName: mixamo.com
-      internalID: -5907449824731787535
+      internalID: 9137079412797781230
       firstFrame: 0
       lastFrame: 32
       wrapMode: 0

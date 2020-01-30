@@ -12,6 +12,9 @@ ModelImporter:
   - first:
       74: 712524915619237072
     second: crouch_rapid_fire
+  - first:
+      74: -396094557167790958
+    second: rifle_crouch_fire_rapid
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_rapid_fire
+      name: rifle_crouch_fire_rapid
       takeName: mixamo.com
-      internalID: 712524915619237072
+      internalID: -396094557167790958
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -52,12 +55,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6513558189531712095
     second: cheering_while_sitting1
+  - first:
+      74: -793014622859904069
+    second: cheering_while_sitting1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: cheering_while_sitting1
       takeName: mixamo.com
-      internalID: 6513558189531712095
+      internalID: -793014622859904069
       firstFrame: 0
       lastFrame: 62
       wrapMode: 0

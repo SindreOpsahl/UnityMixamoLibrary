@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7887935642592470430
     second: yelling
+  - first:
+      74: -1149999574097710744
+    second: angry_yelling
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: yelling
+      name: angry_yelling
       takeName: mixamo.com
-      internalID: 7887935642592470430
+      internalID: -1149999574097710744
       firstFrame: 0
       lastFrame: 235
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

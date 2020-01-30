@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2650081941025051671
     second: rasteira_1
+  - first:
+      74: -7208909155303508484
+    second: rasteira_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rasteira_1
       takeName: mixamo.com
-      internalID: 2650081941025051671
+      internalID: -7208909155303508484
       firstFrame: 0
       lastFrame: 56
       wrapMode: 0

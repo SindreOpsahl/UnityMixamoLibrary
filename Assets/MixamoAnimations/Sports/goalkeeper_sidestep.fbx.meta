@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8024137873326725336
     second: goalkeeper_sidestep
+  - first:
+      74: 6384908958242040676
+    second: goalkeeper_sidestep
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_sidestep
       takeName: mixamo.com
-      internalID: -8024137873326725336
+      internalID: 6384908958242040676
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0

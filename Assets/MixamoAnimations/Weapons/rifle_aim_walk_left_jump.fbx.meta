@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4666954859243241734
     second: left_strafing_jump
+  - first:
+      74: 2833701702838120250
+    second: rifle_aim_walk_left_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: left_strafing_jump
+      name: rifle_aim_walk_left_jump
       takeName: mixamo.com
-      internalID: -4666954859243241734
+      internalID: 2833701702838120250
       firstFrame: 0
       lastFrame: 102
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

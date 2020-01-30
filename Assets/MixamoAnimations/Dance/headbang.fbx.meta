@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8196894217457438152
     second: headbang
+  - first:
+      74: 7573468789866279354
+    second: headbang
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: headbang
       takeName: mixamo.com
-      internalID: 8196894217457438152
+      internalID: 7573468789866279354
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0

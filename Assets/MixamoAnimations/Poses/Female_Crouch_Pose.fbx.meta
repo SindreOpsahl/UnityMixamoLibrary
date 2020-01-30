@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8917885685876714715
     second: Female_Crouch_Pose
+  - first:
+      74: 3345620774988107547
+    second: Female_Crouch_Pose
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Female_Crouch_Pose
       takeName: mixamo.com
-      internalID: -8917885685876714715
+      internalID: 3345620774988107547
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

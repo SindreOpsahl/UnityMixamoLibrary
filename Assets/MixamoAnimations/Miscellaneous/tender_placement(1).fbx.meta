@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5288608375206999199
     second: tender_placement(1)
+  - first:
+      74: 8382081133396308216
+    second: tender_placement(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: tender_placement(1)
       takeName: mixamo.com
-      internalID: -5288608375206999199
+      internalID: 8382081133396308216
       firstFrame: 0
       lastFrame: 278
       wrapMode: 0

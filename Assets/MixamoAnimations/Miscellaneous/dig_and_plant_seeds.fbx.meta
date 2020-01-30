@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4199631179603244927
     second: dig_and_plant_seeds
+  - first:
+      74: -4339642846189229282
+    second: dig_and_plant_seeds
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dig_and_plant_seeds
       takeName: mixamo.com
-      internalID: -4199631179603244927
+      internalID: -4339642846189229282
       firstFrame: 0
       lastFrame: 165
       wrapMode: 0

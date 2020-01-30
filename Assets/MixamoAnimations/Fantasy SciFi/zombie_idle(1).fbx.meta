@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5454976338196279762
     second: zombie_idle(1)
+  - first:
+      74: 8911954177839369060
+    second: zombie_idle(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_idle(1)
       takeName: mixamo.com
-      internalID: 5454976338196279762
+      internalID: 8911954177839369060
       firstFrame: 0
       lastFrame: 130
       wrapMode: 0

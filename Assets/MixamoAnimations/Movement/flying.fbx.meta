@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3387807953527668366
     second: flying
+  - first:
+      74: -521047200002708497
+    second: flying
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flying
       takeName: mixamo.com
-      internalID: 3387807953527668366
+      internalID: -521047200002708497
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0
@@ -49,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

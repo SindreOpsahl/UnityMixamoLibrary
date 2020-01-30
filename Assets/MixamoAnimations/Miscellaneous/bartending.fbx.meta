@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2491036377049430270
     second: bartending
+  - first:
+      74: -7279527351215513165
+    second: bartending
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bartending
       takeName: mixamo.com
-      internalID: 2491036377049430270
+      internalID: -7279527351215513165
       firstFrame: 0
       lastFrame: 407
       wrapMode: 0

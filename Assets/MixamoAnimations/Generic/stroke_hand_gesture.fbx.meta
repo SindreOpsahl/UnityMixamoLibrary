@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 616856457437210762
     second: stroke_hand_gesture
+  - first:
+      74: 506312847319295171
+    second: stroke_hand_gesture
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stroke_hand_gesture
       takeName: mixamo.com
-      internalID: 616856457437210762
+      internalID: 506312847319295171
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

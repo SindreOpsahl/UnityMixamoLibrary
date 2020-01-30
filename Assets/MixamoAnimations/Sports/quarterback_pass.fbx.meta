@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2285254708653650022
     second: quarterback_pass
+  - first:
+      74: 5886382767300753480
+    second: quarterback_pass
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: quarterback_pass
       takeName: mixamo.com
-      internalID: 2285254708653650022
+      internalID: 5886382767300753480
       firstFrame: 0
       lastFrame: 230
       wrapMode: 0

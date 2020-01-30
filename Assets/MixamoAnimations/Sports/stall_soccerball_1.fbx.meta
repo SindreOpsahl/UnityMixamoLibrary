@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 711723464497673438
     second: stall_soccerball_1
+  - first:
+      74: -2406003038925494156
+    second: stall_soccerball_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stall_soccerball_1
       takeName: mixamo.com
-      internalID: 711723464497673438
+      internalID: -2406003038925494156
       firstFrame: 0
       lastFrame: 69
       wrapMode: 0

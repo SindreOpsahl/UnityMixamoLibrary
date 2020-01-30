@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2506069341987720085
     second: laying_idle(1)
+  - first:
+      74: -5508770251098957977
+    second: laying_idle(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_idle(1)
       takeName: mixamo.com
-      internalID: 2506069341987720085
+      internalID: -5508770251098957977
       firstFrame: 0
       lastFrame: 375
       wrapMode: 0

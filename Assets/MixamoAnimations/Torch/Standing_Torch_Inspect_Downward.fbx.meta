@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3333742686802599915
     second: Standing_Torch_Inspect_Downward
+  - first:
+      74: -1372001948732100782
+    second: Standing_Torch_Inspect_Downward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Inspect_Downward
       takeName: mixamo.com
-      internalID: -3333742686802599915
+      internalID: -1372001948732100782
       firstFrame: 0
       lastFrame: 197
       wrapMode: 0

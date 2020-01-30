@@ -12,6 +12,9 @@ ModelImporter:
   - first:
       74: -1342815607719534029
     second: climbing_down_ledge2
+  - first:
+      74: 7794727786342012300
+    second: ledge_step_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: climbing_down_ledge2
+      name: ledge_step_down
       takeName: mixamo.com
-      internalID: -1342815607719534029
+      internalID: 7794727786342012300
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0
@@ -54,13 +57,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
-      heightFromFeet: 1
+      heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

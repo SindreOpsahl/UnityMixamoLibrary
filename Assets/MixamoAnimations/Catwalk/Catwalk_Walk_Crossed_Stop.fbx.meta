@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3890571958924467369
     second: Catwalk_Walk_Crossed_Stop
+  - first:
+      74: 2512503827987027213
+    second: Catwalk_Walk_Crossed_Stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Walk_Crossed_Stop
       takeName: mixamo.com
-      internalID: -3890571958924467369
+      internalID: 2512503827987027213
       firstFrame: 0
       lastFrame: 44
       wrapMode: 0

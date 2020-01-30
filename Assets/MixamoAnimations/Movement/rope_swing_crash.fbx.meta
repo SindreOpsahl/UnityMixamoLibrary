@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2279296213049440189
     second: wall_crash
+  - first:
+      74: 9135177491815376440
+    second: rope_swing_crash
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: wall_crash
+      name: rope_swing_crash
       takeName: mixamo.com
-      internalID: 2279296213049440189
+      internalID: 9135177491815376440
       firstFrame: 0
       lastFrame: 74
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

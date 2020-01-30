@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7613586142710294996
     second: thriller_idle
+  - first:
+      74: 1124262184651695841
+    second: thriller_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: thriller_idle
       takeName: mixamo.com
-      internalID: 7613586142710294996
+      internalID: 1124262184651695841
       firstFrame: 0
       lastFrame: 130
       wrapMode: 0

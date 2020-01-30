@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4857744950836489760
     second: headbutt
+  - first:
+      74: -3462526534503188726
+    second: headbutt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: headbutt
       takeName: mixamo.com
-      internalID: 4857744950836489760
+      internalID: -3462526534503188726
       firstFrame: 0
       lastFrame: 63
       wrapMode: 0

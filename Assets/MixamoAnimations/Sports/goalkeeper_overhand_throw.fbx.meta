@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7378370406248225826
     second: goalkeeper_overhand_throw
+  - first:
+      74: -7142232969917165854
+    second: goalkeeper_overhand_throw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_overhand_throw
       takeName: mixamo.com
-      internalID: -7378370406248225826
+      internalID: -7142232969917165854
       firstFrame: 0
       lastFrame: 85
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5401284843527983957
     second: firing_rifle(3)
+  - first:
+      74: 1836453985317963377
+    second: rifle_crouch_walk_fire_burst
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: firing_rifle(3)
+      name: rifle_crouch_walk_fire_burst
       takeName: mixamo.com
-      internalID: -5401284843527983957
+      internalID: 1836453985317963377
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0
@@ -49,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

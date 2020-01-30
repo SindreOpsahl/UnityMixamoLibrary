@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1180732052752386866
     second: mutant_flexing_muscles
+  - first:
+      74: -4501421721568311781
+    second: mutant_flexing_muscles
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_flexing_muscles
       takeName: mixamo.com
-      internalID: 1180732052752386866
+      internalID: -4501421721568311781
       firstFrame: 0
       lastFrame: 140
       wrapMode: 0

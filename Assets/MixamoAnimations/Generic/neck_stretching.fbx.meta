@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7480306595272239083
     second: neck_stretching
+  - first:
+      74: -254159390424752600
+    second: neck_stretching
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: neck_stretching
       takeName: mixamo.com
-      internalID: -7480306595272239083
+      internalID: -254159390424752600
       firstFrame: 0
       lastFrame: 96
       wrapMode: 0

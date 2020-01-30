@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2893084719371691502
     second: Standing_Walk_Right
+  - first:
+      74: -5928958171810790547
+    second: Standing_Walk_Right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Walk_Right
       takeName: mixamo.com
-      internalID: 2893084719371691502
+      internalID: -5928958171810790547
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0

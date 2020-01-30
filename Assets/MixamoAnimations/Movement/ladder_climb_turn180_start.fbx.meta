@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5356469884455813308
     second: start_climbing_ladder
+  - first:
+      74: 1676486441656524638
+    second: ladder_climb_turn180_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: start_climbing_ladder
+      name: ladder_climb_turn180_start
       takeName: mixamo.com
-      internalID: 5356469884455813308
+      internalID: 1676486441656524638
       firstFrame: 0
       lastFrame: 61
       wrapMode: 0

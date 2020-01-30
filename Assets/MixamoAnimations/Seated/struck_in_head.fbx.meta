@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4949042505659118988
     second: struck_in_head
+  - first:
+      74: 3195819518292464005
+    second: struck_in_head
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: struck_in_head
       takeName: mixamo.com
-      internalID: 4949042505659118988
+      internalID: 3195819518292464005
       firstFrame: 0
       lastFrame: 179
       wrapMode: 0

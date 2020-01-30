@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 404267245634396521
     second: stand_to_cover
+  - first:
+      74: -8035450066054674407
+    second: cover_enter
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: stand_to_cover
+      name: cover_enter
       takeName: mixamo.com
-      internalID: 404267245634396521
+      internalID: -8035450066054674407
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

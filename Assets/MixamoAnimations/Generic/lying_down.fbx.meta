@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7803157371638459702
     second: lying_down
+  - first:
+      74: 4071035555401407534
+    second: lying_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: lying_down
       takeName: mixamo.com
-      internalID: 7803157371638459702
+      internalID: 4071035555401407534
       firstFrame: 0
       lastFrame: 172
       wrapMode: 0

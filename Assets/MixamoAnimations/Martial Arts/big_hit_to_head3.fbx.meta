@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7425876046359576045
     second: big_hit_to_head3
+  - first:
+      74: 4713371791757264215
+    second: big_hit_to_head3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: big_hit_to_head3
       takeName: mixamo.com
-      internalID: -7425876046359576045
+      internalID: 4713371791757264215
       firstFrame: 0
       lastFrame: 47
       wrapMode: 0

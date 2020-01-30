@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 697783762993719373
     second: chapa_giratoria
+  - first:
+      74: -7575686039460646409
+    second: chapa_giratoria
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: chapa_giratoria
       takeName: mixamo.com
-      internalID: 697783762993719373
+      internalID: -7575686039460646409
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

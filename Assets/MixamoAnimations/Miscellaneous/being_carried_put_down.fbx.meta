@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7223806949687527903
     second: being_carried_put_down
+  - first:
+      74: 599241280461418303
+    second: being_carried_put_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: being_carried_put_down
       takeName: mixamo.com
-      internalID: 7223806949687527903
+      internalID: 599241280461418303
       firstFrame: 0
       lastFrame: 305
       wrapMode: 0

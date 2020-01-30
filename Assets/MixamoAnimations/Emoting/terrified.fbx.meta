@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2296982607967688351
     second: terrified
+  - first:
+      74: 7350266706203380067
+    second: terrified
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: terrified
       takeName: mixamo.com
-      internalID: 2296982607967688351
+      internalID: 7350266706203380067
       firstFrame: 0
       lastFrame: 600
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

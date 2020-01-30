@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6196522711199997276
     second: sending_fax
+  - first:
+      74: 5940983020939316749
+    second: sending_fax
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sending_fax
       takeName: mixamo.com
-      internalID: 6196522711199997276
+      internalID: 5940983020939316749
       firstFrame: 0
       lastFrame: 644
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3738420355447131092
     second: standing_cheering
+  - first:
+      74: -1420199101616110163
+    second: standing_cheering
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_cheering
       takeName: mixamo.com
-      internalID: 3738420355447131092
+      internalID: -1420199101616110163
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0

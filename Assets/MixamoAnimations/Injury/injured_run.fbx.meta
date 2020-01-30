@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4346693304347137919
     second: injured_run
+  - first:
+      74: 1830438906957343361
+    second: injured_run
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: injured_run
       takeName: mixamo.com
-      internalID: -4346693304347137919
+      internalID: 1830438906957343361
       firstFrame: 0
       lastFrame: 19
       wrapMode: 0

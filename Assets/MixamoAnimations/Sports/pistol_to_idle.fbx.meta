@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -391682486636780756
     second: pistol_to_idle
+  - first:
+      74: 5095351297895135496
+    second: pistol_to_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pistol_to_idle
       takeName: mixamo.com
-      internalID: -391682486636780756
+      internalID: 5095351297895135496
       firstFrame: 0
       lastFrame: 51
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8640218600978633551
     second: taunt(2)
+  - first:
+      74: 337235664352964849
+    second: taunt(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: taunt(2)
       takeName: mixamo.com
-      internalID: -8640218600978633551
+      internalID: 337235664352964849
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

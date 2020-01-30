@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 950058150434925853
     second: breakdance_uprock_var_2
+  - first:
+      74: -1789203724324957231
+    second: breakdance_uprock_var_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_uprock_var_2
       takeName: mixamo.com
-      internalID: 950058150434925853
+      internalID: -1789203724324957231
       firstFrame: 0
       lastFrame: 160
       wrapMode: 0

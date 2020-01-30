@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 9003367255362507027
     second: breakdance_1990_3
+  - first:
+      74: 7039115070969833816
+    second: breakdance_1990_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_1990_3
       takeName: mixamo.com
-      internalID: 9003367255362507027
+      internalID: 7039115070969833816
       firstFrame: 0
       lastFrame: 105
       wrapMode: 0

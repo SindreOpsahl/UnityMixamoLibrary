@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6975435552196206333
     second: zombie_headbutt
+  - first:
+      74: 5779810958042574562
+    second: zombie_headbutt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_headbutt
       takeName: mixamo.com
-      internalID: 6975435552196206333
+      internalID: 5779810958042574562
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0

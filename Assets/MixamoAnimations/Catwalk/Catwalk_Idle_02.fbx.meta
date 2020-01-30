@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4885281444853398950
     second: Catwalk_Idle_02
+  - first:
+      74: -4416893737267620113
+    second: Catwalk_Idle_02
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Idle_02
       takeName: mixamo.com
-      internalID: 4885281444853398950
+      internalID: -4416893737267620113
       firstFrame: 0
       lastFrame: 190
       wrapMode: 0

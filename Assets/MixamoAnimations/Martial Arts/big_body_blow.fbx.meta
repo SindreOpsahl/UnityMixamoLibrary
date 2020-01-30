@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3098122681823621715
     second: big_body_blow
+  - first:
+      74: 1729657324871295533
+    second: big_body_blow
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: big_body_blow
       takeName: mixamo.com
-      internalID: 3098122681823621715
+      internalID: 1729657324871295533
       firstFrame: 0
       lastFrame: 77
       wrapMode: 0

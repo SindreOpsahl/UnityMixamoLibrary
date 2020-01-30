@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7597489995416006805
     second: sitting_talking(1)
+  - first:
+      74: -8205861447877480099
+    second: sitting_talking(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_talking(1)
       takeName: mixamo.com
-      internalID: 7597489995416006805
+      internalID: -8205861447877480099
       firstFrame: 0
       lastFrame: 1322
       wrapMode: 0

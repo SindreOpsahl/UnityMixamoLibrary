@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3338149458421347448
     second: big_stomach_hit
+  - first:
+      74: 6546471065782448842
+    second: big_stomach_hit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: big_stomach_hit
       takeName: mixamo.com
-      internalID: 3338149458421347448
+      internalID: 6546471065782448842
       firstFrame: 0
       lastFrame: 42
       wrapMode: 0

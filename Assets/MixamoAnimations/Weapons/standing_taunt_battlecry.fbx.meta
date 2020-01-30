@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1693177837902044414
     second: standing_taunt_battlecry
+  - first:
+      74: -5724955404427038272
+    second: standing_taunt_battlecry
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_taunt_battlecry
       takeName: mixamo.com
-      internalID: -1693177837902044414
+      internalID: -5724955404427038272
       firstFrame: 0
       lastFrame: 85
       wrapMode: 0

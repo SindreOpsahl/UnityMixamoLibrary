@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8178632430377796180
     second: hurricane_kick
+  - first:
+      74: -510582561120115019
+    second: hurricane_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hurricane_kick
       takeName: mixamo.com
-      internalID: -8178632430377796180
+      internalID: -510582561120115019
       firstFrame: 0
       lastFrame: 55
       wrapMode: 0

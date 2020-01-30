@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1031294490994320073
     second: draw_sword_2
+  - first:
+      74: 2442261833970909004
+    second: 1hand_unsheath_draw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: draw_sword_2
+      name: 1hand_unsheath_draw
       takeName: mixamo.com
-      internalID: 1031294490994320073
+      internalID: 2442261833970909004
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

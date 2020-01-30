@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3587902490104746532
     second: one_hand_sword_combo
+  - first:
+      74: 6574257982852318155
+    second: 1hand_attack_combo_heavy_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: one_hand_sword_combo
+      name: 1hand_attack_combo_heavy_1
       takeName: mixamo.com
-      internalID: -3587902490104746532
+      internalID: 6574257982852318155
       firstFrame: 0
       lastFrame: 136
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5407381398587236650
     second: having_a_meeting__male
+  - first:
+      74: -2690841491131850426
+    second: having_a_meeting__male
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: having_a_meeting__male
       takeName: mixamo.com
-      internalID: -5407381398587236650
+      internalID: -2690841491131850426
       firstFrame: 0
       lastFrame: 1400
       wrapMode: 0

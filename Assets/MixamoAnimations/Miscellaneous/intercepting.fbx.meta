@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3930599588452363519
     second: intercepting
+  - first:
+      74: -573289472956116360
+    second: intercepting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: intercepting
       takeName: mixamo.com
-      internalID: -3930599588452363519
+      internalID: -573289472956116360
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0

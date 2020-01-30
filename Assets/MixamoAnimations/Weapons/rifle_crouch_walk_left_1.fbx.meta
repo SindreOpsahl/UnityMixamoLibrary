@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1021669240432144084
     second: walk_crouching_left
+  - first:
+      74: 5714688433908165387
+    second: rifle_crouch_walk_left_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_crouching_left
+      name: rifle_crouch_walk_left_1
       takeName: mixamo.com
-      internalID: -1021669240432144084
+      internalID: 5714688433908165387
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

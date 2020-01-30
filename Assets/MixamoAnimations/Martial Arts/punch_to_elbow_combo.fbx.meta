@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3154127176886658739
     second: punch_to_elbow_combo
+  - first:
+      74: -3563441486530335503
+    second: punch_to_elbow_combo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: punch_to_elbow_combo
       takeName: mixamo.com
-      internalID: -3154127176886658739
+      internalID: -3563441486530335503
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0

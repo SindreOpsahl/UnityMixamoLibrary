@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1345836200672953347
     second: sitting_disbelief
+  - first:
+      74: -5046043702941277978
+    second: sitting_disbelief
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_disbelief
       takeName: mixamo.com
-      internalID: 1345836200672953347
+      internalID: -5046043702941277978
       firstFrame: 0
       lastFrame: 139
       wrapMode: 0

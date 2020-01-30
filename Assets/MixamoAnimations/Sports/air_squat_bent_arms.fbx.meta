@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4910552629660830700
     second: air_squat_bent_arms
+  - first:
+      74: -4052883671337069311
+    second: air_squat_bent_arms
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: air_squat_bent_arms
       takeName: mixamo.com
-      internalID: 4910552629660830700
+      internalID: -4052883671337069311
       firstFrame: 0
       lastFrame: 56
       wrapMode: 0

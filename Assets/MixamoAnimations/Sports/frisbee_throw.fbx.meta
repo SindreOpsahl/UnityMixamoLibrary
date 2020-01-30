@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -79389596332708131
     second: frisbee_throw
+  - first:
+      74: 8008555712430429745
+    second: frisbee_throw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: frisbee_throw
       takeName: mixamo.com
-      internalID: -79389596332708131
+      internalID: 8008555712430429745
       firstFrame: 0
       lastFrame: 99
       wrapMode: 0

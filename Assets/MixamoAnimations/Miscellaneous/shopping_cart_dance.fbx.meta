@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6225860974437166328
     second: shopping_cart_dance
+  - first:
+      74: 7290763180011912085
+    second: shopping_cart_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shopping_cart_dance
       takeName: mixamo.com
-      internalID: -6225860974437166328
+      internalID: 7290763180011912085
       firstFrame: 0
       lastFrame: 478
       wrapMode: 0

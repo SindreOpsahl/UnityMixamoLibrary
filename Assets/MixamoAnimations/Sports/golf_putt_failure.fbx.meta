@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1092877782415868433
     second: golf_putt_failure
+  - first:
+      74: -2783223276744765369
+    second: golf_putt_failure
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_putt_failure
       takeName: mixamo.com
-      internalID: 1092877782415868433
+      internalID: -2783223276744765369
       firstFrame: 0
       lastFrame: 304
       wrapMode: 0

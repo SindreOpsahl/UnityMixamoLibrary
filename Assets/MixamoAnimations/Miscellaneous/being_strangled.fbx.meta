@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4458494560015716438
     second: being_strangled
+  - first:
+      74: 3809337831981977492
+    second: being_strangled
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: being_strangled
       takeName: mixamo.com
-      internalID: 4458494560015716438
+      internalID: 3809337831981977492
       firstFrame: 0
       lastFrame: 528
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2074668280283157717
     second: meia_lua_de_compasso
+  - first:
+      74: 6429576847476640370
+    second: meia_lua_de_compasso
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: meia_lua_de_compasso
       takeName: mixamo.com
-      internalID: -2074668280283157717
+      internalID: 6429576847476640370
       firstFrame: 0
       lastFrame: 52
       wrapMode: 0

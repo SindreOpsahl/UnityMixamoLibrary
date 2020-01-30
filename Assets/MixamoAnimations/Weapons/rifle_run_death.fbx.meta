@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 361132147681217112
     second: rifle_run_to_dying
+  - first:
+      74: 3796230365367945350
+    second: rifle_run_death
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,23 +41,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_run_to_dying
+      name: rifle_run_death
       takeName: mixamo.com
-      internalID: 361132147681217112
+      internalID: 3796230365367945350
       firstFrame: 0
       lastFrame: 74
       wrapMode: 0
-      orientationOffsetY: -4.9
+      orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

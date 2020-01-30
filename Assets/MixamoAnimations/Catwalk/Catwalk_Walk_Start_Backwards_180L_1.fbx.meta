@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -772454689791664093
     second: Catwalk_Walk_Start_Backwards_180L_1
+  - first:
+      74: 8924281869512344728
+    second: Catwalk_Walk_Start_Backwards_180L_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Walk_Start_Backwards_180L_1
       takeName: mixamo.com
-      internalID: -772454689791664093
+      internalID: 8924281869512344728
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0

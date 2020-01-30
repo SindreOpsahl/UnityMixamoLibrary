@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2244434283209849425
     second: standing_greeting
+  - first:
+      74: 7017562262387673881
+    second: greeting_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: standing_greeting
+      name: greeting_2
       takeName: mixamo.com
-      internalID: -2244434283209849425
+      internalID: 7017562262387673881
       firstFrame: 0
       lastFrame: 153
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

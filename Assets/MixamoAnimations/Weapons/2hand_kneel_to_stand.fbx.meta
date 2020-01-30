@@ -12,6 +12,9 @@ ModelImporter:
   - first:
       74: -3705182074192034587
     second: crouch_to_stand_sword
+  - first:
+      74: 6303788491155797004
+    second: 2hand_kneel_to_stand
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_to_stand_sword
+      name: 2hand_kneel_to_stand
       takeName: mixamo.com
-      internalID: -3705182074192034587
+      internalID: 6303788491155797004
       firstFrame: 0
       lastFrame: 100
       wrapMode: 0
@@ -54,10 +57,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

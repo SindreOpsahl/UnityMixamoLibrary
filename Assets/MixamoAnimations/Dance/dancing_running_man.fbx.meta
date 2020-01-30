@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4413967695576942352
     second: dancing_running_man
+  - first:
+      74: 864946233680421668
+    second: dancing_running_man
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dancing_running_man
       takeName: mixamo.com
-      internalID: 4413967695576942352
+      internalID: 864946233680421668
       firstFrame: 0
       lastFrame: 325
       wrapMode: 0

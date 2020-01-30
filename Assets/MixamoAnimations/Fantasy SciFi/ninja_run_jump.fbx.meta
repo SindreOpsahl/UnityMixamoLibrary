@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2213912418550658791
     second: jump_1
+  - first:
+      74: 7704608573750216342
+    second: ninja_run_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jump_1
+      name: ninja_run_jump
       takeName: mixamo.com
-      internalID: -2213912418550658791
+      internalID: 7704608573750216342
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0

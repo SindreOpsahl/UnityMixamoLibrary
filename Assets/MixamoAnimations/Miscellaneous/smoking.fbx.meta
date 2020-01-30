@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 522930498102713803
     second: smoking
+  - first:
+      74: -5450741958356785794
+    second: smoking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: smoking
       takeName: mixamo.com
-      internalID: 522930498102713803
+      internalID: -5450741958356785794
       firstFrame: 0
       lastFrame: 537
       wrapMode: 0

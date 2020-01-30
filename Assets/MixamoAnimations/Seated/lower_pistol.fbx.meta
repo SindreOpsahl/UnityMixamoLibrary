@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4497825075633752534
     second: lower_pistol
+  - first:
+      74: -6687521663057955343
+    second: lower_pistol
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: lower_pistol
       takeName: mixamo.com
-      internalID: -4497825075633752534
+      internalID: -6687521663057955343
       firstFrame: 0
       lastFrame: 161
       wrapMode: 0

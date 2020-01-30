@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2941156616509030045
     second: superhuman_choke_lift
+  - first:
+      74: 9194535976745737724
+    second: superhuman_choke_lift
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: superhuman_choke_lift
       takeName: mixamo.com
-      internalID: 2941156616509030045
+      internalID: 9194535976745737724
       firstFrame: 0
       lastFrame: 191
       wrapMode: 0

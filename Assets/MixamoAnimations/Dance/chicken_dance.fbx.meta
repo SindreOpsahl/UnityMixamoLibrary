@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -964289994779786044
     second: chicken_dance
+  - first:
+      74: 6634113634012961070
+    second: chicken_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: chicken_dance
       takeName: mixamo.com
-      internalID: -964289994779786044
+      internalID: 6634113634012961070
       firstFrame: 0
       lastFrame: 143
       wrapMode: 0

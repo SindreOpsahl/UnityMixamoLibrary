@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -382988959071350888
     second: strike_foward_jog
+  - first:
+      74: -182499112793998719
+    second: strike_foward_jog
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: strike_foward_jog
       takeName: mixamo.com
-      internalID: -382988959071350888
+      internalID: -182499112793998719
       firstFrame: 0
       lastFrame: 39
       wrapMode: 0

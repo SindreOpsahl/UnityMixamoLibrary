@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4963191868792562958
     second: paddling
+  - first:
+      74: 4751817464382029771
+    second: paddling
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: paddling
       takeName: mixamo.com
-      internalID: 4963191868792562958
+      internalID: 4751817464382029771
       firstFrame: 0
       lastFrame: 217
       wrapMode: 0

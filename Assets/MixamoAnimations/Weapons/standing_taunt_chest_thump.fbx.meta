@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7112170248524247693
     second: standing_taunt_chest_thump
+  - first:
+      74: -4781578593118377580
+    second: standing_taunt_chest_thump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_taunt_chest_thump
       takeName: mixamo.com
-      internalID: 7112170248524247693
+      internalID: -4781578593118377580
       firstFrame: 0
       lastFrame: 85
       wrapMode: 0

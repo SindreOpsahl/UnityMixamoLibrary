@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2789670922463795572
     second: soccer_chip
+  - first:
+      74: -4326663226167361316
+    second: soccer_chip
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: soccer_chip
       takeName: mixamo.com
-      internalID: 2789670922463795572
+      internalID: -4326663226167361316
       firstFrame: 0
       lastFrame: 50
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7251620244970436778
     second: zombie_scratch_idle
+  - first:
+      74: 8279844648979139383
+    second: zombie_scratch_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_scratch_idle
       takeName: mixamo.com
-      internalID: 7251620244970436778
+      internalID: 8279844648979139383
       firstFrame: 0
       lastFrame: 141
       wrapMode: 0

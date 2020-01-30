@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 362821513533727565
     second: hostage_situation_idle___villain
+  - first:
+      74: -1621447297248245006
+    second: hostage_situation_idle___villain
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hostage_situation_idle___villain
       takeName: mixamo.com
-      internalID: 362821513533727565
+      internalID: -1621447297248245006
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0

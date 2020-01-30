@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6022249472840791079
     second: mutant_roaring
+  - first:
+      74: 7691365812045070301
+    second: mutant_roaring
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_roaring
       takeName: mixamo.com
-      internalID: -6022249472840791079
+      internalID: 7691365812045070301
       firstFrame: 0
       lastFrame: 162
       wrapMode: 0

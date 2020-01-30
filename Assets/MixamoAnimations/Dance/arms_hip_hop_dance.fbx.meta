@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7362074356658484938
     second: arms_hip_hop_dance
+  - first:
+      74: -8200231188963512113
+    second: arms_hip_hop_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: arms_hip_hop_dance
       takeName: mixamo.com
-      internalID: 7362074356658484938
+      internalID: -8200231188963512113
       firstFrame: 0
       lastFrame: 659
       wrapMode: 0

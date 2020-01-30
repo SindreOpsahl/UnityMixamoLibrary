@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8786587970190653088
     second: using_an_inhaler
+  - first:
+      74: -7341552830723116295
+    second: using_an_inhaler
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: using_an_inhaler
       takeName: mixamo.com
-      internalID: -8786587970190653088
+      internalID: -7341552830723116295
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0

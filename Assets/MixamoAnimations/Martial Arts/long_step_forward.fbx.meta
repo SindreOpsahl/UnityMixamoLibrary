@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2869725997889970682
     second: long_step_forward
+  - first:
+      74: -7037331068338856471
+    second: long_step_forward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: long_step_forward
       takeName: mixamo.com
-      internalID: -2869725997889970682
+      internalID: -7037331068338856471
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0

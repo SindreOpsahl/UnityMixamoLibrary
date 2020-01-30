@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5609230401943514629
     second: baseball_walk_out
+  - first:
+      74: 8977483856426632507
+    second: baseball_walk_out
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_walk_out
       takeName: mixamo.com
-      internalID: 5609230401943514629
+      internalID: 8977483856426632507
       firstFrame: 0
       lastFrame: 120
       wrapMode: 0

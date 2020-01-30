@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3437462258204596022
     second: walk_backwards_stop
+  - first:
+      74: 8985547577525876631
+    second: rifle_aim_walk_back_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_backwards_stop
+      name: rifle_aim_walk_back_stop
       takeName: mixamo.com
-      internalID: -3437462258204596022
+      internalID: 8985547577525876631
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

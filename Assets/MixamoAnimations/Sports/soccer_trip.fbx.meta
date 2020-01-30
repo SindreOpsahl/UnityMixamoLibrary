@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6911838189954189243
     second: soccer_trip
+  - first:
+      74: 7141639456377559032
+    second: soccer_trip
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: soccer_trip
       takeName: mixamo.com
-      internalID: -6911838189954189243
+      internalID: 7141639456377559032
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

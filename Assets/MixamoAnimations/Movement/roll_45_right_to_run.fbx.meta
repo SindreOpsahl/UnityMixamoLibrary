@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6462795589037074959
     second: running(3)
+  - first:
+      74: 5622577543339516984
+    second: roll_45_right_to_run
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: running(3)
+      name: roll_45_right_to_run
       takeName: mixamo.com
-      internalID: 6462795589037074959
+      internalID: 5622577543339516984
       firstFrame: 0
       lastFrame: 76
       wrapMode: 0
@@ -51,8 +54,8 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1

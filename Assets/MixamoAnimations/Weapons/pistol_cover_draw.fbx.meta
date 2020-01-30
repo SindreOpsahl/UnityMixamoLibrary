@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8069188345032227874
     second: hiding_grab
+  - first:
+      74: 7486456162526118067
+    second: pistol_cover_draw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: hiding_grab
+      name: pistol_cover_draw
       takeName: mixamo.com
-      internalID: -8069188345032227874
+      internalID: 7486456162526118067
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

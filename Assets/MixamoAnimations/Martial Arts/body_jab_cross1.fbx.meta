@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4863262225405767333
     second: body_jab_cross1
+  - first:
+      74: -6599386138164470834
+    second: body_jab_cross1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: body_jab_cross1
       takeName: mixamo.com
-      internalID: -4863262225405767333
+      internalID: -6599386138164470834
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0

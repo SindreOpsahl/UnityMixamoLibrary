@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2035793725594987359
     second: zombie_neck_bite
+  - first:
+      74: 4393960517421192984
+    second: zombie_neck_bite
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_neck_bite
       takeName: mixamo.com
-      internalID: -2035793725594987359
+      internalID: 4393960517421192984
       firstFrame: 0
       lastFrame: 125
       wrapMode: 0

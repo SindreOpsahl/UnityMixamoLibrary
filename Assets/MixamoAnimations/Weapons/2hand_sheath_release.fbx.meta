@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2913563412038822244
     second: sheath_a_great_sword_2
+  - first:
+      74: 7585063924315864624
+    second: 2hand_sheath_release
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sheath_a_great_sword_2
+      name: 2hand_sheath_release
       takeName: mixamo.com
-      internalID: 2913563412038822244
+      internalID: 7585063924315864624
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

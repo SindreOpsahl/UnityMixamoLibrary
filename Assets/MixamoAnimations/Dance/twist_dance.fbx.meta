@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7087186599895445810
     second: twist_dance
+  - first:
+      74: -7002471977656539396
+    second: twist_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: twist_dance
       takeName: mixamo.com
-      internalID: 7087186599895445810
+      internalID: -7002471977656539396
       firstFrame: 0
       lastFrame: 283
       wrapMode: 0

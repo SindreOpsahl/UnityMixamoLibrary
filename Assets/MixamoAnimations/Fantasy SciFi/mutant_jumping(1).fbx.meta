@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5211391003011430370
     second: mutant_jumping(1)
+  - first:
+      74: -7075922394632948043
+    second: mutant_jumping(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_jumping(1)
       takeName: mixamo.com
-      internalID: -5211391003011430370
+      internalID: -7075922394632948043
       firstFrame: 0
       lastFrame: 95
       wrapMode: 0

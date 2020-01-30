@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7234492413271379105
     second: threatening
+  - first:
+      74: 8131699146369119237
+    second: threatening
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: threatening
       takeName: mixamo.com
-      internalID: -7234492413271379105
+      internalID: 8131699146369119237
       firstFrame: 0
       lastFrame: 132
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5936220288718056584
     second: golf_bad_shot
+  - first:
+      74: -7402378539463173079
+    second: golf_bad_shot
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_bad_shot
       takeName: mixamo.com
-      internalID: 5936220288718056584
+      internalID: -7402378539463173079
       firstFrame: 0
       lastFrame: 400
       wrapMode: 0

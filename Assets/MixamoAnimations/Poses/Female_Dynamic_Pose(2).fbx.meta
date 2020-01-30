@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6635170588510398204
     second: Female_Dynamic_Pose(2)
+  - first:
+      74: -2388953467990762124
+    second: Female_Dynamic_Pose(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Female_Dynamic_Pose(2)
       takeName: mixamo.com
-      internalID: -6635170588510398204
+      internalID: -2388953467990762124
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

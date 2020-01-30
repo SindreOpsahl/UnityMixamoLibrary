@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -9217413105067803964
     second: reaction
+  - first:
+      74: -5083365135526956132
+    second: reaction
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: reaction
       takeName: mixamo.com
-      internalID: -9217413105067803964
+      internalID: -5083365135526956132
       firstFrame: 0
       lastFrame: 55
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3825863698243756910
     second: box_walk_arc
+  - first:
+      74: 7745277635271887827
+    second: carry_2hand_box_walk_arc_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: box_walk_arc
+      name: carry_2hand_box_walk_arc_left
       takeName: mixamo.com
-      internalID: -3825863698243756910
+      internalID: 7745277635271887827
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0

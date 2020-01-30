@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6770326252117904270
     second: standing_melee_combo_attack_ver._1
+  - first:
+      74: 8563150781990840514
+    second: 1hand_attack_combo_heavy_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: standing_melee_combo_attack_ver._1
+      name: 1hand_attack_combo_heavy_2
       takeName: mixamo.com
-      internalID: -6770326252117904270
+      internalID: 8563150781990840514
       firstFrame: 0
       lastFrame: 140
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

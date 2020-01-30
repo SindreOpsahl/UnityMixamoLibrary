@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1806091930506295859
     second: Unarmed_Grab_Torch_From_Floor
+  - first:
+      74: 4402741647914169066
+    second: Unarmed_Grab_Torch_From_Floor
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Unarmed_Grab_Torch_From_Floor
       takeName: mixamo.com
-      internalID: -1806091930506295859
+      internalID: 4402741647914169066
       firstFrame: 0
       lastFrame: 115
       wrapMode: 0

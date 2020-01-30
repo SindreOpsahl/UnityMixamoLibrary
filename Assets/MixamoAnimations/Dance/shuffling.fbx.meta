@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2972556122162214623
     second: shuffling
+  - first:
+      74: 990000893148810586
+    second: shuffling
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shuffling
       takeName: mixamo.com
-      internalID: 2972556122162214623
+      internalID: 990000893148810586
       firstFrame: 0
       lastFrame: 225
       wrapMode: 0

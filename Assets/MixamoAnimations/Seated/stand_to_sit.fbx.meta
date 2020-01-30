@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4510315888200643953
     second: stand_to_sit
+  - first:
+      74: 7770620496119088939
+    second: stand_to_sit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stand_to_sit
       takeName: mixamo.com
-      internalID: 4510315888200643953
+      internalID: 7770620496119088939
       firstFrame: 0
       lastFrame: 67
       wrapMode: 0

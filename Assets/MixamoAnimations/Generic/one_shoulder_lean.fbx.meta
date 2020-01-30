@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2149097777078885669
     second: one_shoulder_lean
+  - first:
+      74: -7555305716902930600
+    second: one_shoulder_lean
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: one_shoulder_lean
       takeName: mixamo.com
-      internalID: 2149097777078885669
+      internalID: -7555305716902930600
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0

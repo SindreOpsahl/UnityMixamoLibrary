@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1476584467071753041
     second: laying_shaking_head
+  - first:
+      74: 61613002732192499
+    second: laying_shaking_head
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_shaking_head
       takeName: mixamo.com
-      internalID: -1476584467071753041
+      internalID: 61613002732192499
       firstFrame: 0
       lastFrame: 47
       wrapMode: 0

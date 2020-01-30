@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7154119603088297176
     second: gathering_objects
+  - first:
+      74: 511286699819564128
+    second: gathering_objects
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: gathering_objects
       takeName: mixamo.com
-      internalID: 7154119603088297176
+      internalID: 511286699819564128
       firstFrame: 0
       lastFrame: 179
       wrapMode: 0

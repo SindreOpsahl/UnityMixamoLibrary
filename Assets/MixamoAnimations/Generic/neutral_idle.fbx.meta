@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2875631157858164940
     second: neutral_idle
+  - first:
+      74: -2752981598466758779
+    second: neutral_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: neutral_idle
       takeName: mixamo.com
-      internalID: 2875631157858164940
+      internalID: -2752981598466758779
       firstFrame: 0
       lastFrame: 263
       wrapMode: 0

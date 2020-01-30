@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3020906466472662596
     second: crouch_walk_forward1
+  - first:
+      74: 5980105948258907117
+    second: crouch_walk_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_walk_forward1
+      name: crouch_walk_1
       takeName: mixamo.com
-      internalID: 3020906466472662596
+      internalID: 5980105948258907117
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

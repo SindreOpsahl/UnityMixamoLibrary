@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3083066976320012774
     second: right_strafe
+  - first:
+      74: -3254547428589933531
+    second: right_strafe
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: right_strafe
       takeName: mixamo.com
-      internalID: 3083066976320012774
+      internalID: -3254547428589933531
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0

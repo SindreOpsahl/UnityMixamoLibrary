@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6306391021420675010
     second: wave_hip_hop_dance(1)
+  - first:
+      74: 2452722228299736858
+    second: wave_hip_hop_dance(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wave_hip_hop_dance(1)
       takeName: mixamo.com
-      internalID: -6306391021420675010
+      internalID: 2452722228299736858
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

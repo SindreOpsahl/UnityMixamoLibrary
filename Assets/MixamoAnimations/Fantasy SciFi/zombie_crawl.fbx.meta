@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2674603429216013388
     second: zombie_crawl
+  - first:
+      74: 1576465018324210210
+    second: zombie_crawl
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_crawl
       takeName: mixamo.com
-      internalID: 2674603429216013388
+      internalID: 1576465018324210210
       firstFrame: 0
       lastFrame: 154
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7661100567536496964
     second: looking
+  - first:
+      74: 563580679175673416
+    second: looking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: looking
       takeName: mixamo.com
-      internalID: -7661100567536496964
+      internalID: 563580679175673416
       firstFrame: 0
       lastFrame: 146
       wrapMode: 0

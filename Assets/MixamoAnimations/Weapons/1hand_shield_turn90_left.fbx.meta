@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8666093510059821611
     second: sword_and_shield_turn(1)
+  - first:
+      74: 415341976156971975
+    second: 1hand_shield_turn90_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sword_and_shield_turn(1)
+      name: 1hand_shield_turn90_left
       takeName: mixamo.com
-      internalID: 8666093510059821611
+      internalID: 415341976156971975
       firstFrame: 0
       lastFrame: 28
       wrapMode: 0
@@ -52,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

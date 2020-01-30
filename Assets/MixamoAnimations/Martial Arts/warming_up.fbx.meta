@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -949792649609248506
     second: warming_up
+  - first:
+      74: -5019706152881614891
+    second: warming_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: warming_up
       takeName: mixamo.com
-      internalID: -949792649609248506
+      internalID: -5019706152881614891
       firstFrame: 0
       lastFrame: 189
       wrapMode: 0

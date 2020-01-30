@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1405046014153454236
     second: heavy_weapon_swing
+  - first:
+      74: -8132833140907758227
+    second: 2hand_attack_heavy
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: heavy_weapon_swing
+      name: 2hand_attack_heavy
       takeName: mixamo.com
-      internalID: 1405046014153454236
+      internalID: -8132833140907758227
       firstFrame: 0
       lastFrame: 156
       wrapMode: 0
@@ -51,12 +54,12 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

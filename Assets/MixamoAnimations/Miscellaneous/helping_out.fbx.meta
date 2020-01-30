@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8915127146045255727
     second: helping_out
+  - first:
+      74: -5709591366661080329
+    second: helping_out
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: helping_out
       takeName: mixamo.com
-      internalID: -8915127146045255727
+      internalID: -5709591366661080329
       firstFrame: 0
       lastFrame: 224
       wrapMode: 0

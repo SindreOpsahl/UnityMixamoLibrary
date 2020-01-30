@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7363072174878885642
     second: punching_bag
+  - first:
+      74: 8115069558885020142
+    second: punching_bag
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: punching_bag
       takeName: mixamo.com
-      internalID: -7363072174878885642
+      internalID: 8115069558885020142
       firstFrame: 0
       lastFrame: 97
       wrapMode: 0

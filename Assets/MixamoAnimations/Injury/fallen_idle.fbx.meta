@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1512688767175299061
     second: fallen_idle
+  - first:
+      74: -1796674737229747188
+    second: fallen_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fallen_idle
       takeName: mixamo.com
-      internalID: 1512688767175299061
+      internalID: -1796674737229747188
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

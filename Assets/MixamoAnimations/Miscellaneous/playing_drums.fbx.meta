@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -46991328274749236
     second: playing_drums
+  - first:
+      74: 1338597329446331116
+    second: playing_drums
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: playing_drums
       takeName: mixamo.com
-      internalID: -46991328274749236
+      internalID: 1338597329446331116
       firstFrame: 0
       lastFrame: 141
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7675497248953318677
     second: gaming
+  - first:
+      74: 551596563588997824
+    second: gaming
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: gaming
       takeName: mixamo.com
-      internalID: 7675497248953318677
+      internalID: 551596563588997824
       firstFrame: 0
       lastFrame: 151
       wrapMode: 0

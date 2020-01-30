@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7464763792830911878
     second: female_peek_and_aim
+  - first:
+      74: 5951604623721530514
+    second: female_peek_and_aim
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: female_peek_and_aim
       takeName: mixamo.com
-      internalID: -7464763792830911878
+      internalID: 5951604623721530514
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0

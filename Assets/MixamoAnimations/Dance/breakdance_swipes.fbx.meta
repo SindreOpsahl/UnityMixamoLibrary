@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7304833824479023272
     second: breakdance_swipes
+  - first:
+      74: -3172690083044253247
+    second: breakdance_swipes
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_swipes
       takeName: mixamo.com
-      internalID: -7304833824479023272
+      internalID: -3172690083044253247
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

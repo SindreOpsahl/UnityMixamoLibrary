@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 9044502684621208213
     second: standing_dodge_backward
+  - first:
+      74: -3641778005124828198
+    second: standing_dodge_backward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_dodge_backward
       takeName: mixamo.com
-      internalID: 9044502684621208213
+      internalID: -3641778005124828198
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

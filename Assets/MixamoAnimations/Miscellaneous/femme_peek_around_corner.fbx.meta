@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1102060648541880928
     second: femme_peek_around_corner
+  - first:
+      74: -8140764254441899437
+    second: femme_peek_around_corner
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: femme_peek_around_corner
       takeName: mixamo.com
-      internalID: 1102060648541880928
+      internalID: -8140764254441899437
       firstFrame: 0
       lastFrame: 73
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3538319543298196200
     second: turning(1)
+  - first:
+      74: -5924733789889972628
+    second: rifle_aim_walk_arc_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: turning(1)
+      name: rifle_aim_walk_arc_right
       takeName: mixamo.com
-      internalID: -3538319543298196200
+      internalID: -5924733789889972628
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0
@@ -52,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

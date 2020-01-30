@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1381906392045472940
     second: moving_while_hanging
+  - first:
+      74: -3175010238831437683
+    second: hang_shimmy_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: moving_while_hanging
+      name: hang_shimmy_right
       takeName: mixamo.com
-      internalID: 1381906392045472940
+      internalID: -3175010238831437683
       firstFrame: 0
       lastFrame: 42
       wrapMode: 0
@@ -49,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

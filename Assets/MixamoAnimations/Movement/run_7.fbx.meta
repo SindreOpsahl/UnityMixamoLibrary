@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 9203088078722210960
     second: running(2)
+  - first:
+      74: 99387188949279172
+    second: run_7
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: running(2)
+      name: run_7
       takeName: mixamo.com
-      internalID: 9203088078722210960
+      internalID: 99387188949279172
       firstFrame: 0
       lastFrame: 21
       wrapMode: 0
@@ -49,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

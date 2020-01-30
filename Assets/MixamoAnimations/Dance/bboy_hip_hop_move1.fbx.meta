@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3987614814774477683
     second: bboy_hip_hop_move1
+  - first:
+      74: -8917284105279401502
+    second: bboy_hip_hop_move1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bboy_hip_hop_move1
       takeName: mixamo.com
-      internalID: -3987614814774477683
+      internalID: -8917284105279401502
       firstFrame: 0
       lastFrame: 66
       wrapMode: 0

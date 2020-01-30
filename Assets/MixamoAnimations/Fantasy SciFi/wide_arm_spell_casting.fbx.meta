@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6964733151645488031
     second: wide_arm_spell_casting
+  - first:
+      74: 4235136264802334597
+    second: wide_arm_spell_casting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wide_arm_spell_casting
       takeName: mixamo.com
-      internalID: 6964733151645488031
+      internalID: 4235136264802334597
       firstFrame: 0
       lastFrame: 106
       wrapMode: 0

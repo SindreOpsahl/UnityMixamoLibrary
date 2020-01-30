@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -259447957942846706
     second: livershot_knockdown
+  - first:
+      74: -914762935074744494
+    second: livershot_knockdown
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: livershot_knockdown
       takeName: mixamo.com
-      internalID: -259447957942846706
+      internalID: -914762935074744494
       firstFrame: 0
       lastFrame: 84
       wrapMode: 0

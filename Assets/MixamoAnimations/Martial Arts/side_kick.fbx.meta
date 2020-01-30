@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6321890550322394136
     second: side_kick
+  - first:
+      74: 7469271981853036476
+    second: side_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: side_kick
       takeName: mixamo.com
-      internalID: -6321890550322394136
+      internalID: 7469271981853036476
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0

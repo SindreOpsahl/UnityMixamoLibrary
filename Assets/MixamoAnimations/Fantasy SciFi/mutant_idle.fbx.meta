@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4898810382455087409
     second: mutant_idle
+  - first:
+      74: -2928379054381383008
+    second: mutant_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_idle
       takeName: mixamo.com
-      internalID: 4898810382455087409
+      internalID: -2928379054381383008
       firstFrame: 0
       lastFrame: 159
       wrapMode: 0

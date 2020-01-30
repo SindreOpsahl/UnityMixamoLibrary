@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -425599850499277359
     second: sprint_forward
+  - first:
+      74: 763135327289218085
+    second: rifle_sprint
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,23 +41,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sprint_forward
+      name: rifle_sprint
       takeName: mixamo.com
-      internalID: -425599850499277359
+      internalID: 763135327289218085
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
-      orientationOffsetY: -0.25
+      orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

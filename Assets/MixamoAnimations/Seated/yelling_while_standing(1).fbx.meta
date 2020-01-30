@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3073629078203303994
     second: yelling_while_standing(1)
+  - first:
+      74: -8496069161522556487
+    second: yelling_while_standing(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: yelling_while_standing(1)
       takeName: mixamo.com
-      internalID: -3073629078203303994
+      internalID: -8496069161522556487
       firstFrame: 0
       lastFrame: 121
       wrapMode: 0

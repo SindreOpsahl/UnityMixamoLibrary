@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6051355888290192832
     second: backward_walking_turn
+  - first:
+      74: 129545662787113261
+    second: walk_stagger_back_arc_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: backward_walking_turn
+      name: walk_stagger_back_arc_right
       takeName: mixamo.com
-      internalID: 6051355888290192832
+      internalID: 129545662787113261
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0
@@ -49,10 +52,10 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1

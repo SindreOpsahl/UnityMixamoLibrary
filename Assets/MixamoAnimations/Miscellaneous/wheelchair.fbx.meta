@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8728144746212202837
     second: wheelchair
+  - first:
+      74: 1566061230961170983
+    second: wheelchair
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wheelchair
       takeName: mixamo.com
-      internalID: 8728144746212202837
+      internalID: 1566061230961170983
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

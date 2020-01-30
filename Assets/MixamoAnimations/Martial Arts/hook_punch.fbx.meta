@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5138774597172568606
     second: hook_punch
+  - first:
+      74: 5896827205738049764
+    second: hook_punch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hook_punch
       takeName: mixamo.com
-      internalID: -5138774597172568606
+      internalID: 5896827205738049764
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

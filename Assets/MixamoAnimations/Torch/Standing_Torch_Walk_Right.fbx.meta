@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4771341902638133411
     second: Standing_Torch_Walk_Right
+  - first:
+      74: 1752596690669189031
+    second: Standing_Torch_Walk_Right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Walk_Right
       takeName: mixamo.com
-      internalID: -4771341902638133411
+      internalID: 1752596690669189031
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

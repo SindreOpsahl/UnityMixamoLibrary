@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7961202454660764898
     second: stroke_shrugging
+  - first:
+      74: 4841325290309975117
+    second: stroke_shrugging
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stroke_shrugging
       takeName: mixamo.com
-      internalID: -7961202454660764898
+      internalID: 4841325290309975117
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1520015588276999163
     second: cartwheel_to_roll
+  - first:
+      74: -7111084383650877872
+    second: cartwheel_to_roll
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: cartwheel_to_roll
       takeName: mixamo.com
-      internalID: 1520015588276999163
+      internalID: -7111084383650877872
       firstFrame: 0
       lastFrame: 120
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

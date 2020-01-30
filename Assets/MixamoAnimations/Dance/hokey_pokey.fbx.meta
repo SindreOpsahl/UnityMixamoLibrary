@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3267967214215970844
     second: hokey_pokey
+  - first:
+      74: -877147899773950067
+    second: hokey_pokey
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hokey_pokey
       takeName: mixamo.com
-      internalID: -3267967214215970844
+      internalID: -877147899773950067
       firstFrame: 0
       lastFrame: 350
       wrapMode: 0

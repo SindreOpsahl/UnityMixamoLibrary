@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 838706483061465547
     second: release_hostage___hostage
+  - first:
+      74: 5359159166428648970
+    second: release_hostage___hostage
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: release_hostage___hostage
       takeName: mixamo.com
-      internalID: 838706483061465547
+      internalID: 5359159166428648970
       firstFrame: 0
       lastFrame: 92
       wrapMode: 0

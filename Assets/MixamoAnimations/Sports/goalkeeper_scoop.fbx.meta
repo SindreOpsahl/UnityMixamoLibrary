@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4197644861653976806
     second: goalkeeper_scoop
+  - first:
+      74: -6230642145367136118
+    second: goalkeeper_scoop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_scoop
       takeName: mixamo.com
-      internalID: -4197644861653976806
+      internalID: -6230642145367136118
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0

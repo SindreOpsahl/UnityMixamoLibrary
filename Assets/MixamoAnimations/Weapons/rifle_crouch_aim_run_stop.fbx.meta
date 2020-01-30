@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8106787310524752070
     second: run_to_stop(2)
+  - first:
+      74: 988447739152933681
+    second: rifle_crouch_aim_run_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_to_stop(2)
+      name: rifle_crouch_aim_run_stop
       takeName: mixamo.com
-      internalID: -8106787310524752070
+      internalID: 988447739152933681
       firstFrame: 0
       lastFrame: 50
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

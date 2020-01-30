@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5848861752405448213
     second: knocked_out
+  - first:
+      74: 1338660566448187340
+    second: knocked_out
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: knocked_out
       takeName: mixamo.com
-      internalID: 5848861752405448213
+      internalID: 1338660566448187340
       firstFrame: 0
       lastFrame: 168
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3500633615559622684
     second: laying_seizure
+  - first:
+      74: 3650250534539340322
+    second: laying_seizure
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_seizure
       takeName: mixamo.com
-      internalID: 3500633615559622684
+      internalID: 3650250534539340322
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2743102654015899462
     second: Female_Dance_Pose(5)
+  - first:
+      74: -7193595363391103515
+    second: Female_Dance_Pose(5)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Female_Dance_Pose(5)
       takeName: mixamo.com
-      internalID: 2743102654015899462
+      internalID: -7193595363391103515
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

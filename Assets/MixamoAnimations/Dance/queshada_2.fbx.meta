@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -16483887308971631
     second: queshada_2
+  - first:
+      74: 2178361220980371823
+    second: queshada_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: queshada_2
       takeName: mixamo.com
-      internalID: -16483887308971631
+      internalID: 2178361220980371823
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0

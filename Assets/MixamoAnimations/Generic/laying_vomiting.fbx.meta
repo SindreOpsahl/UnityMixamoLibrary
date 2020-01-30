@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7580403902871410927
     second: laying_vomiting
+  - first:
+      74: 3273423122797944344
+    second: laying_vomiting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_vomiting
       takeName: mixamo.com
-      internalID: -7580403902871410927
+      internalID: 3273423122797944344
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

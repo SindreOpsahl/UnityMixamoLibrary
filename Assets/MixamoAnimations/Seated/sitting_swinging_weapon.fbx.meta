@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2158118504669533792
     second: sitting_swinging_weapon
+  - first:
+      74: 346480995066687494
+    second: sitting_swinging_weapon
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_swinging_weapon
       takeName: mixamo.com
-      internalID: 2158118504669533792
+      internalID: 346480995066687494
       firstFrame: 0
       lastFrame: 144
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7596781070584296312
     second: soccer_pass
+  - first:
+      74: -3938169988787798893
+    second: soccer_pass
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: soccer_pass
       takeName: mixamo.com
-      internalID: 7596781070584296312
+      internalID: -3938169988787798893
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

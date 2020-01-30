@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4096205577185426352
     second: baseball_strike
+  - first:
+      74: -6336066250366639331
+    second: baseball_strike
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_strike
       takeName: mixamo.com
-      internalID: -4096205577185426352
+      internalID: -6336066250366639331
       firstFrame: 0
       lastFrame: 208
       wrapMode: 0

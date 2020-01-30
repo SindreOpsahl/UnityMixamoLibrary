@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8616933796106382995
     second: freehang_climb
+  - first:
+      74: 2229979248847514752
+    second: hang_climb_up_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: freehang_climb
+      name: hang_climb_up_1
       takeName: mixamo.com
-      internalID: 8616933796106382995
+      internalID: 2229979248847514752
       firstFrame: 0
       lastFrame: 116
       wrapMode: 0
@@ -51,13 +54,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
-      heightFromFeet: 1
+      heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

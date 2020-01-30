@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1905505414440884774
     second: laying_moaning
+  - first:
+      74: -659368821809432138
+    second: laying_moaning
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_moaning
       takeName: mixamo.com
-      internalID: 1905505414440884774
+      internalID: -659368821809432138
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0

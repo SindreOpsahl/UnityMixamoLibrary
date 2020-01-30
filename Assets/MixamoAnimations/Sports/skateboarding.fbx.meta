@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7745698992005757630
     second: skateboarding
+  - first:
+      74: 5123182011568716308
+    second: skateboarding
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: skateboarding
       takeName: mixamo.com
-      internalID: -7745698992005757630
+      internalID: 5123182011568716308
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

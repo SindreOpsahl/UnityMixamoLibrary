@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7838724844334597050
     second: left_turn(2)
+  - first:
+      74: -7212843722090519280
+    second: rifle_aim_turn90_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: left_turn(2)
+      name: rifle_aim_turn90_left
       takeName: mixamo.com
-      internalID: 7838724844334597050
+      internalID: -7212843722090519280
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0
@@ -52,11 +55,11 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

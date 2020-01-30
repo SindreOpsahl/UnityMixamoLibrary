@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5457736480844389917
     second: ginga_variation_3
+  - first:
+      74: -6620821466161081886
+    second: ginga_variation_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ginga_variation_3
       takeName: mixamo.com
-      internalID: -5457736480844389917
+      internalID: -6620821466161081886
       firstFrame: 0
       lastFrame: 87
       wrapMode: 0

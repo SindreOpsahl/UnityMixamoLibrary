@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7176124207970330577
     second: baseball_catcher
+  - first:
+      74: -6819289979540171049
+    second: baseball_catcher
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_catcher
       takeName: mixamo.com
-      internalID: 7176124207970330577
+      internalID: -6819289979540171049
       firstFrame: 0
       lastFrame: 275
       wrapMode: 0

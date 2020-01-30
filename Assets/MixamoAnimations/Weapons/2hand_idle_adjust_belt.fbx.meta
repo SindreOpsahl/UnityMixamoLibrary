@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5594118807722484332
     second: great_sword_idle
+  - first:
+      74: 5926324771832061349
+    second: 2hand_idle_adjust_belt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: great_sword_idle
+      name: 2hand_idle_adjust_belt
       takeName: mixamo.com
-      internalID: -5594118807722484332
+      internalID: 5926324771832061349
       firstFrame: 0
       lastFrame: 110
       wrapMode: 0
@@ -51,9 +54,9 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

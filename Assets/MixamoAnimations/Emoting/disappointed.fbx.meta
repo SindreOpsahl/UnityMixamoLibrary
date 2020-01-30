@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5936652718658931137
     second: disappointed
+  - first:
+      74: -1969835579801546306
+    second: disappointed
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: disappointed
       takeName: mixamo.com
-      internalID: 5936652718658931137
+      internalID: -1969835579801546306
       firstFrame: 0
       lastFrame: 126
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

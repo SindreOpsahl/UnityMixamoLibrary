@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2054697603698327168
     second: sprint_to_wall_climb
+  - first:
+      74: -6516380574380709680
+    second: sprint_to_wall_climb
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sprint_to_wall_climb
       takeName: mixamo.com
-      internalID: 2054697603698327168
+      internalID: -6516380574380709680
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

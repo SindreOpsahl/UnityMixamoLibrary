@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2891996340352221677
     second: teeter
+  - first:
+      74: -350576278398074216
+    second: teeter
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: teeter
       takeName: mixamo.com
-      internalID: 2891996340352221677
+      internalID: -350576278398074216
       firstFrame: 0
       lastFrame: 145
       wrapMode: 0

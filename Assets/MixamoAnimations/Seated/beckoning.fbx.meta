@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1910136803678363327
     second: beckoning
+  - first:
+      74: 354861067351790701
+    second: beckoning
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: beckoning
       takeName: mixamo.com
-      internalID: -1910136803678363327
+      internalID: 354861067351790701
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0

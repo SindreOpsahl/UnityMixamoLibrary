@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3457372062505470482
     second: standing_1H_cast_spell_01
+  - first:
+      74: -7350911193120485338
+    second: standing_1H_cast_spell_01
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_1H_cast_spell_01
       takeName: mixamo.com
-      internalID: -3457372062505470482
+      internalID: -7350911193120485338
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0

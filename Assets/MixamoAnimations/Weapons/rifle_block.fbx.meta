@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4387997494738401191
     second: block_with_rifle
+  - first:
+      74: 4176474990823671512
+    second: rifle_block
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: block_with_rifle
+      name: rifle_block
       takeName: mixamo.com
-      internalID: -4387997494738401191
+      internalID: 4176474990823671512
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0
@@ -49,11 +52,11 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

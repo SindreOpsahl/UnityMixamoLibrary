@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2652163554937361250
     second: pistol_start
+  - first:
+      74: 5748640517655602561
+    second: pistol_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pistol_start
       takeName: mixamo.com
-      internalID: -2652163554937361250
+      internalID: 5748640517655602561
       firstFrame: 0
       lastFrame: 53
       wrapMode: 0

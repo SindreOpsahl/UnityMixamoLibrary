@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 9124782597942415584
     second: push_up_to_idle
+  - first:
+      74: -2475676919865450406
+    second: push_up_to_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: push_up_to_idle
       takeName: mixamo.com
-      internalID: 9124782597942415584
+      internalID: -2475676919865450406
       firstFrame: 0
       lastFrame: 93
       wrapMode: 0

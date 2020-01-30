@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 190453283132670203
     second: northern_soul_dance
+  - first:
+      74: -8388279200656121143
+    second: northern_soul_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: northern_soul_dance
       takeName: mixamo.com
-      internalID: 190453283132670203
+      internalID: -8388279200656121143
       firstFrame: 0
       lastFrame: 482
       wrapMode: 0

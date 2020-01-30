@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8439031824949593714
     second: knee_jabs_to_uppercut
+  - first:
+      74: 658241531482454329
+    second: knee_jabs_to_uppercut
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: knee_jabs_to_uppercut
       takeName: mixamo.com
-      internalID: -8439031824949593714
+      internalID: 658241531482454329
       firstFrame: 0
       lastFrame: 170
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1597977666004043233
     second: walking_backwards(1)
+  - first:
+      74: 4648523101216867665
+    second: walking_backwards(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: walking_backwards(1)
       takeName: mixamo.com
-      internalID: -1597977666004043233
+      internalID: 4648523101216867665
       firstFrame: 0
       lastFrame: 26
       wrapMode: 0

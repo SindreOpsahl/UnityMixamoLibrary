@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -415973373565652721
     second: zombie_biting(1)
+  - first:
+      74: 2731468313208161328
+    second: zombie_biting(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_biting(1)
       takeName: mixamo.com
-      internalID: -415973373565652721
+      internalID: 2731468313208161328
       firstFrame: 0
       lastFrame: 208
       wrapMode: 0

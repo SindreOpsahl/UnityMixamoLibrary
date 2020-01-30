@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4852588099062322229
     second: Unarmed_Equip_Torch_02
+  - first:
+      74: 3673106784056850210
+    second: Unarmed_Equip_Torch_02
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Unarmed_Equip_Torch_02
       takeName: mixamo.com
-      internalID: 4852588099062322229
+      internalID: 3673106784056850210
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

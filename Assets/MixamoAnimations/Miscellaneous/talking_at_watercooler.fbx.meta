@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8205317947384046207
     second: talking_at_watercooler
+  - first:
+      74: 958067934232288188
+    second: talking_at_watercooler
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: talking_at_watercooler
       takeName: mixamo.com
-      internalID: -8205317947384046207
+      internalID: 958067934232288188
       firstFrame: 0
       lastFrame: 1337
       wrapMode: 0

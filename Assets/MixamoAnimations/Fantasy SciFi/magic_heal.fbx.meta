@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8158746432405571501
     second: magic_heal
+  - first:
+      74: 4370066161174788011
+    second: magic_heal
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: magic_heal
       takeName: mixamo.com
-      internalID: 8158746432405571501
+      internalID: 4370066161174788011
       firstFrame: 0
       lastFrame: 80
       wrapMode: 0

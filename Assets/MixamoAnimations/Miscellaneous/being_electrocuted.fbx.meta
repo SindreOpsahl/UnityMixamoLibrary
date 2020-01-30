@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 9013366667108541337
     second: being_electrocuted
+  - first:
+      74: 7553977277741036807
+    second: being_electrocuted
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: being_electrocuted
       takeName: mixamo.com
-      internalID: 9013366667108541337
+      internalID: 7553977277741036807
       firstFrame: 0
       lastFrame: 242
       wrapMode: 0

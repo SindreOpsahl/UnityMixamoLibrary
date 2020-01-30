@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4320943142826348869
     second: mma_kick(2)
+  - first:
+      74: -5961439345993155044
+    second: mma_kick(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mma_kick(2)
       takeName: mixamo.com
-      internalID: -4320943142826348869
+      internalID: -5961439345993155044
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

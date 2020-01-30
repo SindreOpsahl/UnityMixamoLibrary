@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3956688312881167918
     second: zombie_stumbling
+  - first:
+      74: 7065541387848629591
+    second: zombie_stumbling
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_stumbling
       takeName: mixamo.com
-      internalID: 3956688312881167918
+      internalID: 7065541387848629591
       firstFrame: 0
       lastFrame: 148
       wrapMode: 0

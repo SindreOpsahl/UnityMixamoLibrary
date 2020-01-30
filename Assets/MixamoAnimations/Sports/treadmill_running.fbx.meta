@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5709149161485629939
     second: treadmill_running
+  - first:
+      74: -3063052446462607430
+    second: treadmill_running
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: treadmill_running
       takeName: mixamo.com
-      internalID: -5709149161485629939
+      internalID: -3063052446462607430
       firstFrame: 0
       lastFrame: 236
       wrapMode: 0

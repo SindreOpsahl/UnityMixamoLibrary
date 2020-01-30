@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5324341374593770530
     second: prone_firing_rifle
+  - first:
+      74: 1349784579693560666
+    second: rifle_prone_fire_burst
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: prone_firing_rifle
+      name: rifle_prone_fire_burst
       takeName: mixamo.com
-      internalID: -5324341374593770530
+      internalID: 1349784579693560666
       firstFrame: 0
       lastFrame: 13
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

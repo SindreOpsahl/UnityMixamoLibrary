@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2912724439975418665
     second: pick_up_item
+  - first:
+      74: 7076104163441559108
+    second: run_pick_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pick_up_item
+      name: run_pick_up
       takeName: mixamo.com
-      internalID: 2912724439975418665
+      internalID: 7076104163441559108
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0

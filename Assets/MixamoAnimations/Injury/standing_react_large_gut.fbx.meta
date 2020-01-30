@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5814624593763904982
     second: standing_react_large_gut
+  - first:
+      74: 7881109033319776669
+    second: standing_react_large_gut
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_react_large_gut
       takeName: mixamo.com
-      internalID: 5814624593763904982
+      internalID: 7881109033319776669
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

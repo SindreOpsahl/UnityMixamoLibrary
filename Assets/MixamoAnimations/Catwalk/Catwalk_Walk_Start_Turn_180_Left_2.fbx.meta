@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6323682537360538306
     second: Catwalk_Walk_Start_Turn_180_Left_2
+  - first:
+      74: 6560967316108070396
+    second: Catwalk_Walk_Start_Turn_180_Left_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Walk_Start_Turn_180_Left_2
       takeName: mixamo.com
-      internalID: -6323682537360538306
+      internalID: 6560967316108070396
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

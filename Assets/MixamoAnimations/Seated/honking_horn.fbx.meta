@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2060800467910762609
     second: honking_horn
+  - first:
+      74: 7097764252460320167
+    second: honking_horn
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: honking_horn
       takeName: mixamo.com
-      internalID: 2060800467910762609
+      internalID: 7097764252460320167
       firstFrame: 0
       lastFrame: 100
       wrapMode: 0

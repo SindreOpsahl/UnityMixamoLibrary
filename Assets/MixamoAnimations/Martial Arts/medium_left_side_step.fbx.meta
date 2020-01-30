@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6045434169456780691
     second: medium_left_side_step
+  - first:
+      74: -6505264142223898203
+    second: medium_left_side_step
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: medium_left_side_step
       takeName: mixamo.com
-      internalID: -6045434169456780691
+      internalID: -6505264142223898203
       firstFrame: 0
       lastFrame: 25
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6947527342745058378
     second: turn_to_knocked_unconscious
+  - first:
+      74: 5066318821238970683
+    second: turn_to_knocked_unconscious
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: turn_to_knocked_unconscious
       takeName: mixamo.com
-      internalID: 6947527342745058378
+      internalID: 5066318821238970683
       firstFrame: 0
       lastFrame: 138
       wrapMode: 0

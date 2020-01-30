@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2611299536667318000
     second: pain_gesture
+  - first:
+      74: -2127411118878537275
+    second: pain_gesture
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pain_gesture
       takeName: mixamo.com
-      internalID: -2611299536667318000
+      internalID: -2127411118878537275
       firstFrame: 0
       lastFrame: 53
       wrapMode: 0

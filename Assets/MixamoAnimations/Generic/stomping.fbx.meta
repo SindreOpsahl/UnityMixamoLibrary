@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 413590268313129656
     second: stomping
+  - first:
+      74: -5984342433792876511
+    second: stomping
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stomping
       takeName: mixamo.com
-      internalID: 413590268313129656
+      internalID: -5984342433792876511
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0

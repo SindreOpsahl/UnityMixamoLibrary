@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3649224233829801637
     second: stunned
+  - first:
+      74: -3722946232662768879
+    second: stunned
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stunned
       takeName: mixamo.com
-      internalID: -3649224233829801637
+      internalID: -3722946232662768879
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0

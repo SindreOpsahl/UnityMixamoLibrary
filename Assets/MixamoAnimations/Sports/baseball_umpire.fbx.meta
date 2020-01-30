@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6233086884821151915
     second: baseball_umpire
+  - first:
+      74: 7941925712352918055
+    second: baseball_umpire
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_umpire
       takeName: mixamo.com
-      internalID: -6233086884821151915
+      internalID: 7941925712352918055
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0

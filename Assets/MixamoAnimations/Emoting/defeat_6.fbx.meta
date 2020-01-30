@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1257585547641900243
     second: defeated
+  - first:
+      74: 6502967414878433543
+    second: defeat_6
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: defeated
+      name: defeat_6
       takeName: mixamo.com
-      internalID: 1257585547641900243
+      internalID: 6502967414878433543
       firstFrame: 0
       lastFrame: 202
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

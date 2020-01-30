@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1158628791913369930
     second: harvesting
+  - first:
+      74: -1988099790895699994
+    second: harvesting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: harvesting
       takeName: mixamo.com
-      internalID: -1158628791913369930
+      internalID: -1988099790895699994
       firstFrame: 0
       lastFrame: 72
       wrapMode: 0

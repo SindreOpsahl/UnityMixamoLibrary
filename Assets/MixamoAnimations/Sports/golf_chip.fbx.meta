@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -155799663197561660
     second: golf_chip
+  - first:
+      74: 7836559759329987115
+    second: golf_chip
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_chip
       takeName: mixamo.com
-      internalID: -155799663197561660
+      internalID: 7836559759329987115
       firstFrame: 0
       lastFrame: 58
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2558983051948237298
     second: rifle_turn(3)
+  - first:
+      74: -8912625042220383395
+    second: rifle_turn30_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_turn(3)
+      name: rifle_turn30_right
       takeName: mixamo.com
-      internalID: 2558983051948237298
+      internalID: -8912625042220383395
       firstFrame: 0
       lastFrame: 46
       wrapMode: 0
@@ -52,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

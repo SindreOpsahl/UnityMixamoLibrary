@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1191253145878588899
     second: breakdance_uprock_to_ground2
+  - first:
+      74: -8368515714696833918
+    second: breakdance_uprock_to_ground2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_uprock_to_ground2
       takeName: mixamo.com
-      internalID: -1191253145878588899
+      internalID: -8368515714696833918
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0

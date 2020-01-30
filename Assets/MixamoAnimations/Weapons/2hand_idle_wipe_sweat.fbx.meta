@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3338653202943092502
     second: great_sword_idle_2
+  - first:
+      74: 2241089710208342995
+    second: 2hand_idle_wipe_sweat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: great_sword_idle_2
+      name: 2hand_idle_wipe_sweat
       takeName: mixamo.com
-      internalID: 3338653202943092502
+      internalID: 2241089710208342995
       firstFrame: 0
       lastFrame: 113
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

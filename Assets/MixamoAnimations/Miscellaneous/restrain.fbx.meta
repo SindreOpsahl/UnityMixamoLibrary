@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4003391158582600090
     second: restrain
+  - first:
+      74: 6135378156961964427
+    second: restrain
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: restrain
       takeName: mixamo.com
-      internalID: 4003391158582600090
+      internalID: 6135378156961964427
       firstFrame: 0
       lastFrame: 227
       wrapMode: 0

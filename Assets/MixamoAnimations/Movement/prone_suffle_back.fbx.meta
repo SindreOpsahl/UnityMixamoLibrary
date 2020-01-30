@@ -12,6 +12,9 @@ ModelImporter:
   - first:
       74: 5334143612650364252
     second: crawling_backwards
+  - first:
+      74: 9165064459360532159
+    second: prone_suffle_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crawling_backwards
+      name: prone_suffle_back
       takeName: mixamo.com
-      internalID: 5334143612650364252
+      internalID: 9165064459360532159
       firstFrame: 0
       lastFrame: 62
       wrapMode: 0
@@ -54,10 +57,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

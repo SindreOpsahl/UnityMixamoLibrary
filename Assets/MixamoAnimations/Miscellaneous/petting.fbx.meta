@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7371382891506398719
     second: petting
+  - first:
+      74: -8820292770422886031
+    second: petting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: petting
       takeName: mixamo.com
-      internalID: 7371382891506398719
+      internalID: -8820292770422886031
       firstFrame: 0
       lastFrame: 168
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 803063329013352129
     second: swatting_bugs
+  - first:
+      74: 549216264146401743
+    second: swatting_bugs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: swatting_bugs
       takeName: mixamo.com
-      internalID: 803063329013352129
+      internalID: 549216264146401743
       firstFrame: 0
       lastFrame: 200
       wrapMode: 0

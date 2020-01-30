@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2780685172046687847
     second: ninja_idle(3)
+  - first:
+      74: -7797640671990131831
+    second: ninja_idle(3)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ninja_idle(3)
       takeName: mixamo.com
-      internalID: -2780685172046687847
+      internalID: -7797640671990131831
       firstFrame: 0
       lastFrame: 275
       wrapMode: 0

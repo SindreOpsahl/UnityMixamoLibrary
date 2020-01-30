@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5579541170660343159
     second: digging
+  - first:
+      74: -4021974563797566424
+    second: digging
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: digging
       takeName: mixamo.com
-      internalID: -5579541170660343159
+      internalID: -4021974563797566424
       firstFrame: 0
       lastFrame: 145
       wrapMode: 0

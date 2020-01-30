@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4707193059207765818
     second: falling_back_death(1)
+  - first:
+      74: 3047757539632668836
+    second: falling_back_death(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: falling_back_death(1)
       takeName: mixamo.com
-      internalID: 4707193059207765818
+      internalID: 3047757539632668836
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0

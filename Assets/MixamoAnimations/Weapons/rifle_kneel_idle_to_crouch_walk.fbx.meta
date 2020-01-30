@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6244679967139136250
     second: rifle_crouch_idle_to_walk
+  - first:
+      74: 663994475353199722
+    second: rifle_kneel_idle_to_crouch_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_idle_to_walk
+      name: rifle_kneel_idle_to_crouch_walk
       takeName: mixamo.com
-      internalID: 6244679967139136250
+      internalID: 663994475353199722
       firstFrame: 0
       lastFrame: 72
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

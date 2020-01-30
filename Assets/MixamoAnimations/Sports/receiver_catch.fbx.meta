@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6780476287615169491
     second: receiver_catch
+  - first:
+      74: -6741078686275798498
+    second: receiver_catch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: receiver_catch
       takeName: mixamo.com
-      internalID: -6780476287615169491
+      internalID: -6741078686275798498
       firstFrame: 0
       lastFrame: 104
       wrapMode: 0

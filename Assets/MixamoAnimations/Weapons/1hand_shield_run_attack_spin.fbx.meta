@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 4583454829707843687
     second: sword_and_shield_attack(2)
+  - first:
+      74: -4712353582499116095
+    second: 1hand_shield_run_attack_spin
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sword_and_shield_attack(2)
+      name: 1hand_shield_run_attack_spin
       takeName: mixamo.com
-      internalID: 4583454829707843687
+      internalID: -4712353582499116095
       firstFrame: 0
       lastFrame: 39
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

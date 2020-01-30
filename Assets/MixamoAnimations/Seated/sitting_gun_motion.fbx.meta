@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8806550479604128670
     second: sitting_gun_motion
+  - first:
+      74: -6968224058226114940
+    second: sitting_gun_motion
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_gun_motion
       takeName: mixamo.com
-      internalID: 8806550479604128670
+      internalID: -6968224058226114940
       firstFrame: 0
       lastFrame: 144
       wrapMode: 0

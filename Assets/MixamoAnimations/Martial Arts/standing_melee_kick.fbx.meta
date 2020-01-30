@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6366072158697919801
     second: standing_melee_kick
+  - first:
+      74: 8392534857109415536
+    second: standing_melee_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_melee_kick
       takeName: mixamo.com
-      internalID: -6366072158697919801
+      internalID: 8392534857109415536
       firstFrame: 0
       lastFrame: 43
       wrapMode: 0

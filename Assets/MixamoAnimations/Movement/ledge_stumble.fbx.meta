@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1242811350006975944
     second: edge_slip
+  - first:
+      74: 5171183228283719007
+    second: ledge_stumble
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: edge_slip
+      name: ledge_stumble
       takeName: mixamo.com
-      internalID: -1242811350006975944
+      internalID: 5171183228283719007
       firstFrame: 0
       lastFrame: 74
       wrapMode: 0
@@ -51,13 +54,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
-      heightFromFeet: 1
+      heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

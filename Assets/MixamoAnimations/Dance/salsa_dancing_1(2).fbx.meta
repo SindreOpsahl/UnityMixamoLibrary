@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8902377416111365498
     second: salsa_dancing_1(2)
+  - first:
+      74: 3272543601682618105
+    second: salsa_dancing_1(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: salsa_dancing_1(2)
       takeName: mixamo.com
-      internalID: -8902377416111365498
+      internalID: 3272543601682618105
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0

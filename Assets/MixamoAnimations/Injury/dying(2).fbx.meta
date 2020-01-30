@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2623966626211977203
     second: dying(2)
+  - first:
+      74: -6321879015352020158
+    second: dying(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dying(2)
       takeName: mixamo.com
-      internalID: -2623966626211977203
+      internalID: -6321879015352020158
       firstFrame: 0
       lastFrame: 132
       wrapMode: 0

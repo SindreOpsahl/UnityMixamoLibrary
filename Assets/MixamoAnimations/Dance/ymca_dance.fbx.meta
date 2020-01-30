@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5234229662656025724
     second: ymca_dance
+  - first:
+      74: -1099944759311811867
+    second: ymca_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ymca_dance
       takeName: mixamo.com
-      internalID: 5234229662656025724
+      internalID: -1099944759311811867
       firstFrame: 0
       lastFrame: 135
       wrapMode: 0

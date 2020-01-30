@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2314306988375539763
     second: falling(1)
+  - first:
+      74: 4284923686678634042
+    second: fall_flat_midair
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: falling(1)
+      name: fall_flat_midair
       takeName: mixamo.com
-      internalID: -2314306988375539763
+      internalID: 4284923686678634042
       firstFrame: 0
       lastFrame: 135
       wrapMode: 0
@@ -49,13 +52,13 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0

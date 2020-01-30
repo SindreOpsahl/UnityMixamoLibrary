@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8431160357462598865
     second: listening_to_music
+  - first:
+      74: 4745679026454990830
+    second: listening_to_music
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: listening_to_music
       takeName: mixamo.com
-      internalID: 8431160357462598865
+      internalID: 4745679026454990830
       firstFrame: 0
       lastFrame: 134
       wrapMode: 0

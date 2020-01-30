@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4202378626367323352
     second: right_strafe_walk
+  - first:
+      74: 8432558179770333844
+    second: right_strafe_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: right_strafe_walk
       takeName: mixamo.com
-      internalID: -4202378626367323352
+      internalID: 8432558179770333844
       firstFrame: 0
       lastFrame: 28
       wrapMode: 0

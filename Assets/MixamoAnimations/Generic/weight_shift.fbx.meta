@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -9085881258077285999
     second: weight_shift
+  - first:
+      74: 5205361307126179622
+    second: weight_shift
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: weight_shift
       takeName: mixamo.com
-      internalID: -9085881258077285999
+      internalID: 5205361307126179622
       firstFrame: 0
       lastFrame: 283
       wrapMode: 0

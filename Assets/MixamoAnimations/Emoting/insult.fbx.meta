@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2164285309723742362
     second: insult
+  - first:
+      74: 4938993944279451779
+    second: insult
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: insult
       takeName: mixamo.com
-      internalID: 2164285309723742362
+      internalID: 4938993944279451779
       firstFrame: 0
       lastFrame: 80
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

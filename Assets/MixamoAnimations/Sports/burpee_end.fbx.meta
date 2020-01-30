@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4964781774117205980
     second: burpee_end
+  - first:
+      74: 5055898113259142129
+    second: burpee_end
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: burpee_end
       takeName: mixamo.com
-      internalID: -4964781774117205980
+      internalID: 5055898113259142129
       firstFrame: 0
       lastFrame: 73
       wrapMode: 0

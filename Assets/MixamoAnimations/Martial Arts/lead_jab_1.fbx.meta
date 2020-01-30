@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7467198283750228732
     second: lead_jab_1
+  - first:
+      74: -6024991906755953167
+    second: lead_jab_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: lead_jab_1
       takeName: mixamo.com
-      internalID: -7467198283750228732
+      internalID: -6024991906755953167
       firstFrame: 0
       lastFrame: 40
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6376761847659824826
     second: bayonet_stab
+  - first:
+      74: -3225942573088485655
+    second: polearm_attack_stab
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: bayonet_stab
+      name: polearm_attack_stab
       takeName: mixamo.com
-      internalID: 6376761847659824826
+      internalID: -3225942573088485655
       firstFrame: 0
       lastFrame: 98
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

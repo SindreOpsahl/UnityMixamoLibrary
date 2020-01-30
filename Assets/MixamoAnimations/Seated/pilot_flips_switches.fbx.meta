@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3007405890508502325
     second: pilot_flips_switches
+  - first:
+      74: -121856325165673227
+    second: pilot_flips_switches
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pilot_flips_switches
       takeName: mixamo.com
-      internalID: -3007405890508502325
+      internalID: -121856325165673227
       firstFrame: 0
       lastFrame: 151
       wrapMode: 0

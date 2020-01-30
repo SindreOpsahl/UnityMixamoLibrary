@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8558202666654817312
     second: rifle_turn_and_kick
+  - first:
+      74: 2562674416948411013
+    second: rifle_turn_right_and_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_turn_and_kick
+      name: rifle_turn_right_and_kick
       takeName: mixamo.com
-      internalID: 8558202666654817312
+      internalID: 2562674416948411013
       firstFrame: 0
       lastFrame: 83
       wrapMode: 0
@@ -52,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

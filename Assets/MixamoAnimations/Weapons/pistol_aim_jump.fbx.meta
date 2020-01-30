@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8580028707110868887
     second: pistol_jump
+  - first:
+      74: 2768009674843025547
+    second: pistol_aim_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_jump
+      name: pistol_aim_jump
       takeName: mixamo.com
-      internalID: 8580028707110868887
+      internalID: 2768009674843025547
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

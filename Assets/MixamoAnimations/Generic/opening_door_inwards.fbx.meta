@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7001776907705133875
     second: opening_door_inwards
+  - first:
+      74: -1949393429485270701
+    second: opening_door_inwards
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: opening_door_inwards
       takeName: mixamo.com
-      internalID: -7001776907705133875
+      internalID: -1949393429485270701
       firstFrame: 0
       lastFrame: 191
       wrapMode: 0

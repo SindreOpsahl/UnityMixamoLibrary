@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7738312265845442535
     second: Standing_Torch_Jump_Running_To_Standing_Idle
+  - first:
+      74: 3899637925009866925
+    second: Standing_Torch_Jump_Running_To_Standing_Idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Jump_Running_To_Standing_Idle
       takeName: mixamo.com
-      internalID: -7738312265845442535
+      internalID: 3899637925009866925
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6168284570899078471
     second: shaking_hands_2
+  - first:
+      74: -6219305057167083385
+    second: shaking_hands_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shaking_hands_2
       takeName: mixamo.com
-      internalID: -6168284570899078471
+      internalID: -6219305057167083385
       firstFrame: 0
       lastFrame: 131
       wrapMode: 0

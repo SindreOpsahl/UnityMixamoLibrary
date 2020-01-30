@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7605830198552055428
     second: Male_Action_Pose(4)
+  - first:
+      74: -414233789099915574
+    second: Male_Action_Pose(4)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Male_Action_Pose(4)
       takeName: mixamo.com
-      internalID: -7605830198552055428
+      internalID: -414233789099915574
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

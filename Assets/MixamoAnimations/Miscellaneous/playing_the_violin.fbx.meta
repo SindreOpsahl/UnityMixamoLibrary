@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7098035586260075500
     second: playing_the_violin
+  - first:
+      74: 6959951326826323044
+    second: playing_the_violin
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: playing_the_violin
       takeName: mixamo.com
-      internalID: 7098035586260075500
+      internalID: 6959951326826323044
       firstFrame: 0
       lastFrame: 1215
       wrapMode: 0

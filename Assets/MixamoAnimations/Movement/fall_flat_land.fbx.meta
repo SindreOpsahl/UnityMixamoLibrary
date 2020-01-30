@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3653421124251719684
     second: falling_flat_impact
+  - first:
+      74: -4162636466391192522
+    second: fall_flat_land
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,24 +41,24 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: falling_flat_impact
+      name: fall_flat_land
       takeName: mixamo.com
-      internalID: -3653421124251719684
+      internalID: -4162636466391192522
       firstFrame: 0
       lastFrame: 47
       wrapMode: 0
       orientationOffsetY: 0
-      level: -0.12
+      level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
+      loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
-      keepOriginalPositionY: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0

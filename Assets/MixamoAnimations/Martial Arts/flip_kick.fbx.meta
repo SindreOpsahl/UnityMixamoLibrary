@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8418584568383523595
     second: flip_kick
+  - first:
+      74: 7843338007977499452
+    second: flip_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flip_kick
       takeName: mixamo.com
-      internalID: -8418584568383523595
+      internalID: 7843338007977499452
       firstFrame: 0
       lastFrame: 61
       wrapMode: 0

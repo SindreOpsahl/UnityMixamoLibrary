@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1824938067650542279
     second: patting
+  - first:
+      74: -7892687440143639597
+    second: patting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: patting
       takeName: mixamo.com
-      internalID: 1824938067650542279
+      internalID: -7892687440143639597
       firstFrame: 0
       lastFrame: 100
       wrapMode: 0

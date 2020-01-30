@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1907105756650509992
     second: Standing_Torch_Walk_Forward_Stop
+  - first:
+      74: -4408886463450609755
+    second: Standing_Torch_Walk_Forward_Stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Walk_Forward_Stop
       takeName: mixamo.com
-      internalID: 1907105756650509992
+      internalID: -4408886463450609755
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0

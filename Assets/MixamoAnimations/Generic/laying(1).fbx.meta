@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6146265418918826742
     second: laying(1)
+  - first:
+      74: -6732984041505658549
+    second: laying(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying(1)
       takeName: mixamo.com
-      internalID: 6146265418918826742
+      internalID: -6732984041505658549
       firstFrame: 0
       lastFrame: 95
       wrapMode: 0

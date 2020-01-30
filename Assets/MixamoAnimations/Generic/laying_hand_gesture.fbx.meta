@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8888842955014363531
     second: laying_hand_gesture
+  - first:
+      74: -486813820663983283
+    second: laying_hand_gesture
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_hand_gesture
       takeName: mixamo.com
-      internalID: 8888842955014363531
+      internalID: -486813820663983283
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0

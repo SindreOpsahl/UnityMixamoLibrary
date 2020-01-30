@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 3845592953623372504
     second: rummaging
+  - first:
+      74: -4362505415280608118
+    second: rummaging
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rummaging
       takeName: mixamo.com
-      internalID: 3845592953623372504
+      internalID: -4362505415280608118
       firstFrame: 0
       lastFrame: 145
       wrapMode: 0

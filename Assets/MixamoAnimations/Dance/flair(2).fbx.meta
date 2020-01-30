@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 6217019763195115414
     second: flair(2)
+  - first:
+      74: -6594692472276901386
+    second: flair(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flair(2)
       takeName: mixamo.com
-      internalID: 6217019763195115414
+      internalID: -6594692472276901386
       firstFrame: 0
       lastFrame: 74
       wrapMode: 0

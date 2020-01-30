@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -3345511204648741916
     second: inspecting
+  - first:
+      74: 4605720822408373767
+    second: rifle_aim_inspect_gun
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: inspecting
+      name: rifle_aim_inspect_gun
       takeName: mixamo.com
-      internalID: -3345511204648741916
+      internalID: 4605720822408373767
       firstFrame: 0
       lastFrame: 95
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2299191226821675239
     second: leg_sweep
+  - first:
+      74: -8371935121101219396
+    second: leg_sweep
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: leg_sweep
       takeName: mixamo.com
-      internalID: 2299191226821675239
+      internalID: -8371935121101219396
       firstFrame: 0
       lastFrame: 67
       wrapMode: 0

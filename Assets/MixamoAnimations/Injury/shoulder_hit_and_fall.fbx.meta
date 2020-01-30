@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 7959612552040775939
     second: shoulder_hit_and_fall
+  - first:
+      74: 3657372193858808488
+    second: shoulder_hit_and_fall
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shoulder_hit_and_fall
       takeName: mixamo.com
-      internalID: 7959612552040775939
+      internalID: 3657372193858808488
       firstFrame: 0
       lastFrame: 93
       wrapMode: 0

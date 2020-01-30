@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1239331064069791591
     second: goalkeeper_idle
+  - first:
+      74: 2952925791272463266
+    second: goalkeeper_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_idle
       takeName: mixamo.com
-      internalID: 1239331064069791591
+      internalID: 2952925791272463266
       firstFrame: 0
       lastFrame: 139
       wrapMode: 0

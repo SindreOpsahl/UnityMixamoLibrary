@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -8412059687919771578
     second: kettlebell_swing(1)
+  - first:
+      74: 3206675600817575905
+    second: kettlebell_swing(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kettlebell_swing(1)
       takeName: mixamo.com
-      internalID: -8412059687919771578
+      internalID: 3206675600817575905
       firstFrame: 0
       lastFrame: 175
       wrapMode: 0

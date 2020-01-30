@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2779971802988133742
     second: goalkeeper_catch(1)
+  - first:
+      74: 3248472144005780832
+    second: goalkeeper_catch(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_catch(1)
       takeName: mixamo.com
-      internalID: -2779971802988133742
+      internalID: 3248472144005780832
       firstFrame: 0
       lastFrame: 81
       wrapMode: 0

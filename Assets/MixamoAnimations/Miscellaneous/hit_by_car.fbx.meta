@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7231937493402426392
     second: hit_by_car
+  - first:
+      74: -6825728561833316995
+    second: hit_by_car
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hit_by_car
       takeName: mixamo.com
-      internalID: -7231937493402426392
+      internalID: -6825728561833316995
       firstFrame: 0
       lastFrame: 145
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -596813592627312964
     second: start_bicycle_sit_up
+  - first:
+      74: 1517472967548923430
+    second: start_bicycle_sit_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: start_bicycle_sit_up
       takeName: mixamo.com
-      internalID: -596813592627312964
+      internalID: 1517472967548923430
       firstFrame: 0
       lastFrame: 185
       wrapMode: 0

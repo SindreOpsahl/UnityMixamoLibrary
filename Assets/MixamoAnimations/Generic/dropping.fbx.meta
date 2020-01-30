@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -1846256039416903024
     second: dropping
+  - first:
+      74: -3409955041951408559
+    second: dropping
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dropping
       takeName: mixamo.com
-      internalID: -1846256039416903024
+      internalID: -3409955041951408559
       firstFrame: 0
       lastFrame: 134
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 2388544311711614026
     second: baseball_walk_in
+  - first:
+      74: -8460503402274001041
+    second: baseball_walk_in
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_walk_in
       takeName: mixamo.com
-      internalID: 2388544311711614026
+      internalID: -8460503402274001041
       firstFrame: 0
       lastFrame: 163
       wrapMode: 0

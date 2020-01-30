@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -6028188276807792473
     second: tonic_seizure
+  - first:
+      74: 6723526825340745690
+    second: tonic_seizure
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: tonic_seizure
       takeName: mixamo.com
-      internalID: -6028188276807792473
+      internalID: 6723526825340745690
       firstFrame: 0
       lastFrame: 241
       wrapMode: 0

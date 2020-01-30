@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5526404323721784240
     second: fishing_idle
+  - first:
+      74: 3426846798448984723
+    second: fishing_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fishing_idle
       takeName: mixamo.com
-      internalID: -5526404323721784240
+      internalID: 3426846798448984723
       firstFrame: 0
       lastFrame: 106
       wrapMode: 0

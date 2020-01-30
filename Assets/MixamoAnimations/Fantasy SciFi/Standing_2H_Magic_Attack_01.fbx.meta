@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 468830435085776818
     second: Standing_2H_Magic_Attack_01
+  - first:
+      74: -2348016486790021291
+    second: Standing_2H_Magic_Attack_01
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_2H_Magic_Attack_01
       takeName: mixamo.com
-      internalID: 468830435085776818
+      internalID: -2348016486790021291
       firstFrame: 0
       lastFrame: 81
       wrapMode: 0

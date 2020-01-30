@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -7771347520798722829
     second: box_idle
+  - first:
+      74: -4638859339638790016
+    second: carry_2hand_box_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: box_idle
+      name: carry_2hand_box_idle
       takeName: mixamo.com
-      internalID: -7771347520798722829
+      internalID: -4638859339638790016
       firstFrame: 0
       lastFrame: 189
       wrapMode: 0

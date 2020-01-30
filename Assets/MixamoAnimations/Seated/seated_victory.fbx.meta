@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1892239248611113967
     second: victory_1
+  - first:
+      74: -7412674572485932908
+    second: seated_victory
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: victory_1
+      name: seated_victory
       takeName: mixamo.com
-      internalID: 1892239248611113967
+      internalID: -7412674572485932908
       firstFrame: 0
       lastFrame: 183
       wrapMode: 0

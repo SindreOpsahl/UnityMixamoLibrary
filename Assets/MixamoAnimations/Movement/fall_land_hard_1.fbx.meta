@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2842568386689523826
     second: hard_landing
+  - first:
+      74: 4187903621635302084
+    second: fall_land_hard_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: hard_landing
+      name: fall_land_hard_1
       takeName: mixamo.com
-      internalID: -2842568386689523826
+      internalID: 4187903621635302084
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

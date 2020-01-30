@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -9064363216764605613
     second: fireball
+  - first:
+      74: -478440984697858372
+    second: fireball
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fireball
       takeName: mixamo.com
-      internalID: -9064363216764605613
+      internalID: -478440984697858372
       firstFrame: 0
       lastFrame: 101
       wrapMode: 0

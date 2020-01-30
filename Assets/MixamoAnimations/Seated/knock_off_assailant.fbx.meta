@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1575498638424411416
     second: knock_off_assailant
+  - first:
+      74: -8886685875980058184
+    second: knock_off_assailant
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: knock_off_assailant
       takeName: mixamo.com
-      internalID: 1575498638424411416
+      internalID: -8886685875980058184
       firstFrame: 0
       lastFrame: 83
       wrapMode: 0

@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 289486901904618249
     second: standing_melee_punch
+  - first:
+      74: -6738699879692067844
+    second: standing_melee_punch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_melee_punch
       takeName: mixamo.com
-      internalID: 289486901904618249
+      internalID: -6738699879692067844
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0

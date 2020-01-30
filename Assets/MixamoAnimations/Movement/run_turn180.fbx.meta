@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4338525377369813447
     second: running_turn_180
+  - first:
+      74: 6476631043593453699
+    second: run_turn180
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: running_turn_180
+      name: run_turn180
       takeName: mixamo.com
-      internalID: -4338525377369813447
+      internalID: 6476631043593453699
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0
@@ -52,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 1
+      loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 1
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

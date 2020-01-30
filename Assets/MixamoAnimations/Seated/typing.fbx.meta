@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -4573929319598212950
     second: typing
+  - first:
+      74: -4196750972599551826
+    second: typing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: typing
       takeName: mixamo.com
-      internalID: -4573929319598212950
+      internalID: -4196750972599551826
       firstFrame: 0
       lastFrame: 494
       wrapMode: 0

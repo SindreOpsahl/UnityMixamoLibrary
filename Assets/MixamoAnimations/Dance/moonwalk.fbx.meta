@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -2330582717560489057
     second: moonwalk
+  - first:
+      74: 5523731112632152466
+    second: moonwalk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: moonwalk
       takeName: mixamo.com
-      internalID: -2330582717560489057
+      internalID: 5523731112632152466
       firstFrame: 0
       lastFrame: 31
       wrapMode: 0

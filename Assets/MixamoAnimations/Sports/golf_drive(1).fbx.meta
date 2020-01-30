@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 1092379177726318397
     second: golf_drive(1)
+  - first:
+      74: 2165071438346756645
+    second: golf_drive(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_drive(1)
       takeName: mixamo.com
-      internalID: 1092379177726318397
+      internalID: 2165071438346756645
       firstFrame: 0
       lastFrame: 94
       wrapMode: 0

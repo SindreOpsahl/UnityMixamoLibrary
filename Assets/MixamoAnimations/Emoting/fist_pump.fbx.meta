@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: -5544208461896738847
     second: fist_pump
+  - first:
+      74: 7142494277267553220
+    second: fist_pump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fist_pump
       takeName: mixamo.com
-      internalID: -5544208461896738847
+      internalID: 7142494277267553220
       firstFrame: 0
       lastFrame: 114
       wrapMode: 0
@@ -51,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
