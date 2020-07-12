@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: ffcaee287bb9c5c4bb79d1c272551fb6
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: -8800379548774298966
     second: dwarf_idle
+  - first:
+      74: -2867262518614270938
+    second: dwarf_idle
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dwarf_idle
       takeName: mixamo.com
-      internalID: -8800379548774298966
+      internalID: -2867262518614270938
       firstFrame: 0
       lastFrame: 210
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -897,8 +899,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

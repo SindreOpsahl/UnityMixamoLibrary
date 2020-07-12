@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 351a68993aaf0fe488a241d0554152cf
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: -3077259880721877542
     second: run_strafing_jump
+  - first:
+      74: 8439493608135280549
+    second: rifle_aim_run_strafe_right_jump
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_strafing_jump
+      name: rifle_aim_run_strafe_right_jump
       takeName: mixamo.com
-      internalID: -3077259880721877542
+      internalID: 8439493608135280549
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -897,8 +899,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

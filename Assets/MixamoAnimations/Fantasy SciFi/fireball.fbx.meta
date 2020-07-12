@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: ba4c50984c950f64b909738994420326
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: -9064363216764605613
     second: fireball
+  - first:
+      74: -478440984697858372
+    second: fireball
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fireball
       takeName: mixamo.com
-      internalID: -9064363216764605613
+      internalID: -478440984697858372
       firstFrame: 0
       lastFrame: 101
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -897,8 +899,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: fc92bb2ea70cc5543a1ffd356dd7c12d
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -12,9 +12,12 @@ ModelImporter:
   - first:
       74: 7751049473805027334
     second: crouch_cover_to_cover
+  - first:
+      74: 2531095626222455204
+    second: cover_crouch_switch_left
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_cover_to_cover
+      name: cover_crouch_switch_left
       takeName: mixamo.com
-      internalID: 7751049473805027334
+      internalID: 2531095626222455204
       firstFrame: 0
       lastFrame: 47
       wrapMode: 0
@@ -107,7 +110,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -900,8 +902,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

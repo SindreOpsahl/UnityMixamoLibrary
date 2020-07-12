@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 6400093783f964d4a81f4e09000ac00b
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: -2218499612974217627
     second: roll_kicking
+  - first:
+      74: 4782467407696717907
+    second: roll_kicking
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: roll_kicking
       takeName: mixamo.com
-      internalID: -2218499612974217627
+      internalID: 4782467407696717907
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -897,8 +899,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

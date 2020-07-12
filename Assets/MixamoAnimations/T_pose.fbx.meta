@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: f5761de3eb913a44aa8c8a6dbcb3c8ac
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: 2370307770910101751
     second: T_pose
+  - first:
+      74: -3034042193338481443
+    second: T_pose
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: T_pose
       takeName: mixamo.com
-      internalID: 2370307770910101751
+      internalID: -3034042193338481443
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
     serializedVersion: 3
     human:
@@ -896,8 +898,10 @@ ModelImporter:
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

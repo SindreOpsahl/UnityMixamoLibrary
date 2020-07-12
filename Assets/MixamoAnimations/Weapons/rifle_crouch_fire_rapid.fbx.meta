@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 4d3f4728745700e40aa7ebe38d49bb7c
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -12,9 +12,12 @@ ModelImporter:
   - first:
       74: 712524915619237072
     second: crouch_rapid_fire
+  - first:
+      74: -396094557167790958
+    second: rifle_crouch_fire_rapid
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_rapid_fire
+      name: rifle_crouch_fire_rapid
       takeName: mixamo.com
-      internalID: 712524915619237072
+      internalID: -396094557167790958
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -107,7 +110,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -900,8 +902,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

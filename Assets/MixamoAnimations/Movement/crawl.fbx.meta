@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 8f95e66f74c0f9748b2d7a6b8e61ecfc
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -12,9 +12,12 @@ ModelImporter:
   - first:
       74: -2863815257411713105
     second: crawling
+  - first:
+      74: -7332522026633846041
+    second: crawl
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crawling
+      name: crawl
       takeName: mixamo.com
-      internalID: -2863815257411713105
+      internalID: -7332522026633846041
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0
@@ -107,7 +110,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -900,8 +902,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

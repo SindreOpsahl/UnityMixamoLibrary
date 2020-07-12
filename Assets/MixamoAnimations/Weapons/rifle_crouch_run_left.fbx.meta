@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 3f06ab55911aa894d98ddeae9424bbe7
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -12,9 +12,12 @@ ModelImporter:
   - first:
       74: 7249697736114888195
     second: crouch_strafe_run_left_rifle
+  - first:
+      74: -1844940364770188801
+    second: rifle_crouch_run_left
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -41,9 +44,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_strafe_run_left_rifle
+      name: rifle_crouch_run_left
       takeName: mixamo.com
-      internalID: 7249697736114888195
+      internalID: -1844940364770188801
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
@@ -107,7 +110,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -900,8 +902,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

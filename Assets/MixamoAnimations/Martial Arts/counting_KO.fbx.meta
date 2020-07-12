@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 1c1ec59393fcf114683a8c02c4151168
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -12,9 +12,12 @@ ModelImporter:
   - first:
       74: -8185906254466565675
     second: counting_KO
+  - first:
+      74: 7559595107355995911
+    second: counting_KO
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -43,7 +46,7 @@ ModelImporter:
     - serializedVersion: 16
       name: counting_KO
       takeName: mixamo.com
-      internalID: -8185906254466565675
+      internalID: 7559595107355995911
       firstFrame: 0
       lastFrame: 418
       wrapMode: 0
@@ -107,7 +110,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -900,8 +902,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

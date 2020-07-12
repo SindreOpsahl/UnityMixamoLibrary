@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: df550923d515b4b4c8d1f386f7fa5851
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: 5164100128498685315
     second: Catwalk_Idle_to_Walk_Forward_Crossed
+  - first:
+      74: -6790582630471361942
+    second: Catwalk_Idle_to_Walk_Forward_Crossed
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Idle_to_Walk_Forward_Crossed
       takeName: mixamo.com
-      internalID: 5164100128498685315
+      internalID: -6790582630471361942
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -897,8 +899,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

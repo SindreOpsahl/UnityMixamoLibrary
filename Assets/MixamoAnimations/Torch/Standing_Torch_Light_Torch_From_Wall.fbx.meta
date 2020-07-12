@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 0fbb475d2bf4c6f4f8414493343f7575
 ModelImporter:
-  serializedVersion: 26
+  serializedVersion: 19300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
@@ -9,9 +9,12 @@ ModelImporter:
   - first:
       74: -7910438966557519803
     second: Standing_Torch_Light_Torch_From_Wall
+  - first:
+      74: 5031210529405682827
+    second: Standing_Torch_Light_Torch_From_Wall
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -40,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Light_Torch_From_Wall
       takeName: mixamo.com
-      internalID: -7910438966557519803
+      internalID: 5031210529405682827
       firstFrame: 0
       lastFrame: 133
       wrapMode: 0
@@ -104,7 +107,6 @@ ModelImporter:
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
-  copyAvatar: 1
   humanDescription:
     serializedVersion: 3
     human:
@@ -897,8 +899,10 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f5761de3eb913a44aa8c8a6dbcb3c8ac,
     type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 
