@@ -15,6 +15,7 @@ public class MixamoManager : EditorWindow
     private static int x = 0;
     private static int y = 0;
     private static List<string> allFiles = new List<string>();
+
    
     [MenuItem("Window/Mixamo Manager")]
     static void ShowEditor()
@@ -60,7 +61,46 @@ public class MixamoManager : EditorWindow
  
         for (int i = 0; i < clipAnimations.Length; i++)
         {
+            //set clip name to same as file name
             clipAnimations[i].name = name;
+            clipAnimations[i].takeName = modelImporter.clipAnimations[i].takeName;
+
+            //clip length
+            clipAnimations[i].firstFrame = modelImporter.clipAnimations[i].firstFrame;
+            clipAnimations[i].lastFrame= modelImporter.clipAnimations[i].lastFrame;
+            
+            //loop settings
+            clipAnimations[i].loopTime = modelImporter.clipAnimations[i].loopTime;
+            clipAnimations[i].loopPose = modelImporter.clipAnimations[i].loopPose;
+            clipAnimations[i].cycleOffset = modelImporter.clipAnimations[i].cycleOffset;
+
+            //root motion settings
+            clipAnimations[i].lockRootRotation = modelImporter.clipAnimations[i].lockRootRotation;
+            clipAnimations[i].keepOriginalOrientation = modelImporter.clipAnimations[i].keepOriginalOrientation;
+            clipAnimations[i].rotationOffset = modelImporter.clipAnimations[i].rotationOffset;
+
+            clipAnimations[i].lockRootHeightY = modelImporter.clipAnimations[i].lockRootHeightY;
+            clipAnimations[i].keepOriginalPositionY = modelImporter.clipAnimations[i].keepOriginalPositionY;
+            clipAnimations[i].heightFromFeet = modelImporter.clipAnimations[i].heightFromFeet;
+            clipAnimations[i].heightOffset = modelImporter.clipAnimations[i].heightOffset;
+
+            clipAnimations[i].lockRootPositionXZ = modelImporter.clipAnimations[i].lockRootPositionXZ;
+            clipAnimations[i].keepOriginalPositionXZ = modelImporter.clipAnimations[i].keepOriginalPositionXZ;
+
+            //mirror setting
+            clipAnimations[i].mirror = modelImporter.clipAnimations[i].mirror;
+
+            //additive reference pose settings
+            clipAnimations[i].hasAdditiveReferencePose = modelImporter.clipAnimations[i].hasAdditiveReferencePose;
+            clipAnimations[i].additiveReferencePoseFrame = modelImporter.clipAnimations[i].additiveReferencePoseFrame;
+
+            //other settings
+            clipAnimations[i].curves = modelImporter.clipAnimations[i].curves;
+            clipAnimations[i].events = modelImporter.clipAnimations[i].events;
+            clipAnimations[i].maskSource = modelImporter.clipAnimations[i].maskSource;
+            clipAnimations[i].maskType= modelImporter.clipAnimations[i].maskType;
+            clipAnimations[i].wrapMode = modelImporter.clipAnimations[i].wrapMode;
+            
         }
        
         modelImporter.clipAnimations = clipAnimations;
@@ -79,7 +119,7 @@ public class MixamoManager : EditorWindow
  
     static void DirSearch()
     {
-        string info = Application.dataPath+ "/Mocap Animations/";
+        string info = UnityEditor.EditorUtility.SaveFolderPanel("Select folder", Application.dataPath, "") + "/";
         string[] fileInfo = Directory.GetFiles(info, "*.fbx", SearchOption.AllDirectories);
         foreach (string file in fileInfo)
         {
