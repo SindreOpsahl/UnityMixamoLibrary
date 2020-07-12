@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3586270092230041575
     second: sitting_rubbing_arm
-  - first:
-      74: -7222274347674623877
-    second: sitting_rubbing_arm
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_rubbing_arm
       takeName: mixamo.com
-      internalID: -7222274347674623877
+      internalID: 3586270092230041575
       firstFrame: 0
       lastFrame: 239
       wrapMode: 0

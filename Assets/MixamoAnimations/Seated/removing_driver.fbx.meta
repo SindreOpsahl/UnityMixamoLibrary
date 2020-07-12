@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8403428388715218653
     second: removing_driver
-  - first:
-      74: -8483792030305471658
-    second: removing_driver
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: removing_driver
       takeName: mixamo.com
-      internalID: -8483792030305471658
+      internalID: -8403428388715218653
       firstFrame: 0
       lastFrame: 311
       wrapMode: 0

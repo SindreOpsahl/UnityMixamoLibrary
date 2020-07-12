@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1089225636641717841
     second: laying_mild_cough
-  - first:
-      74: -1193904834663410856
-    second: laying_mild_cough
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_mild_cough
       takeName: mixamo.com
-      internalID: -1193904834663410856
+      internalID: -1089225636641717841
       firstFrame: 0
       lastFrame: 50
       wrapMode: 0

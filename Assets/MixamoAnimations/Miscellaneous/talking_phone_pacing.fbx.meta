@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -280835875809500635
     second: talking_phone_pacing
-  - first:
-      74: -3236260411455056709
-    second: talking_phone_pacing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: talking_phone_pacing
       takeName: mixamo.com
-      internalID: -3236260411455056709
+      internalID: -280835875809500635
       firstFrame: 0
       lastFrame: 1267
       wrapMode: 0

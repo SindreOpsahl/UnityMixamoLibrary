@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3168785901653118322
     second: walker_walk
-  - first:
-      74: -3285122462674070980
-    second: walker_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: walker_walk
       takeName: mixamo.com
-      internalID: -3285122462674070980
+      internalID: 3168785901653118322
       firstFrame: 0
       lastFrame: 111
       wrapMode: 0

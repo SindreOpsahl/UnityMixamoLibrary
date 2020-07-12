@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4262101782401405667
     second: crying
-  - first:
-      74: -8277090968534950504
-    second: crying
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: crying
       takeName: mixamo.com
-      internalID: -8277090968534950504
+      internalID: 4262101782401405667
       firstFrame: 0
       lastFrame: 188
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

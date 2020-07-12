@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7895882649755229360
     second: baseball_milling_idle
-  - first:
-      74: 3286193400314083165
-    second: baseball_milling_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_milling_idle
       takeName: mixamo.com
-      internalID: 3286193400314083165
+      internalID: -7895882649755229360
       firstFrame: 0
       lastFrame: 632
       wrapMode: 0

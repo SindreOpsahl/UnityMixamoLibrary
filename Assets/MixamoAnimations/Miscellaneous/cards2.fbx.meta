@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8171377606572037427
     second: cards2
-  - first:
-      74: -5951918461922629209
-    second: cards2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: cards2
       takeName: mixamo.com
-      internalID: -5951918461922629209
+      internalID: 8171377606572037427
       firstFrame: 0
       lastFrame: 270
       wrapMode: 0

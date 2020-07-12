@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1291830227477553110
     second: martelo_3
-  - first:
-      74: -9016831618574384974
-    second: martelo_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: martelo_3
       takeName: mixamo.com
-      internalID: -9016831618574384974
+      internalID: 1291830227477553110
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0

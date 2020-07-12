@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2224830056552259726
     second: sitting_dodges
-  - first:
-      74: 7688057175119389879
-    second: sitting_dodges
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_dodges
       takeName: mixamo.com
-      internalID: 7688057175119389879
+      internalID: -2224830056552259726
       firstFrame: 0
       lastFrame: 267
       wrapMode: 0

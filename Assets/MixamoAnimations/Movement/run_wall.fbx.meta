@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4194721749168340768
     second: wall_run
-  - first:
-      74: -6835638762113367742
-    second: run_wall
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_wall
+      name: wall_run
       takeName: mixamo.com
-      internalID: -6835638762113367742
+      internalID: 4194721749168340768
       firstFrame: 0
-      lastFrame: 28
+      lastFrame: 30
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -55,9 +52,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

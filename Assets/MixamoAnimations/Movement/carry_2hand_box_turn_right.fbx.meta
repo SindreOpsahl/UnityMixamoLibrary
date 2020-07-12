@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5985938033035435039
     second: box_turn_right
-  - first:
-      74: -1120799560827215101
-    second: carry_2hand_box_turn_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: carry_2hand_box_turn_right
+      name: box_turn_right
       takeName: mixamo.com
-      internalID: -1120799560827215101
+      internalID: -5985938033035435039
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

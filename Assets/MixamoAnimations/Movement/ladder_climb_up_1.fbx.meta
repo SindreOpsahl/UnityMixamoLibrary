@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: 2005424538685879758
     second: climbing_ladder1
-  - first:
-      74: -4057187907014808324
-    second: ladder_climb_up_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,23 +41,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: ladder_climb_up_1
+      name: climbing_ladder1
       takeName: mixamo.com
-      internalID: -4057187907014808324
+      internalID: 2005424538685879758
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
+      orientationOffsetY: 180
+      level: 0.8
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

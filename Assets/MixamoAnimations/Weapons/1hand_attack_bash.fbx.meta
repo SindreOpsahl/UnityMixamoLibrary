@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2632904045389084610
     second: bash
-  - first:
-      74: -1008201613999659310
-    second: 1hand_attack_bash
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_attack_bash
+      name: bash
       takeName: mixamo.com
-      internalID: -1008201613999659310
+      internalID: 2632904045389084610
       firstFrame: 0
       lastFrame: 120
       wrapMode: 0
@@ -52,7 +49,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

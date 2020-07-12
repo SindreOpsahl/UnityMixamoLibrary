@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1969900414426540067
     second: scary_clown_start_walking
-  - first:
-      74: -2166036016960423805
-    second: scary_clown_start_walking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: scary_clown_start_walking
       takeName: mixamo.com
-      internalID: -2166036016960423805
+      internalID: 1969900414426540067
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

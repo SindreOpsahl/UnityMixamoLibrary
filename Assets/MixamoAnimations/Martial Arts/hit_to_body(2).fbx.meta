@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -798071138460001406
     second: hit_to_body(2)
-  - first:
-      74: -7849061113170528892
-    second: hit_to_body(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hit_to_body(2)
       takeName: mixamo.com
-      internalID: -7849061113170528892
+      internalID: -798071138460001406
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2180401989228101071
     second: plant_a_plant
-  - first:
-      74: 4177788708637087963
-    second: plant_a_plant
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: plant_a_plant
       takeName: mixamo.com
-      internalID: 4177788708637087963
+      internalID: 2180401989228101071
       firstFrame: 0
       lastFrame: 227
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -50655246463029183
     second: upward_rifle_butt_strike
-  - first:
-      74: 2554629517482242668
-    second: upward_rifle_butt_strike
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: upward_rifle_butt_strike
       takeName: mixamo.com
-      internalID: 2554629517482242668
+      internalID: -50655246463029183
       firstFrame: 0
       lastFrame: 66
       wrapMode: 0

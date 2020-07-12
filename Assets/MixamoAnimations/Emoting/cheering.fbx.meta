@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1311955034978204960
     second: cheering
-  - first:
-      74: -7391373279920570165
-    second: cheering
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: cheering
       takeName: mixamo.com
-      internalID: -7391373279920570165
+      internalID: -1311955034978204960
       firstFrame: 0
       lastFrame: 87
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

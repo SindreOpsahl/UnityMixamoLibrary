@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7438472202926779193
     second: leaning(1)
-  - first:
-      74: -3880974031533600293
-    second: idle_leaning_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: idle_leaning_2
+      name: leaning(1)
       takeName: mixamo.com
-      internalID: -3880974031533600293
+      internalID: 7438472202926779193
       firstFrame: 0
       lastFrame: 100
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

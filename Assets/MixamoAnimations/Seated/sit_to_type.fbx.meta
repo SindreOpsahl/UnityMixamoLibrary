@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8117773793123489457
     second: sit_to_type
-  - first:
-      74: -9026089638162433697
-    second: sit_to_type
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sit_to_type
       takeName: mixamo.com
-      internalID: -9026089638162433697
+      internalID: 8117773793123489457
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0

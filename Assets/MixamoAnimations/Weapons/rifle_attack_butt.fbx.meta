@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4135059964093017042
     second: rifle_punch
-  - first:
-      74: 2555635664178714529
-    second: rifle_attack_butt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_attack_butt
+      name: rifle_punch
       takeName: mixamo.com
-      internalID: 2555635664178714529
+      internalID: 4135059964093017042
       firstFrame: 0
       lastFrame: 83
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

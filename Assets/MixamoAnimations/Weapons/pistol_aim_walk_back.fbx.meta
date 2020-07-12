@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -407824176178063600
     second: pistol_walk_backward
-  - first:
-      74: -3801586523394674230
-    second: pistol_aim_walk_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_aim_walk_back
+      name: pistol_walk_backward
       takeName: mixamo.com
-      internalID: -3801586523394674230
+      internalID: -407824176178063600
       firstFrame: 0
       lastFrame: 31
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

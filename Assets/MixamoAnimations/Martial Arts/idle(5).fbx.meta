@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6758943010964615209
     second: idle(5)
-  - first:
-      74: -1584604194149547477
-    second: idle(5)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: idle(5)
       takeName: mixamo.com
-      internalID: -1584604194149547477
+      internalID: -6758943010964615209
       firstFrame: 0
       lastFrame: 109
       wrapMode: 0

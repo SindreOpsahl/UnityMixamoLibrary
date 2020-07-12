@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -623120981464529377
     second: rifle_stand_to_kneel
-  - first:
-      74: 8998265689840548210
-    second: rifle_stand_to_kneel
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rifle_stand_to_kneel
       takeName: mixamo.com
-      internalID: 8998265689840548210
+      internalID: -623120981464529377
       firstFrame: 0
       lastFrame: 28
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6702204023304344502
     second: taken_hostage___villain
-  - first:
-      74: 3401038960922125784
-    second: taken_hostage___villain
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: taken_hostage___villain
       takeName: mixamo.com
-      internalID: 3401038960922125784
+      internalID: -6702204023304344502
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

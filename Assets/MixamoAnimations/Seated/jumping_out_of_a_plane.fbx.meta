@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7229952160653360607
     second: jumping_out_of_a_plane
-  - first:
-      74: 2044636042950359386
-    second: jumping_out_of_a_plane
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jumping_out_of_a_plane
       takeName: mixamo.com
-      internalID: 2044636042950359386
+      internalID: -7229952160653360607
       firstFrame: 0
       lastFrame: 62
       wrapMode: 0

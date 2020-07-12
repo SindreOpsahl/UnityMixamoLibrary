@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2802585912164149350
     second: rockin__shackle_A
-  - first:
-      74: 3579196293888147452
-    second: rockin__shackle_A
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rockin__shackle_A
       takeName: mixamo.com
-      internalID: 3579196293888147452
+      internalID: 2802585912164149350
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0

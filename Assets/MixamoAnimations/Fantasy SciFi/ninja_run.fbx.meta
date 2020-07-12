@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7756018985611349561
     second: ninja_run
-  - first:
-      74: -3209404711634148061
-    second: ninja_run
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ninja_run
       takeName: mixamo.com
-      internalID: -3209404711634148061
+      internalID: 7756018985611349561
       firstFrame: 0
       lastFrame: 19
       wrapMode: 0

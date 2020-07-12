@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2499177954120741571
     second: charge
-  - first:
-      74: -5263133305355641425
-    second: charge
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: charge
       takeName: mixamo.com
-      internalID: -5263133305355641425
+      internalID: 2499177954120741571
       firstFrame: 0
       lastFrame: 171
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7442818699643136334
     second: orc_walk
-  - first:
-      74: -2868616706903744523
-    second: orc_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: orc_walk
       takeName: mixamo.com
-      internalID: -2868616706903744523
+      internalID: -7442818699643136334
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0

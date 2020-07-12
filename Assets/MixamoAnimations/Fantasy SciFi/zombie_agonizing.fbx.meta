@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3416191878538356991
     second: zombie_agonizing
-  - first:
-      74: 3256329077765230145
-    second: zombie_agonizing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_agonizing
       takeName: mixamo.com
-      internalID: 3256329077765230145
+      internalID: -3416191878538356991
       firstFrame: 0
       lastFrame: 349
       wrapMode: 0

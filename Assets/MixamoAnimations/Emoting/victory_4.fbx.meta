@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8714211430365750624
     second: victory_idle(1)
-  - first:
-      74: 3527747742245759354
-    second: victory_4
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: victory_4
+      name: victory_idle(1)
       takeName: mixamo.com
-      internalID: 3527747742245759354
+      internalID: 8714211430365750624
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

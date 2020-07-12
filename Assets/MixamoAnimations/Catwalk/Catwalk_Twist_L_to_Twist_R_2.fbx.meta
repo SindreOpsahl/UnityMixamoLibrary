@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5378664080766814440
     second: Catwalk_Twist_L_to_Twist_R_2
-  - first:
-      74: -3087993519084794463
-    second: Catwalk_Twist_L_to_Twist_R_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Twist_L_to_Twist_R_2
       takeName: mixamo.com
-      internalID: -3087993519084794463
+      internalID: -5378664080766814440
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0

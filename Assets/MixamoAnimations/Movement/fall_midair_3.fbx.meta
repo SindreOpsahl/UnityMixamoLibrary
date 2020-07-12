@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -232604563744982227
     second: falling_idle
-  - first:
-      74: 7672639611086452264
-    second: fall_midair_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: fall_midair_3
+      name: falling_idle
       takeName: mixamo.com
-      internalID: 7672639611086452264
+      internalID: -232604563744982227
       firstFrame: 0
       lastFrame: 21
       wrapMode: 0
@@ -52,11 +49,11 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

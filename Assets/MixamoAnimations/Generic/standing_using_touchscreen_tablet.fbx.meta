@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4004864794464062556
     second: standing_using_touchscreen_tablet
-  - first:
-      74: 304526374405027327
-    second: standing_using_touchscreen_tablet
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_using_touchscreen_tablet
       takeName: mixamo.com
-      internalID: 304526374405027327
+      internalID: 4004864794464062556
       firstFrame: 0
       lastFrame: 994
       wrapMode: 0

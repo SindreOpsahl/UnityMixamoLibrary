@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6074346926115645613
     second: dual_weapon_combo
-  - first:
-      74: -6546462400306397886
-    second: dualwield_attack_combo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: dualwield_attack_combo
+      name: dual_weapon_combo
       takeName: mixamo.com
-      internalID: -6546462400306397886
+      internalID: -6074346926115645613
       firstFrame: 0
       lastFrame: 109
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

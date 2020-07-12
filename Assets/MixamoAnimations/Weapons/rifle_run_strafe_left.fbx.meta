@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 746437800581539542
     second: sprint_left
-  - first:
-      74: -2076550999669947230
-    second: rifle_run_strafe_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_run_strafe_left
+      name: sprint_left
       takeName: mixamo.com
-      internalID: -2076550999669947230
+      internalID: 746437800581539542
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

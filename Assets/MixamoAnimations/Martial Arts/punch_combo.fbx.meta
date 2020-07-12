@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1859097367141028967
     second: punch_combo
-  - first:
-      74: 9220080253011938083
-    second: punch_combo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: punch_combo
       takeName: mixamo.com
-      internalID: 9220080253011938083
+      internalID: -1859097367141028967
       firstFrame: 0
       lastFrame: 66
       wrapMode: 0

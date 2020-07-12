@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3406473300006364699
     second: knee_jab
-  - first:
-      74: -782192767221059638
-    second: knee_jab
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: knee_jab
       takeName: mixamo.com
-      internalID: -782192767221059638
+      internalID: 3406473300006364699
       firstFrame: 0
       lastFrame: 180
       wrapMode: 0

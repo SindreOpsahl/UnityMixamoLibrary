@@ -79,7 +79,7 @@ public class MixamoManager : EditorWindow
  
     static void DirSearch()
     {
-        string info = Application.dataPath+ "/MixamoAnimations/";
+        string info = Application.dataPath+ "/Mocap Animations/";
         string[] fileInfo = Directory.GetFiles(info, "*.fbx", SearchOption.AllDirectories);
         foreach (string file in fileInfo)
         {

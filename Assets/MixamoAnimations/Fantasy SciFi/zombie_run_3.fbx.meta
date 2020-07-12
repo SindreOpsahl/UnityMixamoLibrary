@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7114418954992757531
     second: run_forward(3)
-  - first:
-      74: 4974484459488613708
-    second: zombie_run_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: zombie_run_3
+      name: run_forward(3)
       takeName: mixamo.com
-      internalID: 4974484459488613708
+      internalID: -7114418954992757531
       firstFrame: 0
       lastFrame: 22
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4129259811004374937
     second: standing_react_large_from_back
-  - first:
-      74: 3077512378142003392
-    second: standing_react_large_from_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_react_large_from_back
       takeName: mixamo.com
-      internalID: 3077512378142003392
+      internalID: 4129259811004374937
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0

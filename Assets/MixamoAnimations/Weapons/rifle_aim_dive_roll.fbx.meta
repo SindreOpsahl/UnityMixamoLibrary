@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8520958795108460897
     second: dive_roll
-  - first:
-      74: -2566188845237506140
-    second: rifle_aim_dive_roll
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_dive_roll
+      name: dive_roll
       takeName: mixamo.com
-      internalID: -2566188845237506140
+      internalID: 8520958795108460897
       firstFrame: 0
       lastFrame: 71
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

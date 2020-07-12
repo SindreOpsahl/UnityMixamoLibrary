@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3073982867365113668
     second: chapa_2
-  - first:
-      74: -6883776538583824094
-    second: chapa_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: chapa_2
       takeName: mixamo.com
-      internalID: -6883776538583824094
+      internalID: 3073982867365113668
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0

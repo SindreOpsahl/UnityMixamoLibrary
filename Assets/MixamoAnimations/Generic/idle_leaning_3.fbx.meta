@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6744815712099234864
     second: leaning_on_a_wall
-  - first:
-      74: -2982583170625561787
-    second: idle_leaning_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: idle_leaning_3
+      name: leaning_on_a_wall
       takeName: mixamo.com
-      internalID: -2982583170625561787
+      internalID: -6744815712099234864
       firstFrame: 0
       lastFrame: 58
       wrapMode: 0
@@ -52,11 +49,11 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

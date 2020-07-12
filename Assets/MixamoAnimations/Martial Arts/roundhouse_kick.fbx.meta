@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2232373130075098356
     second: roundhouse_kick
-  - first:
-      74: 1392582933419732967
-    second: roundhouse_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: roundhouse_kick
       takeName: mixamo.com
-      internalID: 1392582933419732967
+      internalID: -2232373130075098356
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0

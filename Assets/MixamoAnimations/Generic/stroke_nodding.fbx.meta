@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1610171843802943069
     second: stroke_nodding
-  - first:
-      74: -2976955220421022277
-    second: stroke_nodding
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stroke_nodding
       takeName: mixamo.com
-      internalID: -2976955220421022277
+      internalID: 1610171843802943069
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3044348042178357644
     second: vampiric_bite
-  - first:
-      74: -7920673405901600274
-    second: vampiric_bite
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: vampiric_bite
       takeName: mixamo.com
-      internalID: -7920673405901600274
+      internalID: -3044348042178357644
       firstFrame: 0
       lastFrame: 91
       wrapMode: 0

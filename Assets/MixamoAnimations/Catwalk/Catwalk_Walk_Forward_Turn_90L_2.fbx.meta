@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6011318984353905750
     second: Catwalk_Walk_Forward_Turn_90L_2
-  - first:
-      74: 5821746477728994694
-    second: Catwalk_Walk_Forward_Turn_90L_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Walk_Forward_Turn_90L_2
       takeName: mixamo.com
-      internalID: 5821746477728994694
+      internalID: 6011318984353905750
       firstFrame: 0
       lastFrame: 75
       wrapMode: 0

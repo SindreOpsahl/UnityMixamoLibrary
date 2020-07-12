@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4962464230793337777
     second: Male_Laying_Pose_1
-  - first:
-      74: -8661943447168056417
-    second: Male_Laying_Pose_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Male_Laying_Pose_1
       takeName: mixamo.com
-      internalID: -8661943447168056417
+      internalID: -4962464230793337777
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

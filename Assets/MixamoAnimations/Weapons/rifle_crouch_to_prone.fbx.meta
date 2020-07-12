@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: 6372583658769952633
     second: crouch_to_prone_rifle
-  - first:
-      74: 8095484746333803004
-    second: rifle_crouch_to_prone
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_to_prone
+      name: crouch_to_prone_rifle
       takeName: mixamo.com
-      internalID: 8095484746333803004
+      internalID: 6372583658769952633
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0
@@ -57,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

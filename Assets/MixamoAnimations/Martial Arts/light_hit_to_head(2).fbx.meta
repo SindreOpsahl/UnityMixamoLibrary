@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5118667344256047334
     second: light_hit_to_head(2)
-  - first:
-      74: 1976727187585341648
-    second: light_hit_to_head(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: light_hit_to_head(2)
       takeName: mixamo.com
-      internalID: 1976727187585341648
+      internalID: -5118667344256047334
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0

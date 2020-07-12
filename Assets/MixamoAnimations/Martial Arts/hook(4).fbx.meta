@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8214943750011915282
     second: hook(4)
-  - first:
-      74: -2066346112721392732
-    second: hook(4)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hook(4)
       takeName: mixamo.com
-      internalID: -2066346112721392732
+      internalID: -8214943750011915282
       firstFrame: 0
       lastFrame: 88
       wrapMode: 0

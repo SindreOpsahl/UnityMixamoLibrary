@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3675661354514249437
     second: snatch
-  - first:
-      74: 1049316539295440751
-    second: snatch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: snatch
       takeName: mixamo.com
-      internalID: 1049316539295440751
+      internalID: 3675661354514249437
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

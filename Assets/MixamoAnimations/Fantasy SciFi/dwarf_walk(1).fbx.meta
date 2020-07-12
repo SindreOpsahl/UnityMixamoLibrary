@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6833568466400992526
     second: dwarf_walk(1)
-  - first:
-      74: 9173831392398521263
-    second: dwarf_walk(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dwarf_walk(1)
       takeName: mixamo.com
-      internalID: 9173831392398521263
+      internalID: -6833568466400992526
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

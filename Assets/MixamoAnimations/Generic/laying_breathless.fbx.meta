@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 786605200246803790
     second: laying_breathless
-  - first:
-      74: 5753810375082036379
-    second: laying_breathless
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_breathless
       takeName: mixamo.com
-      internalID: 5753810375082036379
+      internalID: 786605200246803790
       firstFrame: 0
       lastFrame: 25
       wrapMode: 0

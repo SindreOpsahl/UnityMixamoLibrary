@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2148999756764356983
     second: piloting
-  - first:
-      74: -5824725820507729180
-    second: piloting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: piloting
       takeName: mixamo.com
-      internalID: -5824725820507729180
+      internalID: -2148999756764356983
       firstFrame: 0
       lastFrame: 291
       wrapMode: 0

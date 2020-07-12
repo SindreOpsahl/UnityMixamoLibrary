@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2408585239269549086
     second: two_hand_spell_casting
-  - first:
-      74: -169480029089015822
-    second: two_hand_spell_casting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: two_hand_spell_casting
       takeName: mixamo.com
-      internalID: -169480029089015822
+      internalID: -2408585239269549086
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0

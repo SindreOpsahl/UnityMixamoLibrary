@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2099082751949730488
     second: jump_away
-  - first:
-      74: 7341930281986904955
-    second: dodge_dive_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: dodge_dive_right
+      name: jump_away
       takeName: mixamo.com
-      internalID: 7341930281986904955
+      internalID: -2099082751949730488
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

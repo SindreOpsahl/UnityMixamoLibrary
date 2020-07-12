@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6225454719226397483
     second: fall_a_loop
-  - first:
-      74: 6892408040487848553
-    second: fall_midair_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: fall_midair_1
+      name: fall_a_loop
       takeName: mixamo.com
-      internalID: 6892408040487848553
+      internalID: 6225454719226397483
       firstFrame: 0
       lastFrame: 32
       wrapMode: 0
@@ -52,11 +49,11 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5261758739014657875
     second: sword_and_shield_death(1)
-  - first:
-      74: -7405062074744422920
-    second: 1hand_shield_death_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_shield_death_back
+      name: sword_and_shield_death(1)
       takeName: mixamo.com
-      internalID: -7405062074744422920
+      internalID: 5261758739014657875
       firstFrame: 0
       lastFrame: 69
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

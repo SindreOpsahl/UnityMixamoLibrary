@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5741817824055493003
     second: goalkeeper_placing_ball(1)
-  - first:
-      74: -3497303988168360015
-    second: goalkeeper_placing_ball(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_placing_ball(1)
       takeName: mixamo.com
-      internalID: -3497303988168360015
+      internalID: 5741817824055493003
       firstFrame: 0
       lastFrame: 106
       wrapMode: 0

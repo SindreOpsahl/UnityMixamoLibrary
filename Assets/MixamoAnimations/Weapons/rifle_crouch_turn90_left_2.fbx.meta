@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6345241042640424177
     second: turn_right
-  - first:
-      74: -5528743141718327544
-    second: rifle_crouch_turn90_left_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_turn90_left_2
+      name: turn_right
       takeName: mixamo.com
-      internalID: -5528743141718327544
+      internalID: -6345241042640424177
       firstFrame: 0
       lastFrame: 43
       wrapMode: 0
@@ -55,9 +52,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

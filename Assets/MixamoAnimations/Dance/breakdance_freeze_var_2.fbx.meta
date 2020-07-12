@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1799849278534665628
     second: breakdance_freeze_var_2
-  - first:
-      74: 6565442264438840669
-    second: breakdance_freeze_var_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_freeze_var_2
       takeName: mixamo.com
-      internalID: 6565442264438840669
+      internalID: -1799849278534665628
       firstFrame: 0
       lastFrame: 146
       wrapMode: 0

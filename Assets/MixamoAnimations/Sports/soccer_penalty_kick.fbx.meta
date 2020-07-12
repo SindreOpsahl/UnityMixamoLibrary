@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5745741470285220475
     second: soccer_penalty_kick
-  - first:
-      74: 1558762736004070908
-    second: soccer_penalty_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: soccer_penalty_kick
       takeName: mixamo.com
-      internalID: 1558762736004070908
+      internalID: -5745741470285220475
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -394289163732188085
     second: seated_clapping
-  - first:
-      74: 8459327963724365967
-    second: seated_clapping
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: seated_clapping
       takeName: mixamo.com
-      internalID: 8459327963724365967
+      internalID: -394289163732188085
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0

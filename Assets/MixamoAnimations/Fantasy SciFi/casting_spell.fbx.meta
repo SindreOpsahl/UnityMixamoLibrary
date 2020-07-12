@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6319325241589027343
     second: casting_spell
-  - first:
-      74: 285974090568630375
-    second: casting_spell
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: casting_spell
       takeName: mixamo.com
-      internalID: 285974090568630375
+      internalID: 6319325241589027343
       firstFrame: 0
       lastFrame: 231
       wrapMode: 0

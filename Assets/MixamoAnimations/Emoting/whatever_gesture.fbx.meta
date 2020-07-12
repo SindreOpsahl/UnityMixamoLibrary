@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3940793924625111320
     second: whatever_gesture
-  - first:
-      74: 1410359621438966486
-    second: whatever_gesture
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: whatever_gesture
       takeName: mixamo.com
-      internalID: 1410359621438966486
+      internalID: -3940793924625111320
       firstFrame: 0
       lastFrame: 42
       wrapMode: 0

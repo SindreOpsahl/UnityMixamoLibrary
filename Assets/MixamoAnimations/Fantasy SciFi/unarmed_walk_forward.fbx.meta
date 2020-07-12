@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4997813308557551559
     second: unarmed_walk_forward
-  - first:
-      74: 2923088819849526073
-    second: unarmed_walk_forward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: unarmed_walk_forward
       takeName: mixamo.com
-      internalID: 2923088819849526073
+      internalID: -4997813308557551559
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0

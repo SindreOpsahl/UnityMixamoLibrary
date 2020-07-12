@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -994436257000262697
     second: piano_playing
-  - first:
-      74: -9170812277491294811
-    second: piano_playing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: piano_playing
       takeName: mixamo.com
-      internalID: -9170812277491294811
+      internalID: -994436257000262697
       firstFrame: 0
       lastFrame: 285
       wrapMode: 0

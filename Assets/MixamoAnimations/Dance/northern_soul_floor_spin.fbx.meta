@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8108251039094181948
     second: northern_soul_floor_spin
-  - first:
-      74: -8343385581086360323
-    second: northern_soul_floor_spin
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: northern_soul_floor_spin
       takeName: mixamo.com
-      internalID: -8343385581086360323
+      internalID: -8108251039094181948
       firstFrame: 0
       lastFrame: 224
       wrapMode: 0

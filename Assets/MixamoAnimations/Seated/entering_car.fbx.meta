@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6874551044020944277
     second: entering_car
-  - first:
-      74: 5137648032937586143
-    second: entering_car
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: entering_car
       takeName: mixamo.com
-      internalID: 5137648032937586143
+      internalID: -6874551044020944277
       firstFrame: 0
       lastFrame: 164
       wrapMode: 0

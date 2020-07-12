@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -515644457389248462
     second: change_direction
-  - first:
-      74: 5106045499537667506
-    second: change_direction
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: change_direction
       takeName: mixamo.com
-      internalID: 5106045499537667506
+      internalID: -515644457389248462
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

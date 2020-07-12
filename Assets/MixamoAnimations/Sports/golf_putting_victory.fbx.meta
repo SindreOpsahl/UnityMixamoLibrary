@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5504843480439224062
     second: golf_putting_victory
-  - first:
-      74: -1485597296132481701
-    second: golf_putting_victory
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_putting_victory
       takeName: mixamo.com
-      internalID: -1485597296132481701
+      internalID: -5504843480439224062
       firstFrame: 0
       lastFrame: 206
       wrapMode: 0

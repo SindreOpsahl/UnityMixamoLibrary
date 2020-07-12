@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7452954498082448941
     second: kicking(1)
-  - first:
-      74: -6989964646913865937
-    second: kicking(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kicking(1)
       takeName: mixamo.com
-      internalID: -6989964646913865937
+      internalID: 7452954498082448941
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

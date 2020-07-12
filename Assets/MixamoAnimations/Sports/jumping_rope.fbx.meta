@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -940813112446096465
     second: jumping_rope
-  - first:
-      74: -1094881440894083415
-    second: jumping_rope
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jumping_rope
       takeName: mixamo.com
-      internalID: -1094881440894083415
+      internalID: -940813112446096465
       firstFrame: 0
       lastFrame: 77
       wrapMode: 0

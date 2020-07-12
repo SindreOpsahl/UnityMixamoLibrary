@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8801882744895366193
     second: happy_right_turn
-  - first:
-      74: 8273656085721077356
-    second: happy_turn_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: happy_turn_right
+      name: happy_right_turn
       takeName: mixamo.com
-      internalID: 8273656085721077356
+      internalID: 8801882744895366193
       firstFrame: 0
       lastFrame: 22
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

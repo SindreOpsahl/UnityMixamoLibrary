@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7344601537082619927
     second: working_on_device
-  - first:
-      74: 5644935822453108630
-    second: working_on_device
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: working_on_device
       takeName: mixamo.com
-      internalID: 5644935822453108630
+      internalID: 7344601537082619927
       firstFrame: 0
       lastFrame: 193
       wrapMode: 0

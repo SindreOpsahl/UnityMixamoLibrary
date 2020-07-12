@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8519213848784851745
     second: scissor_kick
-  - first:
-      74: -951726445091361560
-    second: scissor_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: scissor_kick
       takeName: mixamo.com
-      internalID: -951726445091361560
+      internalID: 8519213848784851745
       firstFrame: 0
       lastFrame: 83
       wrapMode: 0

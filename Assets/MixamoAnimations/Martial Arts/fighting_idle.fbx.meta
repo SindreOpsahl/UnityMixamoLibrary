@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5706066160481916003
     second: fighting_idle
-  - first:
-      74: -8771356058129915018
-    second: fighting_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fighting_idle
       takeName: mixamo.com
-      internalID: -8771356058129915018
+      internalID: -5706066160481916003
       firstFrame: 0
       lastFrame: 99
       wrapMode: 0

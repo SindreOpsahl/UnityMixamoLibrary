@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -812788399780951709
     second: Female_Standing_Pose_2(4)
-  - first:
-      74: -8420439747285682725
-    second: Female_Standing_Pose_2(4)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Female_Standing_Pose_2(4)
       takeName: mixamo.com
-      internalID: -8420439747285682725
+      internalID: -812788399780951709
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7985528137198168588
     second: standing_run_left
-  - first:
-      74: -4515467034614654471
-    second: orc_run_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: orc_run_left
+      name: standing_run_left
       takeName: mixamo.com
-      internalID: -4515467034614654471
+      internalID: -7985528137198168588
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

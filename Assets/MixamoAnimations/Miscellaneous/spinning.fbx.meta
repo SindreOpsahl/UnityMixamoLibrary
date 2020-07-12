@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5557125253822270681
     second: spinning
-  - first:
-      74: -6058437295324316861
-    second: spinning
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: spinning
       takeName: mixamo.com
-      internalID: -6058437295324316861
+      internalID: 5557125253822270681
       firstFrame: 0
       lastFrame: 51
       wrapMode: 0

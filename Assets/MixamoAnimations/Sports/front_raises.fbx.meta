@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4131814743424687891
     second: front_raises
-  - first:
-      74: 4306998345713196526
-    second: front_raises
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: front_raises
       takeName: mixamo.com
-      internalID: 4306998345713196526
+      internalID: -4131814743424687891
       firstFrame: 0
       lastFrame: 187
       wrapMode: 0

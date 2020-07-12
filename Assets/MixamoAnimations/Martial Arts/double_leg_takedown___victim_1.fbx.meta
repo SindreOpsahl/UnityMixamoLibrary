@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6661157381830911559
     second: double_leg_takedown___victim_1
-  - first:
-      74: -7848487419645266153
-    second: double_leg_takedown___victim_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: double_leg_takedown___victim_1
       takeName: mixamo.com
-      internalID: -7848487419645266153
+      internalID: 6661157381830911559
       firstFrame: 0
       lastFrame: 217
       wrapMode: 0

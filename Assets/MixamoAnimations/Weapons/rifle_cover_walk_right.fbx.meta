@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4337182304606075184
     second: right_cover_sneak_w__rifle
-  - first:
-      74: -4205229712332053566
-    second: rifle_cover_walk_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_cover_walk_right
+      name: right_cover_sneak_w__rifle
       takeName: mixamo.com
-      internalID: -4205229712332053566
+      internalID: 4337182304606075184
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

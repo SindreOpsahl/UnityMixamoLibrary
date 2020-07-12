@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -913638106166868630
     second: hell_slammer_B
-  - first:
-      74: 4104171185966579429
-    second: hell_slammer_B
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hell_slammer_B
       takeName: mixamo.com
-      internalID: 4104171185966579429
+      internalID: -913638106166868630
       firstFrame: 0
       lastFrame: 227
       wrapMode: 0

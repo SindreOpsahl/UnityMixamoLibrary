@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9014124928121977769
     second: run_backwards(1)
-  - first:
-      74: 7445512510074814484
-    second: rifle_aim_run_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_run_back
+      name: run_backwards(1)
       takeName: mixamo.com
-      internalID: 7445512510074814484
+      internalID: 9014124928121977769
       firstFrame: 0
       lastFrame: 16
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4905266979226258664
     second: finding
-  - first:
-      74: 5300259889690486797
-    second: find_and_pick_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: find_and_pick_up
+      name: finding
       takeName: mixamo.com
-      internalID: 5300259889690486797
+      internalID: 4905266979226258664
       firstFrame: 0
       lastFrame: 413
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

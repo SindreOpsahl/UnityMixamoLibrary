@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6980207065501552326
     second: martelo_do_chau_sem_mao
-  - first:
-      74: 3480731335813440744
-    second: martelo_do_chau_sem_mao
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: martelo_do_chau_sem_mao
       takeName: mixamo.com
-      internalID: 3480731335813440744
+      internalID: -6980207065501552326
       firstFrame: 0
       lastFrame: 92
       wrapMode: 0

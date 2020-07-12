@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7115120320679194783
     second: sword_and_shield_strafe
-  - first:
-      74: 4308959798184561697
-    second: 1hand_shield_walk_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_shield_walk_left
+      name: sword_and_shield_strafe
       takeName: mixamo.com
-      internalID: 4308959798184561697
+      internalID: 7115120320679194783
       firstFrame: 0
       lastFrame: 39
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

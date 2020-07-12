@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8821410999375605716
     second: swing_to_land(1)
-  - first:
-      74: -9175278932294821718
-    second: rope_swing_end_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,23 +38,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rope_swing_end_2
+      name: swing_to_land(1)
       takeName: mixamo.com
-      internalID: -9175278932294821718
+      internalID: -8821410999375605716
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0
       orientationOffsetY: 0
-      level: 0
+      level: 2.2
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

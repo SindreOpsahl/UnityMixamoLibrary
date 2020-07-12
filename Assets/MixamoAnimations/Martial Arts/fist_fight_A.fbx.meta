@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3285679659754669155
     second: fist_fight_A
-  - first:
-      74: -6881562833610800804
-    second: fist_fight_A
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: fist_fight_A
       takeName: mixamo.com
-      internalID: -6881562833610800804
+      internalID: -3285679659754669155
       firstFrame: 0
       lastFrame: 140
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8620141998618214972
     second: backwards_rifle_walk
-  - first:
-      74: -3112019374802468473
-    second: rifle_walk_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,21 +38,21 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_walk_back
+      name: backwards_rifle_walk
       takeName: mixamo.com
-      internalID: -3112019374802468473
+      internalID: -8620141998618214972
       firstFrame: 0
       lastFrame: 38
       wrapMode: 0
-      orientationOffsetY: 0
+      orientationOffsetY: 4
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1

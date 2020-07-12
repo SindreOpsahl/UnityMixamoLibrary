@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2509893749234510249
     second: dodging
-  - first:
-      74: 7032309677198615446
-    second: dodging
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dodging
       takeName: mixamo.com
-      internalID: 7032309677198615446
+      internalID: 2509893749234510249
       firstFrame: 0
       lastFrame: 70
       wrapMode: 0

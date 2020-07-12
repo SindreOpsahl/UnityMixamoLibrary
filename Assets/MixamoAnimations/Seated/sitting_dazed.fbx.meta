@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4141912695598161008
     second: sitting_dazed
-  - first:
-      74: 6857003697654720103
-    second: sitting_dazed
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_dazed
       takeName: mixamo.com
-      internalID: 6857003697654720103
+      internalID: 4141912695598161008
       firstFrame: 0
       lastFrame: 250
       wrapMode: 0

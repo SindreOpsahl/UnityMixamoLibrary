@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -7041867233701691386
     second: crouch_idle3
-  - first:
-      74: -25978616464447750
-    second: crouch_idle_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_idle_2
+      name: crouch_idle3
       takeName: mixamo.com
-      internalID: -25978616464447750
+      internalID: -7041867233701691386
       firstFrame: 0
       lastFrame: 200
       wrapMode: 0
@@ -55,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

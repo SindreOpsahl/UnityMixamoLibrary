@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4429829734007192257
     second: female_stop_and_start_walking
-  - first:
-      74: -8721462632743788954
-    second: walk_stop_to_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_stop_to_start
+      name: female_stop_and_start_walking
       takeName: mixamo.com
-      internalID: -8721462632743788954
+      internalID: 4429829734007192257
       firstFrame: 0
       lastFrame: 112
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

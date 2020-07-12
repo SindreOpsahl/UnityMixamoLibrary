@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5115405537822177242
     second: running_to_stop
-  - first:
-      74: 5667028836061443453
-    second: rifle_aim_run_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,23 +38,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_run_stop
+      name: running_to_stop
       takeName: mixamo.com
-      internalID: 5667028836061443453
+      internalID: -5115405537822177242
       firstFrame: 0
       lastFrame: 61
       wrapMode: 0
-      orientationOffsetY: 0
+      orientationOffsetY: -1.2
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

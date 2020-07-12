@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -7779287048162072130
     second: crouching
-  - first:
-      74: -3010048566165335181
-    second: stand_to_kneel
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: stand_to_kneel
+      name: crouching
       takeName: mixamo.com
-      internalID: -3010048566165335181
+      internalID: -7779287048162072130
       firstFrame: 0
       lastFrame: 122
       wrapMode: 0
@@ -57,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

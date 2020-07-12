@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6769487560629841503
     second: grab_and_slam
-  - first:
-      74: 2985450526591010224
-    second: grab_and_slam
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: grab_and_slam
       takeName: mixamo.com
-      internalID: 2985450526591010224
+      internalID: -6769487560629841503
       firstFrame: 0
       lastFrame: 128
       wrapMode: 0

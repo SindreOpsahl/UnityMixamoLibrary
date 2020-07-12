@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7186250635872484023
     second: death_from_the_front
-  - first:
-      74: 3616345592514010279
-    second: rifle_death_gutshot
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_death_gutshot
+      name: death_from_the_front
       takeName: mixamo.com
-      internalID: 3616345592514010279
+      internalID: 7186250635872484023
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

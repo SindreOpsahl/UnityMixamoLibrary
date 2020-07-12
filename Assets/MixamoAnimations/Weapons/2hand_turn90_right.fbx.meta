@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1232335840602928431
     second: great_sword_turn(1)
-  - first:
-      74: -8187643168785508751
-    second: 2hand_turn90_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_turn90_right
+      name: great_sword_turn(1)
       takeName: mixamo.com
-      internalID: -8187643168785508751
+      internalID: 1232335840602928431
       firstFrame: 0
       lastFrame: 22
       wrapMode: 0
@@ -55,9 +52,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

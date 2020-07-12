@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8178049473531852762
     second: bicep_curl
-  - first:
-      74: -2530153526848991026
-    second: bicep_curl
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bicep_curl
       takeName: mixamo.com
-      internalID: -2530153526848991026
+      internalID: 8178049473531852762
       firstFrame: 0
       lastFrame: 176
       wrapMode: 0

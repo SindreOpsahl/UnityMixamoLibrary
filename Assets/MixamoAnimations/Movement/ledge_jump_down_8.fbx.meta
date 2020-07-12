@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3657944454060104767
     second: jumping_down(5)
-  - first:
-      74: -6715703758924746365
-    second: ledge_jump_down_8
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: ledge_jump_down_8
+      name: jumping_down(5)
       takeName: mixamo.com
-      internalID: -6715703758924746365
+      internalID: -3657944454060104767
       firstFrame: 0
       lastFrame: 97
       wrapMode: 0
@@ -54,13 +51,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7112491435037643624
     second: hit_to_the_legs
-  - first:
-      74: 1789395810164551632
-    second: hit_to_the_legs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hit_to_the_legs
       takeName: mixamo.com
-      internalID: 1789395810164551632
+      internalID: -7112491435037643624
       firstFrame: 0
       lastFrame: 95
       wrapMode: 0

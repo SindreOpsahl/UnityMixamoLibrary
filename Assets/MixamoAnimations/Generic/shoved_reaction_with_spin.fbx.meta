@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2471653363716805473
     second: shoved_reaction_with_spin
-  - first:
-      74: 7094507259537163714
-    second: shoved_reaction_with_spin
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shoved_reaction_with_spin
       takeName: mixamo.com
-      internalID: 7094507259537163714
+      internalID: -2471653363716805473
       firstFrame: 0
       lastFrame: 136
       wrapMode: 0

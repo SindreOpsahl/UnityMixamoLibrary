@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1659705592012082211
     second: great_sword_slide_attack
-  - first:
-      74: 6195525864615117677
-    second: 2hand_run_attack_slide
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_run_attack_slide
+      name: great_sword_slide_attack
       takeName: mixamo.com
-      internalID: 6195525864615117677
+      internalID: -1659705592012082211
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

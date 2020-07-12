@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -9175586743510010852
     second: guitar_playing
-  - first:
-      74: -7516692529690609590
-    second: guitar_playing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: guitar_playing
       takeName: mixamo.com
-      internalID: -7516692529690609590
+      internalID: -9175586743510010852
       firstFrame: 0
       lastFrame: 187
       wrapMode: 0

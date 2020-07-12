@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5854841322353005642
     second: flying_back_death
-  - first:
-      74: 2645830041031156422
-    second: death_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: death_back
+      name: flying_back_death
       takeName: mixamo.com
-      internalID: 2645830041031156422
+      internalID: 5854841322353005642
       firstFrame: 0
       lastFrame: 91
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

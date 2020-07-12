@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8251919367793063044
     second: mutant_swiping
-  - first:
-      74: -1620560604507258769
-    second: mutant_swiping
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_swiping
       takeName: mixamo.com
-      internalID: -1620560604507258769
+      internalID: -8251919367793063044
       firstFrame: 0
       lastFrame: 80
       wrapMode: 0

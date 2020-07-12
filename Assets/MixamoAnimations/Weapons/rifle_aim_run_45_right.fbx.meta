@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3912193001854795070
     second: run_right
-  - first:
-      74: -1334866689262013481
-    second: rifle_aim_run_45_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,21 +38,21 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_run_45_right
+      name: run_right
       takeName: mixamo.com
-      internalID: -1334866689262013481
+      internalID: 3912193001854795070
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
-      orientationOffsetY: 0
+      orientationOffsetY: -15.29
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1

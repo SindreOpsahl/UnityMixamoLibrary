@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8135708568547335861
     second: baseball_bunt
-  - first:
-      74: 3592332433890926067
-    second: baseball_bunt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_bunt
       takeName: mixamo.com
-      internalID: 3592332433890926067
+      internalID: -8135708568547335861
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0

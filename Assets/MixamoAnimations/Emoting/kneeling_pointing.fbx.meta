@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8379373330450301739
     second: kneeling_pointing
-  - first:
-      74: -457387766415055734
-    second: kneeling_pointing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kneeling_pointing
       takeName: mixamo.com
-      internalID: -457387766415055734
+      internalID: -8379373330450301739
       firstFrame: 0
       lastFrame: 117
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

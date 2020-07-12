@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6700381756474071578
     second: start_walking(2)
-  - first:
-      74: -6370244747340552152
-    second: walk_start_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_start_1
+      name: start_walking(2)
       takeName: mixamo.com
-      internalID: -6370244747340552152
+      internalID: -6700381756474071578
       firstFrame: 0
       lastFrame: 88
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3428569897972710837
     second: pistol_idle
-  - first:
-      74: 7347733220366667315
-    second: pistol_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pistol_idle
       takeName: mixamo.com
-      internalID: 7347733220366667315
+      internalID: 3428569897972710837
       firstFrame: 0
       lastFrame: 120
       wrapMode: 0
@@ -52,11 +49,11 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

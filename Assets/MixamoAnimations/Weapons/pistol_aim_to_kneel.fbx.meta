@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3977290579546698699
     second: pistol_stand_to_kneel
-  - first:
-      74: 6279869144075861744
-    second: pistol_aim_to_kneel
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_aim_to_kneel
+      name: pistol_stand_to_kneel
       takeName: mixamo.com
-      internalID: 6279869144075861744
+      internalID: -3977290579546698699
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

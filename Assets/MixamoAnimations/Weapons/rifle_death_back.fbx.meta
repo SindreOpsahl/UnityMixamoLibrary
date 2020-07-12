@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -913944374622659085
     second: rifle_hit_to_back
-  - first:
-      74: -747323263533591423
-    second: rifle_death_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_death_back
+      name: rifle_hit_to_back
       takeName: mixamo.com
-      internalID: -747323263533591423
+      internalID: -913944374622659085
       firstFrame: 0
       lastFrame: 53
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

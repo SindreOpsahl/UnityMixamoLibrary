@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1277899758798946940
     second: shoulder_throw__aggressor
-  - first:
-      74: 2064886743464778247
-    second: shoulder_throw__aggressor
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shoulder_throw__aggressor
       takeName: mixamo.com
-      internalID: 2064886743464778247
+      internalID: 1277899758798946940
       firstFrame: 0
       lastFrame: 200
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6710356240449297253
     second: push_up
-  - first:
-      74: 8559433712995384603
-    second: push_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: push_up
       takeName: mixamo.com
-      internalID: 8559433712995384603
+      internalID: -6710356240449297253
       firstFrame: 0
       lastFrame: 46
       wrapMode: 0

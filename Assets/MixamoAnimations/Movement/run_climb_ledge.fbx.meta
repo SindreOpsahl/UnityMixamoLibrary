@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: 4832033750278420916
     second: climbing_from_run
-  - first:
-      74: 4895428015752991080
-    second: run_climb_ledge
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_climb_ledge
+      name: climbing_from_run
       takeName: mixamo.com
-      internalID: 4895428015752991080
+      internalID: 4832033750278420916
       firstFrame: 0
       lastFrame: 115
       wrapMode: 0
@@ -57,13 +54,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

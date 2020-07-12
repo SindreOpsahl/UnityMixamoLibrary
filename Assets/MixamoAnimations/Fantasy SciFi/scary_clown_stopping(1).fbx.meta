@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7128591268077076331
     second: scary_clown_stopping(1)
-  - first:
-      74: -9040686135493806778
-    second: scary_clown_stopping(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: scary_clown_stopping(1)
       takeName: mixamo.com
-      internalID: -9040686135493806778
+      internalID: -7128591268077076331
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0

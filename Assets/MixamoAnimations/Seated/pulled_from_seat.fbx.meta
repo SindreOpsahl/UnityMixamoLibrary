@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1533239871866782256
     second: pulled_from_seat
-  - first:
-      74: -7537632675810917221
-    second: pulled_from_seat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pulled_from_seat
       takeName: mixamo.com
-      internalID: -7537632675810917221
+      internalID: 1533239871866782256
       firstFrame: 0
       lastFrame: 140
       wrapMode: 0

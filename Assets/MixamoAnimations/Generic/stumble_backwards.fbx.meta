@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7824303916955418278
     second: stumble_backwards
-  - first:
-      74: 8694321359680476788
-    second: stumble_backwards
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stumble_backwards
       takeName: mixamo.com
-      internalID: 8694321359680476788
+      internalID: 7824303916955418278
       firstFrame: 0
       lastFrame: 100
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8017794404389507870
     second: head_gesture
-  - first:
-      74: 3044135364679602092
-    second: head_gesture
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: head_gesture
       takeName: mixamo.com
-      internalID: 3044135364679602092
+      internalID: -8017794404389507870
       firstFrame: 0
       lastFrame: 84
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

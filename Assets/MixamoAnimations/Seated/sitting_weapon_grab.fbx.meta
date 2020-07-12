@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8220485265096995816
     second: sitting_weapon_grab
-  - first:
-      74: -8687489843504534217
-    second: sitting_weapon_grab
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_weapon_grab
       takeName: mixamo.com
-      internalID: -8687489843504534217
+      internalID: -8220485265096995816
       firstFrame: 0
       lastFrame: 92
       wrapMode: 0

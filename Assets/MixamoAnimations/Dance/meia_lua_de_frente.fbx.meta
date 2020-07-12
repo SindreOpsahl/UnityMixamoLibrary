@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2134248076410180065
     second: meia_lua_de_frente
-  - first:
-      74: 855452271062211053
-    second: meia_lua_de_frente
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: meia_lua_de_frente
       takeName: mixamo.com
-      internalID: 855452271062211053
+      internalID: 2134248076410180065
       firstFrame: 0
       lastFrame: 74
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7119789866625497653
     second: football_hike
-  - first:
-      74: -4028516293092393636
-    second: football_hike
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: football_hike
       takeName: mixamo.com
-      internalID: -4028516293092393636
+      internalID: 7119789866625497653
       firstFrame: 0
       lastFrame: 98
       wrapMode: 0

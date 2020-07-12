@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7695775547164908712
     second: backward_right_turn_walk
-  - first:
-      74: -329282048288211715
-    second: walk_back_arc_right_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_back_arc_right_1
+      name: backward_right_turn_walk
       takeName: mixamo.com
-      internalID: -329282048288211715
+      internalID: -7695775547164908712
       firstFrame: 0
       lastFrame: 38
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

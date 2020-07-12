@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8397262936509950528
     second: chapaeu_de_couro
-  - first:
-      74: 8982739751929933613
-    second: chapaeu_de_couro
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: chapaeu_de_couro
       takeName: mixamo.com
-      internalID: 8982739751929933613
+      internalID: 8397262936509950528
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0

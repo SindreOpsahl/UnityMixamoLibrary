@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5764288776652724316
     second: idle_to_sprint
-  - first:
-      74: 8789263039299263837
-    second: sprint_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sprint_start
+      name: idle_to_sprint
       takeName: mixamo.com
-      internalID: 8789263039299263837
+      internalID: 5764288776652724316
       firstFrame: 0
       lastFrame: 24
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6980419854232330830
     second: strafe_1
-  - first:
-      74: -7691938255122495165
-    second: rifle_aim_walk_left_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_walk_left_1
+      name: strafe_1
       takeName: mixamo.com
-      internalID: -7691938255122495165
+      internalID: -6980419854232330830
       firstFrame: 0
       lastFrame: 32
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

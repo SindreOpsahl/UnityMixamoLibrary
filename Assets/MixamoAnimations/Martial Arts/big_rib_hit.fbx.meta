@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8307702941635315231
     second: big_rib_hit
-  - first:
-      74: -1779263343069105165
-    second: big_rib_hit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: big_rib_hit
       takeName: mixamo.com
-      internalID: -1779263343069105165
+      internalID: 8307702941635315231
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

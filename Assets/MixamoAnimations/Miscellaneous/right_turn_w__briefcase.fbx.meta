@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7027708029782661683
     second: right_turn_w__briefcase
-  - first:
-      74: 5450568223458089119
-    second: right_turn_w__briefcase
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: right_turn_w__briefcase
       takeName: mixamo.com
-      internalID: 5450568223458089119
+      internalID: -7027708029782661683
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0

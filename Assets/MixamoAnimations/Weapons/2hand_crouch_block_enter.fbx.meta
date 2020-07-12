@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7394386225439174825
     second: great_sword_crouching(3)
-  - first:
-      74: -4201230647157272723
-    second: 2hand_crouch_block_enter
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_crouch_block_enter
+      name: great_sword_crouching(3)
       takeName: mixamo.com
-      internalID: -4201230647157272723
+      internalID: 7394386225439174825
       firstFrame: 0
       lastFrame: 11
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

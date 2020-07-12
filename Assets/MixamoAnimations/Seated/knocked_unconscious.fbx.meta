@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3229049608017695378
     second: knocked_unconscious
-  - first:
-      74: 2721070539943869115
-    second: knocked_unconscious
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: knocked_unconscious
       takeName: mixamo.com
-      internalID: 2721070539943869115
+      internalID: -3229049608017695378
       firstFrame: 0
       lastFrame: 137
       wrapMode: 0

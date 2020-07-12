@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7970872663605045711
     second: zombie_transition
-  - first:
-      74: 3252128660416981242
-    second: zombie_transition
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_transition
       takeName: mixamo.com
-      internalID: 3252128660416981242
+      internalID: -7970872663605045711
       firstFrame: 0
       lastFrame: 200
       wrapMode: 0

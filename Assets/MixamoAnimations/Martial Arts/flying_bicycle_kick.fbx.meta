@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2637450409999700809
     second: flying_bicycle_kick
-  - first:
-      74: 2582209634237225610
-    second: flying_bicycle_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flying_bicycle_kick
       takeName: mixamo.com
-      internalID: 2582209634237225610
+      internalID: 2637450409999700809
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0

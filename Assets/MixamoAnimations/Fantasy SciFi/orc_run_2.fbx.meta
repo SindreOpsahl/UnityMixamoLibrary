@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4752396455696653443
     second: standing_run_forward(1)
-  - first:
-      74: -4096973711325898128
-    second: orc_run_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: orc_run_2
+      name: standing_run_forward(1)
       takeName: mixamo.com
-      internalID: -4096973711325898128
+      internalID: 4752396455696653443
       firstFrame: 0
       lastFrame: 26
       wrapMode: 0

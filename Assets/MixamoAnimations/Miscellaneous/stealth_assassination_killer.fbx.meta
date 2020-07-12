@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2140460082429304187
     second: stealth_assassination_killer
-  - first:
-      74: 2416472388333387773
-    second: stealth_assassination_killer
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stealth_assassination_killer
       takeName: mixamo.com
-      internalID: 2416472388333387773
+      internalID: -2140460082429304187
       firstFrame: 0
       lastFrame: 210
       wrapMode: 0

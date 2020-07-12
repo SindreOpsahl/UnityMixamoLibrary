@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8374312994306824188
     second: clean_and_jerk
-  - first:
-      74: -4914625783738139053
-    second: clean_and_jerk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: clean_and_jerk
       takeName: mixamo.com
-      internalID: -4914625783738139053
+      internalID: 8374312994306824188
       firstFrame: 0
       lastFrame: 520
       wrapMode: 0

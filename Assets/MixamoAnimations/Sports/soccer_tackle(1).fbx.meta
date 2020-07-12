@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5417128166291438082
     second: soccer_tackle(1)
-  - first:
-      74: 7853062375230028051
-    second: soccer_tackle(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: soccer_tackle(1)
       takeName: mixamo.com
-      internalID: 7853062375230028051
+      internalID: 5417128166291438082
       firstFrame: 0
       lastFrame: 53
       wrapMode: 0

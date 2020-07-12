@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3891674261714368229
     second: big_side_hit
-  - first:
-      74: 6685143728131034495
-    second: big_side_hit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: big_side_hit
       takeName: mixamo.com
-      internalID: 6685143728131034495
+      internalID: -3891674261714368229
       firstFrame: 0
       lastFrame: 44
       wrapMode: 0

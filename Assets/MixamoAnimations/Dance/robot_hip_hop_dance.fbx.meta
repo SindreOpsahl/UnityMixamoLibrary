@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3620661210373775530
     second: robot_hip_hop_dance
-  - first:
-      74: 4135434175909146208
-    second: robot_hip_hop_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: robot_hip_hop_dance
       takeName: mixamo.com
-      internalID: 4135434175909146208
+      internalID: -3620661210373775530
       firstFrame: 0
       lastFrame: 463
       wrapMode: 0

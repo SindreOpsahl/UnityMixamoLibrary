@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7164063672864828021
     second: wobbling
-  - first:
-      74: -5363940168801487471
-    second: wobbling
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wobbling
       takeName: mixamo.com
-      internalID: -5363940168801487471
+      internalID: 7164063672864828021
       firstFrame: 0
       lastFrame: 111
       wrapMode: 0

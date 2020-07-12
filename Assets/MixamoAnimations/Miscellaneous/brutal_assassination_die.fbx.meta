@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2236985579163272581
     second: brutal_assassination_die
-  - first:
-      74: 2469231603822519626
-    second: brutal_assassination_die
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: brutal_assassination_die
       takeName: mixamo.com
-      internalID: 2469231603822519626
+      internalID: 2236985579163272581
       firstFrame: 0
       lastFrame: 148
       wrapMode: 0

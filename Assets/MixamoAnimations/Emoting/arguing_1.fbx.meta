@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1363530032417825839
     second: standing_arguing
-  - first:
-      74: -930976352766388751
-    second: arguing_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: arguing_1
+      name: standing_arguing
       takeName: mixamo.com
-      internalID: -930976352766388751
+      internalID: 1363530032417825839
       firstFrame: 0
       lastFrame: 624
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

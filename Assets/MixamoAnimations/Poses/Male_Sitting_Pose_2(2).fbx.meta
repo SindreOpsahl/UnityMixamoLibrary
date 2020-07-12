@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3334759207098135015
     second: Male_Sitting_Pose_2(2)
-  - first:
-      74: -7108437788164734805
-    second: Male_Sitting_Pose_2(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Male_Sitting_Pose_2(2)
       takeName: mixamo.com
-      internalID: -7108437788164734805
+      internalID: 3334759207098135015
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

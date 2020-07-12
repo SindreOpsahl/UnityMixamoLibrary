@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -827189666452427975
     second: administering_cpr
-  - first:
-      74: 2132763971314668370
-    second: administering_cpr
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: administering_cpr
       takeName: mixamo.com
-      internalID: 2132763971314668370
+      internalID: -827189666452427975
       firstFrame: 0
       lastFrame: 259
       wrapMode: 0

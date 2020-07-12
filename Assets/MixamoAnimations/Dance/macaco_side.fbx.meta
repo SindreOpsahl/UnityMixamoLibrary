@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8564533279540245371
     second: macaco_side
-  - first:
-      74: 2927559253838502694
-    second: macaco_side
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: macaco_side
       takeName: mixamo.com
-      internalID: 2927559253838502694
+      internalID: 8564533279540245371
       firstFrame: 0
       lastFrame: 99
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6145970807896688909
     second: upward_thrust
-  - first:
-      74: -7412659526841807923
-    second: 1hand_attack_thrust
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_attack_thrust
+      name: upward_thrust
       takeName: mixamo.com
-      internalID: -7412659526841807923
+      internalID: -6145970807896688909
       firstFrame: 0
       lastFrame: 70
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

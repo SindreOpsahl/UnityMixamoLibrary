@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3517074130108057998
     second: running_crawl
-  - first:
-      74: -1940844405567213728
-    second: crawl_fast
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crawl_fast
+      name: running_crawl
       takeName: mixamo.com
-      internalID: -1940844405567213728
+      internalID: 3517074130108057998
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

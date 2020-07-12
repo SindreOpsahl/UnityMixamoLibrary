@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1509230430415548677
     second: waking
-  - first:
-      74: -6462085732576169231
-    second: waking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: waking
       takeName: mixamo.com
-      internalID: -6462085732576169231
+      internalID: -1509230430415548677
       firstFrame: 0
       lastFrame: 55
       wrapMode: 0

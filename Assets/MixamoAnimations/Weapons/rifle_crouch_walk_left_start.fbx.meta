@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4555693373359316205
     second: strafing(2)
-  - first:
-      74: -4624749540103214614
-    second: rifle_crouch_walk_left_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_walk_left_start
+      name: strafing(2)
       takeName: mixamo.com
-      internalID: -4624749540103214614
+      internalID: 4555693373359316205
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2528532164313775041
     second: iv_pole_walking
-  - first:
-      74: -2179225508809808161
-    second: walk_iv_pole
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_iv_pole
+      name: iv_pole_walking
       takeName: mixamo.com
-      internalID: -2179225508809808161
+      internalID: 2528532164313775041
       firstFrame: 0
       lastFrame: 47
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

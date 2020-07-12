@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6766354488978098992
     second: surprise_uppercut
-  - first:
-      74: -4458790138564108570
-    second: surprise_uppercut
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: surprise_uppercut
       takeName: mixamo.com
-      internalID: -4458790138564108570
+      internalID: -6766354488978098992
       firstFrame: 0
       lastFrame: 105
       wrapMode: 0

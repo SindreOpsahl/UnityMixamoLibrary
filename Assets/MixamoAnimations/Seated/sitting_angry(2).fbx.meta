@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3295362011393097825
     second: sitting_angry(2)
-  - first:
-      74: -855959592504374191
-    second: sitting_angry(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_angry(2)
       takeName: mixamo.com
-      internalID: -855959592504374191
+      internalID: 3295362011393097825
       firstFrame: 0
       lastFrame: 104
       wrapMode: 0

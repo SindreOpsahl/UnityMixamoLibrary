@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6305243246645599815
     second: texting_and_walking
-  - first:
-      74: -88839623709536315
-    second: texting_and_walking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: texting_and_walking
       takeName: mixamo.com
-      internalID: -88839623709536315
+      internalID: 6305243246645599815
       firstFrame: 0
       lastFrame: 99
       wrapMode: 0

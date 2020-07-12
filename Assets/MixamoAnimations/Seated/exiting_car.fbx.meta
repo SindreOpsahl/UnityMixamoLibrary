@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5917376592990161410
     second: exiting_car
-  - first:
-      74: 6837047978303114575
-    second: exiting_car
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: exiting_car
       takeName: mixamo.com
-      internalID: 6837047978303114575
+      internalID: 5917376592990161410
       firstFrame: 0
       lastFrame: 174
       wrapMode: 0

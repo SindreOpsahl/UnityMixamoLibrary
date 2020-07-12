@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8571392109526529347
     second: golf_pre_putt(1)
-  - first:
-      74: -4217299130465206132
-    second: golf_pre_putt(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_pre_putt(1)
       takeName: mixamo.com
-      internalID: -4217299130465206132
+      internalID: -8571392109526529347
       firstFrame: 0
       lastFrame: 385
       wrapMode: 0

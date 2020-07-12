@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6628076588264572396
     second: can_can
-  - first:
-      74: -8404898726574379074
-    second: can_can
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: can_can
       takeName: mixamo.com
-      internalID: -8404898726574379074
+      internalID: 6628076588264572396
       firstFrame: 0
       lastFrame: 110
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1510089344148363977
     second: left_pivot
-  - first:
-      74: -636899164066367951
-    second: left_pivot
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: left_pivot
       takeName: mixamo.com
-      internalID: -636899164066367951
+      internalID: 1510089344148363977
       firstFrame: 0
       lastFrame: 38
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9112663503086916825
     second: female_walk
-  - first:
-      74: -2005079182083488524
-    second: walk_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_3
+      name: female_walk
       takeName: mixamo.com
-      internalID: -2005079182083488524
+      internalID: 9112663503086916825
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

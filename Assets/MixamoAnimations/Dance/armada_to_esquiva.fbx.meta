@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -10267415827355498
     second: armada_to_esquiva
-  - first:
-      74: -8966805818264007766
-    second: armada_to_esquiva
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: armada_to_esquiva
       takeName: mixamo.com
-      internalID: -8966805818264007766
+      internalID: -10267415827355498
       firstFrame: 0
       lastFrame: 122
       wrapMode: 0

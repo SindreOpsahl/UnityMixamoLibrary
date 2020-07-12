@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: 781778797442923417
     second: crouching_turn_90_right
-  - first:
-      74: 7569801202918689007
-    second: rifle_kneel_turn90_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_kneel_turn90_right
+      name: crouching_turn_90_right
       takeName: mixamo.com
-      internalID: 7569801202918689007
+      internalID: 781778797442923417
       firstFrame: 0
       lastFrame: 38
       wrapMode: 0
@@ -58,8 +55,8 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6155030796973028858
     second: look_behind_run
-  - first:
-      74: 445678662080647067
-    second: run_looking_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_looking_back
+      name: look_behind_run
       takeName: mixamo.com
-      internalID: 445678662080647067
+      internalID: -6155030796973028858
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

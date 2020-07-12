@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6106586269447426209
     second: quick_roll_to_run
-  - first:
-      74: 683465098047589146
-    second: run_dodge_roll
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_dodge_roll
+      name: quick_roll_to_run
       takeName: mixamo.com
-      internalID: 683465098047589146
+      internalID: -6106586269447426209
       firstFrame: 0
       lastFrame: 42
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

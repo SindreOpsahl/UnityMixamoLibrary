@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -99576692337756047
     second: stop_walking_with_rifle
-  - first:
-      74: 7551669167242997858
-    second: rifle_walk_stop_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_walk_stop_1
+      name: stop_walking_with_rifle
       takeName: mixamo.com
-      internalID: 7551669167242997858
+      internalID: -99576692337756047
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

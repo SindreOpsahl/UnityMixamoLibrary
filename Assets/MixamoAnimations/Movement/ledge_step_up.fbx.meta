@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1247685233054993338
     second: jumping(4)
-  - first:
-      74: -5140190284928455288
-    second: ledge_step_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: ledge_step_up
+      name: jumping(4)
       takeName: mixamo.com
-      internalID: -5140190284928455288
+      internalID: 1247685233054993338
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

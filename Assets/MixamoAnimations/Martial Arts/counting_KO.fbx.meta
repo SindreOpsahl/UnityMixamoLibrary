@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -8185906254466565675
     second: counting_KO
-  - first:
-      74: 7559595107355995911
-    second: counting_KO
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -46,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: counting_KO
       takeName: mixamo.com
-      internalID: 7559595107355995911
+      internalID: -8185906254466565675
       firstFrame: 0
       lastFrame: 418
       wrapMode: 0

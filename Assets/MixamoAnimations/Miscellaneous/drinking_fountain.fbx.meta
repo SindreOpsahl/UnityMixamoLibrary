@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1195646738732145481
     second: drinking_fountain
-  - first:
-      74: 3190356865491266960
-    second: drinking_fountain
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: drinking_fountain
       takeName: mixamo.com
-      internalID: 3190356865491266960
+      internalID: 1195646738732145481
       firstFrame: 0
       lastFrame: 307
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9090797099363525189
     second: great_sword_attack
-  - first:
-      74: 4346862583969277010
-    second: 2hand_attack_hilt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_attack_hilt
+      name: great_sword_attack
       takeName: mixamo.com
-      internalID: 4346862583969277010
+      internalID: 9090797099363525189
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6284286505691850609
     second: turning_right
-  - first:
-      74: 761846363109556293
-    second: turn90_right_fast
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: turn90_right_fast
+      name: turning_right
       takeName: mixamo.com
-      internalID: 761846363109556293
+      internalID: -6284286505691850609
       firstFrame: 0
       lastFrame: 84
       wrapMode: 0

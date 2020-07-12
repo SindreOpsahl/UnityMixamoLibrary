@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3878503649938787695
     second: running_up_stairs
-  - first:
-      74: 7134613744074793659
-    second: run_stairs_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_stairs_up
+      name: running_up_stairs
       takeName: mixamo.com
-      internalID: 7134613744074793659
+      internalID: 3878503649938787695
       firstFrame: 0
       lastFrame: 18
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

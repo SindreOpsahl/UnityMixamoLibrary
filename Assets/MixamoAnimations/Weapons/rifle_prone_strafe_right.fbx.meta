@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6792393096587482694
     second: prone_left_turn
-  - first:
-      74: -7844514893689617084
-    second: rifle_prone_strafe_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_prone_strafe_right
+      name: prone_left_turn
       takeName: mixamo.com
-      internalID: -7844514893689617084
+      internalID: 6792393096587482694
       firstFrame: 0
       lastFrame: 31
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

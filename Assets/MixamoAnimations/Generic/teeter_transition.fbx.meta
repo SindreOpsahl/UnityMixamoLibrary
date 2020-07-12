@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8271953455851693538
     second: teeter_transition
-  - first:
-      74: 2956806849536246046
-    second: teeter_transition
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: teeter_transition
       takeName: mixamo.com
-      internalID: 2956806849536246046
+      internalID: 8271953455851693538
       firstFrame: 0
       lastFrame: 24
       wrapMode: 0

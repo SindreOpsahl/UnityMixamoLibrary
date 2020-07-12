@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5648907544364082958
     second: death_crouching_headshot_front
-  - first:
-      74: 920062881213559846
-    second: rifle_kneel_death_headshot
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_kneel_death_headshot
+      name: death_crouching_headshot_front
       takeName: mixamo.com
-      internalID: 920062881213559846
+      internalID: -5648907544364082958
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

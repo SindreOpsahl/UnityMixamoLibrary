@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6718931135278134075
     second: opening_a_lid
-  - first:
-      74: -279465789735907003
-    second: opening_a_lid
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: opening_a_lid
       takeName: mixamo.com
-      internalID: -279465789735907003
+      internalID: -6718931135278134075
       firstFrame: 0
       lastFrame: 268
       wrapMode: 0

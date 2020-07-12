@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2427334101278506786
     second: standing_run_forward_stop
-  - first:
-      74: -138920443938025894
-    second: orc_run_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: orc_run_stop
+      name: standing_run_forward_stop
       takeName: mixamo.com
-      internalID: -138920443938025894
+      internalID: -2427334101278506786
       firstFrame: 0
       lastFrame: 27
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7706589772610056851
     second: boxing1
-  - first:
-      74: -7305731422910129690
-    second: boxing1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: boxing1
       takeName: mixamo.com
-      internalID: -7305731422910129690
+      internalID: 7706589772610056851
       firstFrame: 0
       lastFrame: 66
       wrapMode: 0

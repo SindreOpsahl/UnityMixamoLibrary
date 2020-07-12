@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5325870106455633661
     second: esquiva_5
-  - first:
-      74: -2683115931909652300
-    second: esquiva_5
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: esquiva_5
       takeName: mixamo.com
-      internalID: -2683115931909652300
+      internalID: 5325870106455633661
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

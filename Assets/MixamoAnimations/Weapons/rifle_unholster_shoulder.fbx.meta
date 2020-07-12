@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6838702810943395220
     second: grab_rifle_from_behind_shoulder
-  - first:
-      74: -1495533680972378502
-    second: rifle_unholster_shoulder
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_unholster_shoulder
+      name: grab_rifle_from_behind_shoulder
       takeName: mixamo.com
-      internalID: -1495533680972378502
+      internalID: 6838702810943395220
       firstFrame: 0
       lastFrame: 106
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

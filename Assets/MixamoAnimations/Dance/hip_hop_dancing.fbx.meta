@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5441958050402262384
     second: hip_hop_dancing
-  - first:
-      74: 2305190469934099359
-    second: hip_hop_dancing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: hip_hop_dancing
       takeName: mixamo.com
-      internalID: 2305190469934099359
+      internalID: 5441958050402262384
       firstFrame: 0
       lastFrame: 212
       wrapMode: 0

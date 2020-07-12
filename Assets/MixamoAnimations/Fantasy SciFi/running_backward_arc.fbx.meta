@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3667320248403098535
     second: running_backward_arc
-  - first:
-      74: -6175605997442773113
-    second: running_backward_arc
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: running_backward_arc
       takeName: mixamo.com
-      internalID: -6175605997442773113
+      internalID: -3667320248403098535
       firstFrame: 0
       lastFrame: 17
       wrapMode: 0

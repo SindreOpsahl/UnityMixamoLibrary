@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3984621322464294033
     second: standing_death_forward_02
-  - first:
-      74: 90777528357260486
-    second: standing_death_forward_02
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_death_forward_02
       takeName: mixamo.com
-      internalID: 90777528357260486
+      internalID: 3984621322464294033
       firstFrame: 0
       lastFrame: 71
       wrapMode: 0

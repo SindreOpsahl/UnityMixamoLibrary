@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8716554043853981779
     second: writhing_in_pain
-  - first:
-      74: 6410072733043606898
-    second: writhing_in_pain
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: writhing_in_pain
       takeName: mixamo.com
-      internalID: 6410072733043606898
+      internalID: -8716554043853981779
       firstFrame: 0
       lastFrame: 170
       wrapMode: 0

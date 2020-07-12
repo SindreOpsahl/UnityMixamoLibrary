@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -988569222343360628
     second: wheelbarrow_idle
-  - first:
-      74: -4870020126422552160
-    second: wheelbarrow_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wheelbarrow_idle
       takeName: mixamo.com
-      internalID: -4870020126422552160
+      internalID: -988569222343360628
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

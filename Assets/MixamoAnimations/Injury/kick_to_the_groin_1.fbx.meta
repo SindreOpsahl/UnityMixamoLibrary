@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7858087209758553209
     second: kick_to_the_groin_1
-  - first:
-      74: -7633580795153258386
-    second: kick_to_the_groin_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kick_to_the_groin_1
       takeName: mixamo.com
-      internalID: -7633580795153258386
+      internalID: 7858087209758553209
       firstFrame: 0
       lastFrame: 98
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4328272824467838719
     second: flying_kick
-  - first:
-      74: -5038171554659506685
-    second: flying_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flying_kick
       takeName: mixamo.com
-      internalID: -5038171554659506685
+      internalID: 4328272824467838719
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1527418269976358626
     second: baseball_pitching1
-  - first:
-      74: -2966331122166167736
-    second: baseball_pitching1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_pitching1
       takeName: mixamo.com
-      internalID: -2966331122166167736
+      internalID: -1527418269976358626
       firstFrame: 0
       lastFrame: 156
       wrapMode: 0

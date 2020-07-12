@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3730634663759221298
     second: sitting_victory
-  - first:
-      74: -406235641416775477
-    second: sitting_victory
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_victory
       takeName: mixamo.com
-      internalID: -406235641416775477
+      internalID: 3730634663759221298
       firstFrame: 0
       lastFrame: 168
       wrapMode: 0

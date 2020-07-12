@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2774748993406844467
     second: gunplay(4)
-  - first:
-      74: 5443988220067570217
-    second: shotgun_fire_pump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: shotgun_fire_pump
+      name: gunplay(4)
       takeName: mixamo.com
-      internalID: 5443988220067570217
+      internalID: -2774748993406844467
       firstFrame: 0
       lastFrame: 77
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

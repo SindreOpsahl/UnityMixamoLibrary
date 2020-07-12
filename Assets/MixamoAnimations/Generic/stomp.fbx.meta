@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5175275209577361884
     second: stomp
-  - first:
-      74: -1950891451782290413
-    second: stomp
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: stomp
       takeName: mixamo.com
-      internalID: -1950891451782290413
+      internalID: 5175275209577361884
       firstFrame: 0
       lastFrame: 56
       wrapMode: 0

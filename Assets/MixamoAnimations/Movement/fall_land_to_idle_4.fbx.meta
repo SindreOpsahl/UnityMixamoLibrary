@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7588494538641548659
     second: falling_to_landing
-  - first:
-      74: -7685745275916647613
-    second: fall_land_to_idle_4
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: fall_land_to_idle_4
+      name: falling_to_landing
       takeName: mixamo.com
-      internalID: -7685745275916647613
+      internalID: 7588494538641548659
       firstFrame: 0
       lastFrame: 32
       wrapMode: 0
@@ -54,13 +51,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

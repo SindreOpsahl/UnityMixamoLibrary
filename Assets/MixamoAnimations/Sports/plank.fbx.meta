@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2540205971156637914
     second: plank
-  - first:
-      74: 8727757830382989778
-    second: plank
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: plank
       takeName: mixamo.com
-      internalID: 8727757830382989778
+      internalID: -2540205971156637914
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

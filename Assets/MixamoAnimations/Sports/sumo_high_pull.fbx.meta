@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8530605117885138563
     second: sumo_high_pull
-  - first:
-      74: -3894354093000755233
-    second: sumo_high_pull
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sumo_high_pull
       takeName: mixamo.com
-      internalID: -3894354093000755233
+      internalID: -8530605117885138563
       firstFrame: 0
       lastFrame: 38
       wrapMode: 0

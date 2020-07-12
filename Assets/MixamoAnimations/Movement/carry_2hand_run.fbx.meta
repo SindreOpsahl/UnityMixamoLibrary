@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3835550810645940981
     second: running_2
-  - first:
-      74: 6321869046963989484
-    second: carry_2hand_run
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: carry_2hand_run
+      name: running_2
       takeName: mixamo.com
-      internalID: 6321869046963989484
+      internalID: 3835550810645940981
       firstFrame: 0
       lastFrame: 38
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

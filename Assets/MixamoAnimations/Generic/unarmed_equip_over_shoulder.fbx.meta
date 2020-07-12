@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1226283074282595263
     second: unarmed_equip_over_shoulder
-  - first:
-      74: 9060655724930118553
-    second: unarmed_equip_over_shoulder
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: unarmed_equip_over_shoulder
       takeName: mixamo.com
-      internalID: 9060655724930118553
+      internalID: -1226283074282595263
       firstFrame: 0
       lastFrame: 50
       wrapMode: 0

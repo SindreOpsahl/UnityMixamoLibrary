@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6522306606493605874
     second: pivot
-  - first:
-      74: -2584487270124887116
-    second: pivot
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pivot
       takeName: mixamo.com
-      internalID: -2584487270124887116
+      internalID: 6522306606493605874
       firstFrame: 0
       lastFrame: 135
       wrapMode: 0

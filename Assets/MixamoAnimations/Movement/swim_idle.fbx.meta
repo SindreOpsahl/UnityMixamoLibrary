@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3988297190053679269
     second: treading_water
-  - first:
-      74: 1759932460135986115
-    second: swim_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,24 +38,24 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: swim_idle
+      name: treading_water
       takeName: mixamo.com
-      internalID: 1759932460135986115
+      internalID: 3988297190053679269
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0
       orientationOffsetY: 0
-      level: 0
+      level: 0.23
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3656801455308833382
     second: laying_nodding
-  - first:
-      74: -3204956963773823370
-    second: laying_nodding
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_nodding
       takeName: mixamo.com
-      internalID: -3204956963773823370
+      internalID: -3656801455308833382
       firstFrame: 0
       lastFrame: 43
       wrapMode: 0

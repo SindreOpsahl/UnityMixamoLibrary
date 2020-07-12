@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1287277331998375555
     second: stand_to_freehang
-  - first:
-      74: 9044041046129317819
-    second: hang_jump_to
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: hang_jump_to
+      name: stand_to_freehang
       takeName: mixamo.com
-      internalID: 9044041046129317819
+      internalID: 1287277331998375555
       firstFrame: 0
       lastFrame: 51
       wrapMode: 0
@@ -54,13 +51,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8442422648163188746
     second: putting_down
-  - first:
-      74: -6485964996957579951
-    second: putting_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: putting_down
       takeName: mixamo.com
-      internalID: -6485964996957579951
+      internalID: 8442422648163188746
       firstFrame: 0
       lastFrame: 310
       wrapMode: 0

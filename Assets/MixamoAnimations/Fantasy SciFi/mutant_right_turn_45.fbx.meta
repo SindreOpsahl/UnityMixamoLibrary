@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4865158637403064681
     second: mutant_right_turn_45
-  - first:
-      74: 3168152023587086416
-    second: mutant_right_turn_45
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_right_turn_45
       takeName: mixamo.com
-      internalID: 3168152023587086416
+      internalID: 4865158637403064681
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 580707474509638810
     second: holding_down
-  - first:
-      74: -3136870618690832841
-    second: holding_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: holding_down
       takeName: mixamo.com
-      internalID: -3136870618690832841
+      internalID: 580707474509638810
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0

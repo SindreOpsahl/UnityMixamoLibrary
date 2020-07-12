@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 591362875212449698
     second: spin_in_place
-  - first:
-      74: -9180498524058292953
-    second: spin_in_place
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: spin_in_place
       takeName: mixamo.com
-      internalID: -9180498524058292953
+      internalID: 591362875212449698
       firstFrame: 0
       lastFrame: 120
       wrapMode: 0

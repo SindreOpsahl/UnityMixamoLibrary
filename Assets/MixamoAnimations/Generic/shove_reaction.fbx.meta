@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3940626130324386421
     second: shove_reaction
-  - first:
-      74: -5396738728625468290
-    second: shove_reaction
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shove_reaction
       takeName: mixamo.com
-      internalID: -5396738728625468290
+      internalID: 3940626130324386421
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

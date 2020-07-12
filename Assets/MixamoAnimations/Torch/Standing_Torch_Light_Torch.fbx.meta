@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5956417049594503287
     second: Standing_Torch_Light_Torch
-  - first:
-      74: -9008403266023356629
-    second: Standing_Torch_Light_Torch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Light_Torch
       takeName: mixamo.com
-      internalID: -9008403266023356629
+      internalID: 5956417049594503287
       firstFrame: 0
       lastFrame: 120
       wrapMode: 0

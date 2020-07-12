@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6406941125770546296
     second: orc_idle(1)
-  - first:
-      74: 3770167657018488685
-    second: orc_idle(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: orc_idle(1)
       takeName: mixamo.com
-      internalID: 3770167657018488685
+      internalID: -6406941125770546296
       firstFrame: 0
       lastFrame: 200
       wrapMode: 0

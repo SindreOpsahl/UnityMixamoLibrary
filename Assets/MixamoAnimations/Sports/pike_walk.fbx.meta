@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5733251448959186355
     second: pike_walk
-  - first:
-      74: -1433503245970727933
-    second: pike_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pike_walk
       takeName: mixamo.com
-      internalID: -1433503245970727933
+      internalID: 5733251448959186355
       firstFrame: 0
       lastFrame: 195
       wrapMode: 0

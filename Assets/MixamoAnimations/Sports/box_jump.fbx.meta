@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5128353310874944765
     second: box_jump
-  - first:
-      74: -1814486722403819195
-    second: box_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: box_jump
       takeName: mixamo.com
-      internalID: -1814486722403819195
+      internalID: 5128353310874944765
       firstFrame: 0
       lastFrame: 117
       wrapMode: 0

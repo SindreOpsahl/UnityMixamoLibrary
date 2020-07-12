@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8680652372799602132
     second: right_shimmy
-  - first:
-      74: 20631965016595421
-    second: right_shimmy
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: right_shimmy
       takeName: mixamo.com
-      internalID: 20631965016595421
+      internalID: -8680652372799602132
       firstFrame: 0
       lastFrame: 42
       wrapMode: 0

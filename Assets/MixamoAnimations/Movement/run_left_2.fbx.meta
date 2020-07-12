@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8708376632220999322
     second: left_strafe(2)
-  - first:
-      74: 6073639695464836592
-    second: run_left_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_left_2
+      name: left_strafe(2)
       takeName: mixamo.com
-      internalID: 6073639695464836592
+      internalID: -8708376632220999322
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

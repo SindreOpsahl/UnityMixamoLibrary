@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4309076774541700553
     second: football_catch(1)
-  - first:
-      74: -5314632516164435760
-    second: football_catch(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: football_catch(1)
       takeName: mixamo.com
-      internalID: -5314632516164435760
+      internalID: 4309076774541700553
       firstFrame: 0
       lastFrame: 125
       wrapMode: 0

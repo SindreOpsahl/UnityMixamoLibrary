@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5733075790160586082
     second: injured_stumble_idle
-  - first:
-      74: -903002079293592622
-    second: injured_stumble_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: injured_stumble_idle
       takeName: mixamo.com
-      internalID: -903002079293592622
+      internalID: 5733075790160586082
       firstFrame: 0
       lastFrame: 152
       wrapMode: 0

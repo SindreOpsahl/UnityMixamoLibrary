@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1049238884351576677
     second: kiss
-  - first:
-      74: 5085134238272371412
-    second: kiss_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: kiss_1
+      name: kiss
       takeName: mixamo.com
-      internalID: 5085134238272371412
+      internalID: 1049238884351576677
       firstFrame: 0
       lastFrame: 212
       wrapMode: 0

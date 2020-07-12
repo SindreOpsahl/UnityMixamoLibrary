@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8558295666658454938
     second: idle_1(4)
-  - first:
-      74: 4469057863636163525
-    second: rifle_idle_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,23 +38,23 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_idle_2
+      name: idle_1(4)
       takeName: mixamo.com
-      internalID: 4469057863636163525
+      internalID: 8558295666658454938
       firstFrame: 0
       lastFrame: 63
       wrapMode: 0
-      orientationOffsetY: 0
+      orientationOffsetY: 51.9
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

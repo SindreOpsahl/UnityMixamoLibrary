@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -948546402611251431
     second: jump_backward(1)
-  - first:
-      74: -3889565389354828080
-    second: rifle_aim_jog_back_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_jog_back_jump
+      name: jump_backward(1)
       takeName: mixamo.com
-      internalID: -3889565389354828080
+      internalID: -948546402611251431
       firstFrame: 0
       lastFrame: 27
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8787621283826645003
     second: evading_a_threat
-  - first:
-      74: -83548908906135988
-    second: evading_a_threat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: evading_a_threat
       takeName: mixamo.com
-      internalID: -83548908906135988
+      internalID: 8787621283826645003
       firstFrame: 0
       lastFrame: 111
       wrapMode: 0

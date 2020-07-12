@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5314109893863313662
     second: shoved
-  - first:
-      74: -3530398945080788283
-    second: shoved
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shoved
       takeName: mixamo.com
-      internalID: -3530398945080788283
+      internalID: 5314109893863313662
       firstFrame: 0
       lastFrame: 96
       wrapMode: 0

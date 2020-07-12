@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5618167644391459462
     second: slow_jog_backwards
-  - first:
-      74: -837166373244506644
-    second: jog_back_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jog_back_2
+      name: slow_jog_backwards
       takeName: mixamo.com
-      internalID: -837166373244506644
+      internalID: 5618167644391459462
       firstFrame: 0
       lastFrame: 22
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

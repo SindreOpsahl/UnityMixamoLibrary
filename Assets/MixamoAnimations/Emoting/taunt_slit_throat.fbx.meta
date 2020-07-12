@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6589111215786540659
     second: taunt_gesture
-  - first:
-      74: -344358170991288478
-    second: taunt_slit_throat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: taunt_slit_throat
+      name: taunt_gesture
       takeName: mixamo.com
-      internalID: -344358170991288478
+      internalID: 6589111215786540659
       firstFrame: 0
       lastFrame: 59
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

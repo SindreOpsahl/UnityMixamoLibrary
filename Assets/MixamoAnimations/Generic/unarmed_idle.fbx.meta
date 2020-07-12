@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7891059732353904788
     second: unarmed_idle
-  - first:
-      74: 3259416596322983643
-    second: unarmed_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: unarmed_idle
       takeName: mixamo.com
-      internalID: 3259416596322983643
+      internalID: 7891059732353904788
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0

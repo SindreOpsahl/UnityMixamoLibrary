@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1958862212184458044
     second: pistol_kneeling_idle
-  - first:
-      74: 8420535185195256605
-    second: pistol_kneel_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_kneel_idle
+      name: pistol_kneeling_idle
       takeName: mixamo.com
-      internalID: 8420535185195256605
+      internalID: 1958862212184458044
       firstFrame: 0
       lastFrame: 114
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

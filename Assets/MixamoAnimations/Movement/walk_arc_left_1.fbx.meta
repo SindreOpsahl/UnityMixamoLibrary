@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 990567442543372723
     second: walking_arc_left
-  - first:
-      74: 2500498022671693133
-    second: walk_arc_left_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_arc_left_1
+      name: walking_arc_left
       takeName: mixamo.com
-      internalID: 2500498022671693133
+      internalID: 990567442543372723
       firstFrame: 0
       lastFrame: 31
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

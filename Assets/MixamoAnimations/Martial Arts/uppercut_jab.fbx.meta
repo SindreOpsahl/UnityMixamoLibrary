@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4080242434938529805
     second: uppercut_jab
-  - first:
-      74: 4324165696435379380
-    second: uppercut_jab
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: uppercut_jab
       takeName: mixamo.com
-      internalID: 4324165696435379380
+      internalID: 4080242434938529805
       firstFrame: 0
       lastFrame: 108
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7965072320024665960
     second: being_carried_pick_up
-  - first:
-      74: -2405797148548498720
-    second: being_carried_pick_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: being_carried_pick_up
       takeName: mixamo.com
-      internalID: -2405797148548498720
+      internalID: -7965072320024665960
       firstFrame: 0
       lastFrame: 157
       wrapMode: 0

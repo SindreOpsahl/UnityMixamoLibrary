@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1759564895308043711
     second: jab_to_elbow_punch
-  - first:
-      74: 6953298166112971041
-    second: jab_to_elbow_punch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jab_to_elbow_punch
       takeName: mixamo.com
-      internalID: 6953298166112971041
+      internalID: 1759564895308043711
       firstFrame: 0
       lastFrame: 98
       wrapMode: 0

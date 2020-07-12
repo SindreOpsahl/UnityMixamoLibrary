@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1357975863375414628
     second: idle_to_running
-  - first:
-      74: -2152881814164169885
-    second: rifle_aim_idle_to_run_fast
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_idle_to_run_fast
+      name: idle_to_running
       takeName: mixamo.com
-      internalID: -2152881814164169885
+      internalID: -1357975863375414628
       firstFrame: 0
       lastFrame: 27
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

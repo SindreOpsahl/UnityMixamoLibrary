@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2949997294755180193
     second: overhead_squat
-  - first:
-      74: 856007846493573002
-    second: overhead_squat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: overhead_squat
       takeName: mixamo.com
-      internalID: 856007846493573002
+      internalID: 2949997294755180193
       firstFrame: 0
       lastFrame: 56
       wrapMode: 0

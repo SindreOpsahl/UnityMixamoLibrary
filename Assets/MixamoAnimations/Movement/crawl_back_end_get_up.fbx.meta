@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 38007314734021162
     second: getting_up
-  - first:
-      74: 2149574021407591948
-    second: crawl_back_end_get_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crawl_back_end_get_up
+      name: getting_up
       takeName: mixamo.com
-      internalID: 2149574021407591948
+      internalID: 38007314734021162
       firstFrame: 0
       lastFrame: 81
       wrapMode: 0

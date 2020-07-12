@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3713839095046396846
     second: talking(1)
-  - first:
-      74: 6230812572896378118
-    second: talking_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: talking_1
+      name: talking(1)
       takeName: mixamo.com
-      internalID: 6230812572896378118
+      internalID: 3713839095046396846
       firstFrame: 0
       lastFrame: 178
       wrapMode: 0

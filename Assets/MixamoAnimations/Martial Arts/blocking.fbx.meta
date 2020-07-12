@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1642150617331904598
     second: blocking
-  - first:
-      74: -859116898471952532
-    second: blocking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: blocking
       takeName: mixamo.com
-      internalID: -859116898471952532
+      internalID: -1642150617331904598
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0

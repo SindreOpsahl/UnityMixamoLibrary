@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8752385629856301639
     second: reaching_down
-  - first:
-      74: 6616690377971704726
-    second: reaching_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: reaching_down
       takeName: mixamo.com
-      internalID: 6616690377971704726
+      internalID: -8752385629856301639
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0

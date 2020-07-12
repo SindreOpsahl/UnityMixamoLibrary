@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5624127060478431100
     second: walk_to_stop
-  - first:
-      74: -6888354460611632292
-    second: carry_2hand_walk_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: carry_2hand_walk_stop
+      name: walk_to_stop
       takeName: mixamo.com
-      internalID: -6888354460611632292
+      internalID: -5624127060478431100
       firstFrame: 0
       lastFrame: 147
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -5391248476817862485
     second: crouched_to_sprinting
-  - first:
-      74: -5075799678554126475
-    second: crouch_to_sprint
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_to_sprint
+      name: crouched_to_sprinting
       takeName: mixamo.com
-      internalID: -5075799678554126475
+      internalID: -5391248476817862485
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
@@ -57,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

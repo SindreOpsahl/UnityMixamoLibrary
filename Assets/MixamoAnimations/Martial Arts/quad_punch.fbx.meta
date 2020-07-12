@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2564546575439546472
     second: quad_punch
-  - first:
-      74: -9058880194453013670
-    second: quad_punch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: quad_punch
       takeName: mixamo.com
-      internalID: -9058880194453013670
+      internalID: -2564546575439546472
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0

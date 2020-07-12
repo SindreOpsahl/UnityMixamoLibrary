@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6639254504674007907
     second: rumba_dancing
-  - first:
-      74: 5511510593942032742
-    second: rumba_dancing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rumba_dancing
       takeName: mixamo.com
-      internalID: 5511510593942032742
+      internalID: -6639254504674007907
       firstFrame: 0
       lastFrame: 71
       wrapMode: 0

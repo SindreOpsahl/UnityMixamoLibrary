@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2042715214479060333
     second: butterfly_twirl
-  - first:
-      74: 7276936513747190938
-    second: butterfly_twirl
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: butterfly_twirl
       takeName: mixamo.com
-      internalID: 7276936513747190938
+      internalID: -2042715214479060333
       firstFrame: 0
       lastFrame: 92
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -908194297127209654
     second: bboy_pose_to_idle
-  - first:
-      74: 154058368816820382
-    second: bboy_pose_to_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bboy_pose_to_idle
       takeName: mixamo.com
-      internalID: 154058368816820382
+      internalID: -908194297127209654
       firstFrame: 0
       lastFrame: 70
       wrapMode: 0

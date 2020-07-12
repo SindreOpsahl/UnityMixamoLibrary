@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6917619872367149758
     second: goalkeeper_diving_save(1)
-  - first:
-      74: -670941961011925166
-    second: goalkeeper_diving_save(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_diving_save(1)
       takeName: mixamo.com
-      internalID: -670941961011925166
+      internalID: -6917619872367149758
       firstFrame: 0
       lastFrame: 102
       wrapMode: 0

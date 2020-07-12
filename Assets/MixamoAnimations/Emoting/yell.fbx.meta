@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4634929049977629259
     second: yelling_out
-  - first:
-      74: 243091169884520501
-    second: yell
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: yell
+      name: yelling_out
       takeName: mixamo.com
-      internalID: 243091169884520501
+      internalID: 4634929049977629259
       firstFrame: 0
       lastFrame: 129
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4282786021923523658
     second: falling_to_roll
-  - first:
-      74: -7630416937915856133
-    second: fall_to_roll_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: fall_to_roll_1
+      name: falling_to_roll
       takeName: mixamo.com
-      internalID: -7630416937915856133
+      internalID: 4282786021923523658
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

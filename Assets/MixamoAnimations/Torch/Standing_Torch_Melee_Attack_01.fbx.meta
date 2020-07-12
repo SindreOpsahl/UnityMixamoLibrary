@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5888804924365513617
     second: Standing_Torch_Melee_Attack_01
-  - first:
-      74: -6613757465462602821
-    second: Standing_Torch_Melee_Attack_01
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Melee_Attack_01
       takeName: mixamo.com
-      internalID: -6613757465462602821
+      internalID: -5888804924365513617
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0

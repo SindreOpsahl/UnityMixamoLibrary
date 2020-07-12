@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8123582933684397478
     second: zombie_stand_up(2)
-  - first:
-      74: -2126288398384149521
-    second: zombie_stand_up(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_stand_up(2)
       takeName: mixamo.com
-      internalID: -2126288398384149521
+      internalID: 8123582933684397478
       firstFrame: 0
       lastFrame: 174
       wrapMode: 0

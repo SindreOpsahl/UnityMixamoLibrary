@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2531419619819500719
     second: no
-  - first:
-      74: 3271799773214585716
-    second: no
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: no
       takeName: mixamo.com
-      internalID: 3271799773214585716
+      internalID: 2531419619819500719
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

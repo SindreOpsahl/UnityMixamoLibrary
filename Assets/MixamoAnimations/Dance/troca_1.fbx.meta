@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 907589869243941026
     second: troca_1
-  - first:
-      74: 2723708457443955850
-    second: troca_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: troca_1
       takeName: mixamo.com
-      internalID: 2723708457443955850
+      internalID: 907589869243941026
       firstFrame: 0
       lastFrame: 155
       wrapMode: 0

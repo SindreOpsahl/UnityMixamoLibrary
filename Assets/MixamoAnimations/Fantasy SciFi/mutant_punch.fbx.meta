@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7926848520144938049
     second: mutant_punch
-  - first:
-      74: -8294571058993627829
-    second: mutant_punch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: mutant_punch
       takeName: mixamo.com
-      internalID: -8294571058993627829
+      internalID: -7926848520144938049
       firstFrame: 0
       lastFrame: 33
       wrapMode: 0

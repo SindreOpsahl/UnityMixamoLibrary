@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2462574745280368005
     second: injured_standing_jump
-  - first:
-      74: 971728376662500299
-    second: injured_standing_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: injured_standing_jump
       takeName: mixamo.com
-      internalID: 971728376662500299
+      internalID: 2462574745280368005
       firstFrame: 0
       lastFrame: 57
       wrapMode: 0

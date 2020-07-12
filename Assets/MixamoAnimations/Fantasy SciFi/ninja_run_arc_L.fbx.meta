@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3373582914529210579
     second: ninja_run_arc_L
-  - first:
-      74: 3475018968413174025
-    second: ninja_run_arc_L
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ninja_run_arc_L
       takeName: mixamo.com
-      internalID: 3475018968413174025
+      internalID: 3373582914529210579
       firstFrame: 0
       lastFrame: 18
       wrapMode: 0

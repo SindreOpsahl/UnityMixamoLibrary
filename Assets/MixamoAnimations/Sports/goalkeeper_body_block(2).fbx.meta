@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4127532821954292040
     second: goalkeeper_body_block(2)
-  - first:
-      74: -950725738649472115
-    second: goalkeeper_body_block(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_body_block(2)
       takeName: mixamo.com
-      internalID: -950725738649472115
+      internalID: -4127532821954292040
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0

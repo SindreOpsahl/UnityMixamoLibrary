@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5501441142794330459
     second: gangnam_style
-  - first:
-      74: 8431042668263606999
-    second: gangnam_style
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: gangnam_style
       takeName: mixamo.com
-      internalID: 8431042668263606999
+      internalID: 5501441142794330459
       firstFrame: 0
       lastFrame: 371
       wrapMode: 0

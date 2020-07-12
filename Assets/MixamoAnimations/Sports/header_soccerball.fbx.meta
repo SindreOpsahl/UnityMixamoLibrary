@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -441128081878165877
     second: header_soccerball
-  - first:
-      74: 596703145126550971
-    second: header_soccerball
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: header_soccerball
       takeName: mixamo.com
-      internalID: 596703145126550971
+      internalID: -441128081878165877
       firstFrame: 0
       lastFrame: 126
       wrapMode: 0

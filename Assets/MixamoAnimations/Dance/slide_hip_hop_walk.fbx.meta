@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6400151644102178824
     second: slide_hip_hop_walk
-  - first:
-      74: -5011667726793011657
-    second: slide_hip_hop_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: slide_hip_hop_walk
       takeName: mixamo.com
-      internalID: -5011667726793011657
+      internalID: -6400151644102178824
       firstFrame: 0
       lastFrame: 29
       wrapMode: 0

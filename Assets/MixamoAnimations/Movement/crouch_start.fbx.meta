@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 855719464481881272
     second: standing_to_crouched
-  - first:
-      74: 5055652122923869923
-    second: crouch_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_start
+      name: standing_to_crouched
       takeName: mixamo.com
-      internalID: 5055652122923869923
+      internalID: 855719464481881272
       firstFrame: 0
       lastFrame: 19
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

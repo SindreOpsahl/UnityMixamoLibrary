@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2800182841122843356
     second: unarmed_walk_back
-  - first:
-      74: -2617892231634689955
-    second: walk_back_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_back_1
+      name: unarmed_walk_back
       takeName: mixamo.com
-      internalID: -2617892231634689955
+      internalID: 2800182841122843356
       firstFrame: 0
       lastFrame: 39
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

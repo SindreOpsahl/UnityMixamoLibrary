@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8435875200705961774
     second: rope_swinging
-  - first:
-      74: -7307086590779022232
-    second: rope_swing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rope_swing
+      name: rope_swinging
       takeName: mixamo.com
-      internalID: -7307086590779022232
+      internalID: 8435875200705961774
       firstFrame: 0
       lastFrame: 133
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

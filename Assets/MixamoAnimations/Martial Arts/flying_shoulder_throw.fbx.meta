@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7426164112600602955
     second: flying_shoulder_throw
-  - first:
-      74: -3170534793155132332
-    second: flying_shoulder_throw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flying_shoulder_throw
       takeName: mixamo.com
-      internalID: -3170534793155132332
+      internalID: 7426164112600602955
       firstFrame: 0
       lastFrame: 111
       wrapMode: 0

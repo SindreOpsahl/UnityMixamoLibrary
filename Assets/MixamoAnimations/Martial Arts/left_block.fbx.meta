@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4926909888123260781
     second: left_block
-  - first:
-      74: -4358264380396165501
-    second: left_block
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: left_block
       takeName: mixamo.com
-      internalID: -4358264380396165501
+      internalID: 4926909888123260781
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

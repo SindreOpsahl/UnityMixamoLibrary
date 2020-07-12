@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1682308015752152541
     second: standing_cover_turn
-  - first:
-      74: 9192259743067192993
-    second: cover_turn_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: cover_turn_right
+      name: standing_cover_turn
       takeName: mixamo.com
-      internalID: 9192259743067192993
+      internalID: 1682308015752152541
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2451273066817259898
     second: shooting
-  - first:
-      74: -865576122974056505
-    second: pistol_aim_fire
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_aim_fire
+      name: shooting
       takeName: mixamo.com
-      internalID: -865576122974056505
+      internalID: 2451273066817259898
       firstFrame: 0
       lastFrame: 35
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

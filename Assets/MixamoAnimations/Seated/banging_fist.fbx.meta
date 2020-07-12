@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3296428140890406892
     second: banging_fist
-  - first:
-      74: -8259879313891971305
-    second: banging_fist
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: banging_fist
       takeName: mixamo.com
-      internalID: -8259879313891971305
+      internalID: 3296428140890406892
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0

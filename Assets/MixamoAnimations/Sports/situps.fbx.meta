@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5341819055786119021
     second: situps
-  - first:
-      74: 909601486683624698
-    second: situps
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: situps
       takeName: mixamo.com
-      internalID: 909601486683624698
+      internalID: -5341819055786119021
       firstFrame: 0
       lastFrame: 67
       wrapMode: 0

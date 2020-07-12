@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5969451717148989668
     second: thoughtful_head_shake
-  - first:
-      74: -3618132224703465515
-    second: thoughtful_head_shake
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: thoughtful_head_shake
       takeName: mixamo.com
-      internalID: -3618132224703465515
+      internalID: 5969451717148989668
       firstFrame: 0
       lastFrame: 92
       wrapMode: 0

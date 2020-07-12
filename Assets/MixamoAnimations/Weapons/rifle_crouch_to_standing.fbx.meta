@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: 6655319820137075387
     second: crouch_to_stand_rifle
-  - first:
-      74: 6335765973912678444
-    second: rifle_crouch_to_standing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_to_standing
+      name: crouch_to_stand_rifle
       takeName: mixamo.com
-      internalID: 6335765973912678444
+      internalID: 6655319820137075387
       firstFrame: 0
       lastFrame: 88
       wrapMode: 0
@@ -57,12 +54,12 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
+      keepOriginalPositionXZ: 1
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

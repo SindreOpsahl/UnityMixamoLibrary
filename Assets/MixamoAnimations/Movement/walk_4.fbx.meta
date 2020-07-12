@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5846541594908630496
     second: female_tough_walk
-  - first:
-      74: 5064066686045446435
-    second: walk_4
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_4
+      name: female_tough_walk
       takeName: mixamo.com
-      internalID: 5064066686045446435
+      internalID: 5846541594908630496
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

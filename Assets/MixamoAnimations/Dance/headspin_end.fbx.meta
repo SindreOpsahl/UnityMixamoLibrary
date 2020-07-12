@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4893071568769787664
     second: headspin_end
-  - first:
-      74: 6219163463345441350
-    second: headspin_end
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: headspin_end
       takeName: mixamo.com
-      internalID: 6219163463345441350
+      internalID: -4893071568769787664
       firstFrame: 0
       lastFrame: 61
       wrapMode: 0

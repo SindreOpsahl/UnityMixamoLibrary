@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -595061899580890665
     second: ginga_forward
-  - first:
-      74: 8293498783347430461
-    second: ginga_forward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ginga_forward
       takeName: mixamo.com
-      internalID: 8293498783347430461
+      internalID: -595061899580890665
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0

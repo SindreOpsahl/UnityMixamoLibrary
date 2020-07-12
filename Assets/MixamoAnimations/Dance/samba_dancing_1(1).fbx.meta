@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7707213020750754926
     second: samba_dancing_1(1)
-  - first:
-      74: 3605165043879965181
-    second: samba_dancing_1(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: samba_dancing_1(1)
       takeName: mixamo.com
-      internalID: 3605165043879965181
+      internalID: 7707213020750754926
       firstFrame: 0
       lastFrame: 654
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8800379548774298966
     second: dwarf_idle
-  - first:
-      74: -2867262518614270938
-    second: dwarf_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dwarf_idle
       takeName: mixamo.com
-      internalID: -2867262518614270938
+      internalID: -8800379548774298966
       firstFrame: 0
       lastFrame: 210
       wrapMode: 0

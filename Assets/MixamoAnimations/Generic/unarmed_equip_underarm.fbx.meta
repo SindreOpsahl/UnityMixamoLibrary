@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6904905314108611221
     second: unarmed_equip_underarm
-  - first:
-      74: 7666886391953508297
-    second: unarmed_equip_underarm
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: unarmed_equip_underarm
       takeName: mixamo.com
-      internalID: 7666886391953508297
+      internalID: -6904905314108611221
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0

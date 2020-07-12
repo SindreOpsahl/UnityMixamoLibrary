@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1683848475098180927
     second: dying_backwards
-  - first:
-      74: -1448299631091909395
-    second: dying_backwards
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dying_backwards
       takeName: mixamo.com
-      internalID: -1448299631091909395
+      internalID: -1683848475098180927
       firstFrame: 0
       lastFrame: 138
       wrapMode: 0

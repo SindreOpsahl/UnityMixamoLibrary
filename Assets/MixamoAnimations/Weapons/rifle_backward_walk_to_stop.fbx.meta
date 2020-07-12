@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7217159306549428909
     second: rifle_backward_walk_to_stop
-  - first:
-      74: -7792705069394860777
-    second: rifle_backward_walk_to_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rifle_backward_walk_to_stop
       takeName: mixamo.com
-      internalID: -7792705069394860777
+      internalID: -7217159306549428909
       firstFrame: 0
       lastFrame: 86
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

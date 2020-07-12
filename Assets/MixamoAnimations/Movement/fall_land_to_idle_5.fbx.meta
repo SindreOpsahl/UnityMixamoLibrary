@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4142169777212459181
     second: Standing_Land_To_Standing_Idle
-  - first:
-      74: -6727070558747007700
-    second: fall_land_to_idle_5
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: fall_land_to_idle_5
+      name: Standing_Land_To_Standing_Idle
       takeName: mixamo.com
-      internalID: -6727070558747007700
+      internalID: -4142169777212459181
       firstFrame: 0
       lastFrame: 33
       wrapMode: 0
@@ -54,13 +51,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1146739094951574633
     second: air_squat
-  - first:
-      74: 4278312691616457250
-    second: air_squat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: air_squat
       takeName: mixamo.com
-      internalID: 4278312691616457250
+      internalID: -1146739094951574633
       firstFrame: 0
       lastFrame: 56
       wrapMode: 0

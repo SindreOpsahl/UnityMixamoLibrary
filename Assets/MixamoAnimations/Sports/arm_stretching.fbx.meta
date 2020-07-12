@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7450890206203518859
     second: arm_stretching
-  - first:
-      74: 3524763943678353033
-    second: arm_stretching
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: arm_stretching
       takeName: mixamo.com
-      internalID: 3524763943678353033
+      internalID: -7450890206203518859
       firstFrame: 0
       lastFrame: 266
       wrapMode: 0

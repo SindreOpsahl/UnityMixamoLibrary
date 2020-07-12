@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8760712041853571472
     second: wheelbarrow_dump
-  - first:
-      74: 1240624769498948032
-    second: wheelbarrow_dump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wheelbarrow_dump
       takeName: mixamo.com
-      internalID: 1240624769498948032
+      internalID: -8760712041853571472
       firstFrame: 0
       lastFrame: 187
       wrapMode: 0

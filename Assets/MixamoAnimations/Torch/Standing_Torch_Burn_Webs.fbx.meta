@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4790481666877663373
     second: Standing_Torch_Burn_Webs
-  - first:
-      74: -1413083672476285601
-    second: Standing_Torch_Burn_Webs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Burn_Webs
       takeName: mixamo.com
-      internalID: -1413083672476285601
+      internalID: 4790481666877663373
       firstFrame: 0
       lastFrame: 167
       wrapMode: 0

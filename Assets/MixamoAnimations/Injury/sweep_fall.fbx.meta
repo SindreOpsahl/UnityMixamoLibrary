@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3600515579043871080
     second: sweep_fall
-  - first:
-      74: -107399570414504075
-    second: sweep_fall
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sweep_fall
       takeName: mixamo.com
-      internalID: -107399570414504075
+      internalID: -3600515579043871080
       firstFrame: 0
       lastFrame: 75
       wrapMode: 0

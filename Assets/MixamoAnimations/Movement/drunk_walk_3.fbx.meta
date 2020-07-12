@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6340678429517796560
     second: walking(5)
-  - first:
-      74: -6001540916741189195
-    second: drunk_walk_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: drunk_walk_3
+      name: walking(5)
       takeName: mixamo.com
-      internalID: -6001540916741189195
+      internalID: -6340678429517796560
       firstFrame: 0
       lastFrame: 63
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8121605575896720518
     second: dancing_twerk
-  - first:
-      74: -1385479612889235142
-    second: dancing_twerk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dancing_twerk
       takeName: mixamo.com
-      internalID: -1385479612889235142
+      internalID: 8121605575896720518
       firstFrame: 0
       lastFrame: 456
       wrapMode: 0

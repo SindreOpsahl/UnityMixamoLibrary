@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5156616270475931503
     second: jump_to_hang
-  - first:
-      74: 2168583157536006619
-    second: jump_to_hang
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jump_to_hang
       takeName: mixamo.com
-      internalID: 2168583157536006619
+      internalID: -5156616270475931503
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

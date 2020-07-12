@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -9133382773903061787
     second: swagger_walk
-  - first:
-      74: 5311498074722083373
-    second: walk_7
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_7
+      name: swagger_walk
       takeName: mixamo.com
-      internalID: 5311498074722083373
+      internalID: -9133382773903061787
       firstFrame: 0
       lastFrame: 84
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

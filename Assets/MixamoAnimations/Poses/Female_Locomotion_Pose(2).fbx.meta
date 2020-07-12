@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2663701510428125157
     second: Female_Locomotion_Pose(2)
-  - first:
-      74: 8883576716366462684
-    second: Female_Locomotion_Pose(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Female_Locomotion_Pose(2)
       takeName: mixamo.com
-      internalID: 8883576716366462684
+      internalID: 2663701510428125157
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

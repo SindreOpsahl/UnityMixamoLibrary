@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3733982629765023296
     second: breakdance_footwork_to_idle1
-  - first:
-      74: -5888670820982119856
-    second: breakdance_footwork_to_idle1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_footwork_to_idle1
       takeName: mixamo.com
-      internalID: -5888670820982119856
+      internalID: 3733982629765023296
       firstFrame: 0
       lastFrame: 288
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8454451194665195251
     second: drunk_run_forward
-  - first:
-      74: -8131039454861512264
-    second: drunk_run
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: drunk_run
+      name: drunk_run_forward
       takeName: mixamo.com
-      internalID: -8131039454861512264
+      internalID: -8454451194665195251
       firstFrame: 0
       lastFrame: 55
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

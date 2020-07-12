@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7463375154483567114
     second: checking_dice
-  - first:
-      74: -2504692098925865203
-    second: checking_dice
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: checking_dice
       takeName: mixamo.com
-      internalID: -2504692098925865203
+      internalID: -7463375154483567114
       firstFrame: 0
       lastFrame: 227
       wrapMode: 0

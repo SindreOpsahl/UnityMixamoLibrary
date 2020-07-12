@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -741675829133475759
     second: shoulder_rubbing
-  - first:
-      74: -2492171316673298745
-    second: shoulder_rubbing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shoulder_rubbing
       takeName: mixamo.com
-      internalID: -2492171316673298745
+      internalID: -741675829133475759
       firstFrame: 0
       lastFrame: 175
       wrapMode: 0

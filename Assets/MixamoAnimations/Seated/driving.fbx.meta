@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5979724081174376524
     second: driving
-  - first:
-      74: -2337405433703484400
-    second: driving
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: driving
       takeName: mixamo.com
-      internalID: -2337405433703484400
+      internalID: 5979724081174376524
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0

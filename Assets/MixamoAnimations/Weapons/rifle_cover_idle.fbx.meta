@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9065603648150853571
     second: taking_cover_idle
-  - first:
-      74: -3226927327592207822
-    second: rifle_cover_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_cover_idle
+      name: taking_cover_idle
       takeName: mixamo.com
-      internalID: -3226927327592207822
+      internalID: 9065603648150853571
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

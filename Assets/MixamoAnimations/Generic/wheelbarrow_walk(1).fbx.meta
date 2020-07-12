@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5919705282471240413
     second: wheelbarrow_walk(1)
-  - first:
-      74: -2851316509927378458
-    second: wheelbarrow_walk(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: wheelbarrow_walk(1)
       takeName: mixamo.com
-      internalID: -2851316509927378458
+      internalID: -5919705282471240413
       firstFrame: 0
       lastFrame: 29
       wrapMode: 0

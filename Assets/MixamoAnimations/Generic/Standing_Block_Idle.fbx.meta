@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8117234769760806699
     second: Standing_Block_Idle
-  - first:
-      74: 5518847447552204286
-    second: Standing_Block_Idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Block_Idle
       takeName: mixamo.com
-      internalID: 5518847447552204286
+      internalID: 8117234769760806699
       firstFrame: 0
       lastFrame: 83
       wrapMode: 0

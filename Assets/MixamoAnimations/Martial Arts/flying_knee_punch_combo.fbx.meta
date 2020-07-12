@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1750254412084755600
     second: flying_knee_punch_combo
-  - first:
-      74: 866855155397021082
-    second: flying_knee_punch_combo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: flying_knee_punch_combo
       takeName: mixamo.com
-      internalID: 866855155397021082
+      internalID: -1750254412084755600
       firstFrame: 0
       lastFrame: 80
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4480514622067338052
     second: carrying_turn
-  - first:
-      74: 330749872152342851
-    second: carrying_turn
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: carrying_turn
       takeName: mixamo.com
-      internalID: 330749872152342851
+      internalID: -4480514622067338052
       firstFrame: 0
       lastFrame: 116
       wrapMode: 0

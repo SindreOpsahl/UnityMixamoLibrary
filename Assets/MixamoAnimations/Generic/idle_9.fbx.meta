@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6821808058646876256
     second: idle_1(1)
-  - first:
-      74: -7690290431837644818
-    second: idle_9
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: idle_9
+      name: idle_1(1)
       takeName: mixamo.com
-      internalID: -7690290431837644818
+      internalID: 6821808058646876256
       firstFrame: 0
       lastFrame: 99
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

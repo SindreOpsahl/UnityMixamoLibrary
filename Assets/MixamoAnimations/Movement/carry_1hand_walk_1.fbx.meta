@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -337004417057532935
     second: holding_walk
-  - first:
-      74: 2534835293900435959
-    second: carry_1hand_walk_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: carry_1hand_walk_1
+      name: holding_walk
       takeName: mixamo.com
-      internalID: 2534835293900435959
+      internalID: -337004417057532935
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

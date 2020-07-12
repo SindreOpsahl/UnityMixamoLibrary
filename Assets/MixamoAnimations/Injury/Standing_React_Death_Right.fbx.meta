@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6522955085206531186
     second: Standing_React_Death_Right
-  - first:
-      74: -7937015120452162940
-    second: Standing_React_Death_Right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_React_Death_Right
       takeName: mixamo.com
-      internalID: -7937015120452162940
+      internalID: 6522955085206531186
       firstFrame: 0
       lastFrame: 105
       wrapMode: 0

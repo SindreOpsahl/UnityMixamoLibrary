@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3860595183380218160
     second: kick_soccerball
-  - first:
-      74: -903889382334493000
-    second: kick_soccerball
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kick_soccerball
       takeName: mixamo.com
-      internalID: -903889382334493000
+      internalID: -3860595183380218160
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0

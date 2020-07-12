@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8736699263706464148
     second: goalkeeper_drop_kick
-  - first:
-      74: -5777450871768536411
-    second: goalkeeper_drop_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalkeeper_drop_kick
       takeName: mixamo.com
-      internalID: -5777450871768536411
+      internalID: -8736699263706464148
       firstFrame: 0
       lastFrame: 117
       wrapMode: 0

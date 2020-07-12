@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 932361302338897972
     second: great_sword_slash
-  - first:
-      74: 8187738325432794340
-    second: 2hand_attack_three_slashes
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_attack_three_slashes
+      name: great_sword_slash
       takeName: mixamo.com
-      internalID: 8187738325432794340
+      internalID: 932361302338897972
       firstFrame: 0
       lastFrame: 106
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

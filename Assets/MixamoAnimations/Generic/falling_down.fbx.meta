@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5649151934099435369
     second: falling_down
-  - first:
-      74: -8804760071423909634
-    second: falling_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: falling_down
       takeName: mixamo.com
-      internalID: -8804760071423909634
+      internalID: -5649151934099435369
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0

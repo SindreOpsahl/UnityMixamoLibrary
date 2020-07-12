@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -1586246874534157270
     second: crouched_run
-  - first:
-      74: 2311846927249561069
-    second: rifle_crouch_aim_run
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_aim_run
+      name: crouched_run
       takeName: mixamo.com
-      internalID: 2311846927249561069
+      internalID: -1586246874534157270
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -55,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

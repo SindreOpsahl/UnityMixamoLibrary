@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8909714872707724445
     second: northern_soul_spin
-  - first:
-      74: -2214999130987913424
-    second: northern_soul_spin
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: northern_soul_spin
       takeName: mixamo.com
-      internalID: -2214999130987913424
+      internalID: 8909714872707724445
       firstFrame: 0
       lastFrame: 121
       wrapMode: 0

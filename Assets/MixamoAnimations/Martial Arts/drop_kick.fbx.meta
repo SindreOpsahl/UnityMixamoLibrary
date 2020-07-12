@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9033604187536170349
     second: drop_kick
-  - first:
-      74: -7365104576990832476
-    second: drop_kick
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: drop_kick
       takeName: mixamo.com
-      internalID: -7365104576990832476
+      internalID: 9033604187536170349
       firstFrame: 0
       lastFrame: 87
       wrapMode: 0

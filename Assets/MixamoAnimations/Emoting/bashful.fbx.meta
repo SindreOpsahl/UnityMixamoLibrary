@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2371298431725672700
     second: bashful
-  - first:
-      74: -4680098698189428283
-    second: bashful
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bashful
       takeName: mixamo.com
-      internalID: -4680098698189428283
+      internalID: 2371298431725672700
       firstFrame: 0
       lastFrame: 330
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

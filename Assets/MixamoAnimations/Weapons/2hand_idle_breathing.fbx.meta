@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7831283161008763118
     second: 2hand_idle
-  - first:
-      74: 4538021789270057246
-    second: 2hand_idle_breathing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_idle_breathing
+      name: 2hand_idle
       takeName: mixamo.com
-      internalID: 4538021789270057246
+      internalID: -7831283161008763118
       firstFrame: 0
       lastFrame: 143
       wrapMode: 0
@@ -52,11 +49,11 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4310942962070436791
     second: pull_heavy_object_stop
-  - first:
-      74: 6313821484399269179
-    second: pull_heavy_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pull_heavy_stop
+      name: pull_heavy_object_stop
       takeName: mixamo.com
-      internalID: 6313821484399269179
+      internalID: -4310942962070436791
       firstFrame: 0
       lastFrame: 40
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

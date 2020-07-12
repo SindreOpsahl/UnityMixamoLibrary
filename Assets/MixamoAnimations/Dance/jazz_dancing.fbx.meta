@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3009780447812968428
     second: jazz_dancing
-  - first:
-      74: -5279182392781962791
-    second: jazz_dancing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jazz_dancing
       takeName: mixamo.com
-      internalID: -5279182392781962791
+      internalID: 3009780447812968428
       firstFrame: 0
       lastFrame: 70
       wrapMode: 0

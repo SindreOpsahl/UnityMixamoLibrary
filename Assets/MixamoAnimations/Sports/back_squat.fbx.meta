@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1334611824736280361
     second: back_squat
-  - first:
-      74: 8813025778749548080
-    second: back_squat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: back_squat
       takeName: mixamo.com
-      internalID: 8813025778749548080
+      internalID: 1334611824736280361
       firstFrame: 0
       lastFrame: 179
       wrapMode: 0

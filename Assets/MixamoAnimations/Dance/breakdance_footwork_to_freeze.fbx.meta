@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5626193017883430732
     second: breakdance_footwork_to_freeze
-  - first:
-      74: 5452424619457983874
-    second: breakdance_footwork_to_freeze
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: breakdance_footwork_to_freeze
       takeName: mixamo.com
-      internalID: 5452424619457983874
+      internalID: -5626193017883430732
       firstFrame: 0
       lastFrame: 110
       wrapMode: 0

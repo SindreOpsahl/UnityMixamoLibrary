@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4326886370393581866
     second: action_idle_to_standing_idle
-  - first:
-      74: 8753305013604355867
-    second: action_idle_to_standing_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: action_idle_to_standing_idle
       takeName: mixamo.com
-      internalID: 8753305013604355867
+      internalID: -4326886370393581866
       firstFrame: 0
       lastFrame: 28
       wrapMode: 0

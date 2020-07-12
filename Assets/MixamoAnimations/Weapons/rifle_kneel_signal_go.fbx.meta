@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 649153251388979434
     second: military_signaling(2)
-  - first:
-      74: 7065856564166362798
-    second: rifle_kneel_signal_go
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_kneel_signal_go
+      name: military_signaling(2)
       takeName: mixamo.com
-      internalID: 7065856564166362798
+      internalID: 649153251388979434
       firstFrame: 0
       lastFrame: 160
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

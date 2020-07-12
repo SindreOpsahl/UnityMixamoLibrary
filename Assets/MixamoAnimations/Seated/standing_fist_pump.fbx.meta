@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2485889594133952853
     second: standing_fist_pump
-  - first:
-      74: -8410694667447217834
-    second: standing_fist_pump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_fist_pump
       takeName: mixamo.com
-      internalID: -8410694667447217834
+      internalID: -2485889594133952853
       firstFrame: 0
       lastFrame: 113
       wrapMode: 0

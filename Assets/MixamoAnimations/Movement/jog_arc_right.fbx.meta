@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5770986260718455305
     second: jog_in_circle
-  - first:
-      74: 6567032191577752038
-    second: jog_arc_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jog_arc_right
+      name: jog_in_circle
       takeName: mixamo.com
-      internalID: 6567032191577752038
+      internalID: -5770986260718455305
       firstFrame: 0
       lastFrame: 178
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

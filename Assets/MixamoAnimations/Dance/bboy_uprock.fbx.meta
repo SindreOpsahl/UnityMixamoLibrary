@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 177767600751913997
     second: bboy_uprock
-  - first:
-      74: -503386366234529282
-    second: bboy_uprock
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bboy_uprock
       takeName: mixamo.com
-      internalID: -503386366234529282
+      internalID: 177767600751913997
       firstFrame: 0
       lastFrame: 69
       wrapMode: 0

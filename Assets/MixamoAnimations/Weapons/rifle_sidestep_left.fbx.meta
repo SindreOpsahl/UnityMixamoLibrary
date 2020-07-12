@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 578007181147858001
     second: rifle_side_step(1)
-  - first:
-      74: 3009428874407756956
-    second: rifle_sidestep_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_sidestep_left
+      name: rifle_side_step(1)
       takeName: mixamo.com
-      internalID: 3009428874407756956
+      internalID: 578007181147858001
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

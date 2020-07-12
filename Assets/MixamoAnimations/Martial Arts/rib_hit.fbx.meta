@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2743776709707381011
     second: rib_hit
-  - first:
-      74: -1901105150043209074
-    second: rib_hit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rib_hit
       takeName: mixamo.com
-      internalID: -1901105150043209074
+      internalID: 2743776709707381011
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0

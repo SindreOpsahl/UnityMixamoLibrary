@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4074775167533248982
     second: laying_sleeping
-  - first:
-      74: 7915375627617203542
-    second: laying_sleeping
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: laying_sleeping
       takeName: mixamo.com
-      internalID: 7915375627617203542
+      internalID: 4074775167533248982
       firstFrame: 0
       lastFrame: 51
       wrapMode: 0

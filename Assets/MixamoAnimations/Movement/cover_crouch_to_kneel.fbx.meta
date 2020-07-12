@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4062170366614434917
     second: hiding
-  - first:
-      74: 6233309069801491056
-    second: cover_crouch_to_kneel
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: cover_crouch_to_kneel
+      name: hiding
       takeName: mixamo.com
-      internalID: 6233309069801491056
+      internalID: 4062170366614434917
       firstFrame: 0
       lastFrame: 46
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

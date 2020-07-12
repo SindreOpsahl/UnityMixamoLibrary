@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4023393985046919942
     second: jab_cross
-  - first:
-      74: -266168187771754378
-    second: jab_cross
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jab_cross
       takeName: mixamo.com
-      internalID: -266168187771754378
+      internalID: 4023393985046919942
       firstFrame: 0
       lastFrame: 64
       wrapMode: 0

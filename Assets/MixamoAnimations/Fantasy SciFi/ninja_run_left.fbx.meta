@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1658765487524752963
     second: Standing_Run_Left(1)
-  - first:
-      74: -3671188266277675123
-    second: ninja_run_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: ninja_run_left
+      name: Standing_Run_Left(1)
       takeName: mixamo.com
-      internalID: -3671188266277675123
+      internalID: 1658765487524752963
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

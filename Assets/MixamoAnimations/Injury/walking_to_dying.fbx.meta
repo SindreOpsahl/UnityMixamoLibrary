@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5164874075974521685
     second: walking_to_dying
-  - first:
-      74: 4858327160194588384
-    second: walking_to_dying
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: walking_to_dying
       takeName: mixamo.com
-      internalID: 4858327160194588384
+      internalID: 5164874075974521685
       firstFrame: 0
       lastFrame: 87
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4715948156854542069
     second: running_right_turn
-  - first:
-      74: 5205833912802345259
-    second: run_arc_right_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_arc_right_2
+      name: running_right_turn
       takeName: mixamo.com
-      internalID: 5205833912802345259
+      internalID: -4715948156854542069
       firstFrame: 0
       lastFrame: 23
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

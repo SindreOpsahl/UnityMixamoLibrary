@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1339774094656564754
     second: illegal_headbutt
-  - first:
-      74: -9105997772258375995
-    second: illegal_headbutt
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: illegal_headbutt
       takeName: mixamo.com
-      internalID: -9105997772258375995
+      internalID: -1339774094656564754
       firstFrame: 0
       lastFrame: 67
       wrapMode: 0

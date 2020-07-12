@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2659971549201236950
     second: aerial_evade
-  - first:
-      74: 4844359903168391824
-    second: aerial_evade
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: aerial_evade
       takeName: mixamo.com
-      internalID: 4844359903168391824
+      internalID: -2659971549201236950
       firstFrame: 0
       lastFrame: 110
       wrapMode: 0

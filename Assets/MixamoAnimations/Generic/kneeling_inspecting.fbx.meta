@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 605515948065615002
     second: kneeling_inspecting
-  - first:
-      74: -2038431685929167070
-    second: kneeling_inspecting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kneeling_inspecting
       takeName: mixamo.com
-      internalID: -2038431685929167070
+      internalID: 605515948065615002
       firstFrame: 0
       lastFrame: 148
       wrapMode: 0

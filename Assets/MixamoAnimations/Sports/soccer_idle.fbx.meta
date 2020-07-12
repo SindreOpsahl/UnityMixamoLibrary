@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7807331527117046904
     second: soccer_idle
-  - first:
-      74: 8884587794824960706
-    second: soccer_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: soccer_idle
       takeName: mixamo.com
-      internalID: 8884587794824960706
+      internalID: -7807331527117046904
       firstFrame: 0
       lastFrame: 186
       wrapMode: 0

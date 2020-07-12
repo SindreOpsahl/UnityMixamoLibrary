@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8673916660017244402
     second: golf_tee_up(1)
-  - first:
-      74: -1241303125742078793
-    second: golf_tee_up(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: golf_tee_up(1)
       takeName: mixamo.com
-      internalID: -1241303125742078793
+      internalID: -8673916660017244402
       firstFrame: 0
       lastFrame: 257
       wrapMode: 0

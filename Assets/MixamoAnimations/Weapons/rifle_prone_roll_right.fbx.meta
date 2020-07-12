@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1377799402877689075
     second: prone_roll
-  - first:
-      74: -8892243354123439056
-    second: rifle_prone_roll_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_prone_roll_right
+      name: prone_roll
       takeName: mixamo.com
-      internalID: -8892243354123439056
+      internalID: 1377799402877689075
       firstFrame: 0
       lastFrame: 98
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1919867914666513871
     second: rifle_put_away
-  - first:
-      74: -7330430346422722289
-    second: rifle_holster_hips_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_holster_hips_2
+      name: rifle_put_away
       takeName: mixamo.com
-      internalID: -7330430346422722289
+      internalID: 1919867914666513871
       firstFrame: 0
       lastFrame: 69
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

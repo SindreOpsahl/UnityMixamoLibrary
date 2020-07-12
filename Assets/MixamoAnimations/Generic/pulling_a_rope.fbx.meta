@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6827854009259479572
     second: pulling_a_rope
-  - first:
-      74: 2187976085279433263
-    second: pulling_a_rope
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pulling_a_rope
       takeName: mixamo.com
-      internalID: 2187976085279433263
+      internalID: -6827854009259479572
       firstFrame: 0
       lastFrame: 442
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8508485501363013338
     second: Male_Dynamic_Pose(1)
-  - first:
-      74: 8787307600830777709
-    second: Male_Dynamic_Pose(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Male_Dynamic_Pose(1)
       takeName: mixamo.com
-      internalID: 8787307600830777709
+      internalID: -8508485501363013338
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

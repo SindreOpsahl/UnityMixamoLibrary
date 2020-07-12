@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8157484014861846962
     second: Female_Laying_Pose(4)
-  - first:
-      74: 1680392981427457496
-    second: Female_Laying_Pose(4)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Female_Laying_Pose(4)
       takeName: mixamo.com
-      internalID: 1680392981427457496
+      internalID: 8157484014861846962
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0

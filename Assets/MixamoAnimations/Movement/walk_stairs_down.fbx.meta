@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2743377490313309930
     second: descending_stairs
-  - first:
-      74: -4837327409021515763
-    second: walk_stairs_down
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_stairs_down
+      name: descending_stairs
       takeName: mixamo.com
-      internalID: -4837327409021515763
+      internalID: 2743377490313309930
       firstFrame: 0
       lastFrame: 28
       wrapMode: 0
@@ -52,9 +49,9 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0

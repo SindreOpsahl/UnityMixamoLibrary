@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -24277309361425154
     second: shooting_arrow
-  - first:
-      74: 6418805986202084935
-    second: bow_draw_and_fire
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: bow_draw_and_fire
+      name: shooting_arrow
       takeName: mixamo.com
-      internalID: 6418805986202084935
+      internalID: -24277309361425154
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

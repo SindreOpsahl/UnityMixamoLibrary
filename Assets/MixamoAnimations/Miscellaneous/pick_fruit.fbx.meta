@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4678828639891274911
     second: pick_fruit
-  - first:
-      74: 4362001104370108063
-    second: pick_fruit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pick_fruit
       takeName: mixamo.com
-      internalID: 4362001104370108063
+      internalID: 4678828639891274911
       firstFrame: 0
       lastFrame: 186
       wrapMode: 0

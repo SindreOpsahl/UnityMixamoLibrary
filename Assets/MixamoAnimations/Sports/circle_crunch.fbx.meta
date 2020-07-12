@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3743104596540520382
     second: circle_crunch
-  - first:
-      74: 7213952126395180690
-    second: circle_crunch
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: circle_crunch
       takeName: mixamo.com
-      internalID: 7213952126395180690
+      internalID: -3743104596540520382
       firstFrame: 0
       lastFrame: 70
       wrapMode: 0

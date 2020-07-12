@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3017425947934575177
     second: waving_gesture
-  - first:
-      74: -5934286267280870543
-    second: wave_4
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: wave_4
+      name: waving_gesture
       takeName: mixamo.com
-      internalID: -5934286267280870543
+      internalID: 3017425947934575177
       firstFrame: 0
       lastFrame: 44
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

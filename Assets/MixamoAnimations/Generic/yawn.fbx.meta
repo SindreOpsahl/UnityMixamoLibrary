@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6534077612176480236
     second: yawn
-  - first:
-      74: -327730321847316818
-    second: yawn
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: yawn
       takeName: mixamo.com
-      internalID: -327730321847316818
+      internalID: -6534077612176480236
       firstFrame: 0
       lastFrame: 250
       wrapMode: 0

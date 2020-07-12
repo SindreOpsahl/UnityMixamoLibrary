@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 692306453333638156
     second: standing_w_briefcase_idle(1)
-  - first:
-      74: -1729124869290976822
-    second: carry_1hand_idle_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: carry_1hand_idle_3
+      name: standing_w_briefcase_idle(1)
       takeName: mixamo.com
-      internalID: -1729124869290976822
+      internalID: 692306453333638156
       firstFrame: 0
       lastFrame: 430
       wrapMode: 0
@@ -54,14 +51,14 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
-      mirror: 0
+      mirror: 1
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events: []

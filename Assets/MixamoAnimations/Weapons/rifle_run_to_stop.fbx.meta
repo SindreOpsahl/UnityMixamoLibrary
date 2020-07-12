@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6012796959998381631
     second: rifle_run_to_stop
-  - first:
-      74: -8650555399599998201
-    second: rifle_run_to_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: rifle_run_to_stop
       takeName: mixamo.com
-      internalID: -8650555399599998201
+      internalID: -6012796959998381631
       firstFrame: 0
       lastFrame: 44
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

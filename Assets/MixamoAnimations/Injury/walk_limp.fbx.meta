@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8518830063348016958
     second: walking(3)
-  - first:
-      74: 2999236402756288389
-    second: walk_limp
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_limp
+      name: walking(3)
       takeName: mixamo.com
-      internalID: 2999236402756288389
+      internalID: 8518830063348016958
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

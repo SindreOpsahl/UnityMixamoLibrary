@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4847407805235274107
     second: hit_reaction(6)
-  - first:
-      74: -8067836518330062882
-    second: rifle_aim_impact
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_impact
+      name: hit_reaction(6)
       takeName: mixamo.com
-      internalID: -8067836518330062882
+      internalID: -4847407805235274107
       firstFrame: 0
       lastFrame: 13
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

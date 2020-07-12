@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 991805588618057614
     second: falling_from_losing_balance
-  - first:
-      74: 870656434861326235
-    second: falling_from_losing_balance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: falling_from_losing_balance
       takeName: mixamo.com
-      internalID: 870656434861326235
+      internalID: 991805588618057614
       firstFrame: 0
       lastFrame: 200
       wrapMode: 0

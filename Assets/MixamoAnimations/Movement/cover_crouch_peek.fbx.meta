@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -3301208814824739858
     second: crouch_look_around_corner
-  - first:
-      74: 1243130557289904268
-    second: cover_crouch_peek
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: cover_crouch_peek
+      name: crouch_look_around_corner
       takeName: mixamo.com
-      internalID: 1243130557289904268
+      internalID: -3301208814824739858
       firstFrame: 0
       lastFrame: 90
       wrapMode: 0
@@ -57,10 +54,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

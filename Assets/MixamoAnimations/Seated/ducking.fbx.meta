@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1703025214191972726
     second: ducking
-  - first:
-      74: 1183347163884501410
-    second: ducking
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: ducking
       takeName: mixamo.com
-      internalID: 1183347163884501410
+      internalID: -1703025214191972726
       firstFrame: 0
       lastFrame: 44
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4890667488415411633
     second: shaking_head_no
-  - first:
-      74: -9146233089710082825
-    second: shaking_head_no
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: shaking_head_no
       takeName: mixamo.com
-      internalID: -9146233089710082825
+      internalID: -4890667488415411633
       firstFrame: 0
       lastFrame: 54
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

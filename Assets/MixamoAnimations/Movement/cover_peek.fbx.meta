@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -962178258234114548
     second: stand_cover_to_look
-  - first:
-      74: 8044211103895967082
-    second: cover_peek
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: cover_peek
+      name: stand_cover_to_look
       takeName: mixamo.com
-      internalID: 8044211103895967082
+      internalID: -962178258234114548
       firstFrame: 0
       lastFrame: 82
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

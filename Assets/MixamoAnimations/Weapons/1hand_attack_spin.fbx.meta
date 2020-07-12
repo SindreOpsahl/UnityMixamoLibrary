@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3159058984181701934
     second: standing_melee_attack_360_high
-  - first:
-      74: -5871738251343699474
-    second: 1hand_attack_spin
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_attack_spin
+      name: standing_melee_attack_360_high
       takeName: mixamo.com
-      internalID: -5871738251343699474
+      internalID: 3159058984181701934
       firstFrame: 0
       lastFrame: 95
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

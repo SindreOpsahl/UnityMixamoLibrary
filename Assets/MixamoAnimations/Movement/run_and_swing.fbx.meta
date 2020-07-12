@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7660248101022897215
     second: run_and_swing
-  - first:
-      74: 3100174920215835828
-    second: run_and_swing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: run_and_swing
       takeName: mixamo.com
-      internalID: 3100174920215835828
+      internalID: 7660248101022897215
       firstFrame: 0
       lastFrame: 73
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

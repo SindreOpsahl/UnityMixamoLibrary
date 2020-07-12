@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7370290267749527619
     second: texting_while_standing
-  - first:
-      74: -6519847044679756493
-    second: texting_while_standing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: texting_while_standing
       takeName: mixamo.com
-      internalID: -6519847044679756493
+      internalID: -7370290267749527619
       firstFrame: 0
       lastFrame: 707
       wrapMode: 0

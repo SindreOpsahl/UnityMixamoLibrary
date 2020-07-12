@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 786840738106341465
     second: left_turn(5)
-  - first:
-      74: 4084525205197374526
-    second: turn90_left_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,11 +38,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: turn90_left_3
+      name: left_turn(5)
       takeName: mixamo.com
-      internalID: 4084525205197374526
+      internalID: 786840738106341465
       firstFrame: 0
-      lastFrame: 31
+      lastFrame: 32
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

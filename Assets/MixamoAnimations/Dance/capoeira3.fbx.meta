@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3496200052327225737
     second: capoeira3
-  - first:
-      74: 4320235243515072355
-    second: capoeira3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: capoeira3
       takeName: mixamo.com
-      internalID: 4320235243515072355
+      internalID: 3496200052327225737
       firstFrame: 0
       lastFrame: 103
       wrapMode: 0

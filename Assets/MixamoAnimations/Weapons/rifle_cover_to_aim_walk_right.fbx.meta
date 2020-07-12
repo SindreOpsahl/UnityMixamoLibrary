@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5940540019697666241
     second: emerge_from_cover
-  - first:
-      74: 7229741407889134646
-    second: rifle_cover_to_aim_walk_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_cover_to_aim_walk_right
+      name: emerge_from_cover
       takeName: mixamo.com
-      internalID: 7229741407889134646
+      internalID: -5940540019697666241
       firstFrame: 0
       lastFrame: 58
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

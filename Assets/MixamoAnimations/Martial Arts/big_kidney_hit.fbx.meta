@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3368916112850303119
     second: big_kidney_hit
-  - first:
-      74: 4315128340829310705
-    second: big_kidney_hit
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: big_kidney_hit
       takeName: mixamo.com
-      internalID: 4315128340829310705
+      internalID: 3368916112850303119
       firstFrame: 0
       lastFrame: 48
       wrapMode: 0

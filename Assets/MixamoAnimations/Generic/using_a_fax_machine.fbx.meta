@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8024543966253189673
     second: using_a_fax_machine
-  - first:
-      74: -7445334201367442945
-    second: using_a_fax_machine
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: using_a_fax_machine
       takeName: mixamo.com
-      internalID: -7445334201367442945
+      internalID: 8024543966253189673
       firstFrame: 0
       lastFrame: 488
       wrapMode: 0

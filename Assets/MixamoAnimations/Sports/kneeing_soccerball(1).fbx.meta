@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -406029620423286117
     second: kneeing_soccerball(1)
-  - first:
-      74: -7058708119991757112
-    second: kneeing_soccerball(1)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: kneeing_soccerball(1)
       takeName: mixamo.com
-      internalID: -7058708119991757112
+      internalID: -406029620423286117
       firstFrame: 0
       lastFrame: 19
       wrapMode: 0

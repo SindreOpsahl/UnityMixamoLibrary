@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6698807915969333375
     second: standing_dive_forward
-  - first:
-      74: -1019748395562624951
-    second: standing_dive_forward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_dive_forward
       takeName: mixamo.com
-      internalID: -1019748395562624951
+      internalID: 6698807915969333375
       firstFrame: 0
       lastFrame: 49
       wrapMode: 0

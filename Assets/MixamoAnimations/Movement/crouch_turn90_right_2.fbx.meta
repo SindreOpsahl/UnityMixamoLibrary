@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: 4919076486282323997
     second: crouch_turn_right_90_2
-  - first:
-      74: -2057118189534689302
-    second: crouch_turn90_right_2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: crouch_turn90_right_2
+      name: crouch_turn_right_90_2
       takeName: mixamo.com
-      internalID: -2057118189534689302
+      internalID: 4919076486282323997
       firstFrame: 0
       lastFrame: 43
       wrapMode: 0
@@ -58,9 +55,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

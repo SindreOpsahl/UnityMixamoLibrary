@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6090778253516610319
     second: nervously_look_around
-  - first:
-      74: 4569049541803717574
-    second: nervously_look_around
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: nervously_look_around
       takeName: mixamo.com
-      internalID: 4569049541803717574
+      internalID: -6090778253516610319
       firstFrame: 0
       lastFrame: 188
       wrapMode: 0

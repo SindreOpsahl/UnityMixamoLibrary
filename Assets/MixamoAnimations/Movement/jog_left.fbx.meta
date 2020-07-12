@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8800681449008163327
     second: jog_strafe_left
-  - first:
-      74: -5023029059543115386
-    second: jog_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jog_left
+      name: jog_strafe_left
       takeName: mixamo.com
-      internalID: -5023029059543115386
+      internalID: 8800681449008163327
       firstFrame: 0
       lastFrame: 21
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

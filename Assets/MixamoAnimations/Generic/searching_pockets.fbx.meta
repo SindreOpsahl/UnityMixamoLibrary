@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1093228284478800554
     second: searching_pockets
-  - first:
-      74: -1456886409458415170
-    second: searching_pockets
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: searching_pockets
       takeName: mixamo.com
-      internalID: -1456886409458415170
+      internalID: 1093228284478800554
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0

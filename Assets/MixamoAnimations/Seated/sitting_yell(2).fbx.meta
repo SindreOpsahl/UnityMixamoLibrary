@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1497843224544284028
     second: sitting_yell(2)
-  - first:
-      74: 497900114188891073
-    second: sitting_yell(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_yell(2)
       takeName: mixamo.com
-      internalID: 497900114188891073
+      internalID: 1497843224544284028
       firstFrame: 0
       lastFrame: 113
       wrapMode: 0

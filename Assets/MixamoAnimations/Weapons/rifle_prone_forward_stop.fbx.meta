@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2704882913266347914
     second: prone_forward_stop
-  - first:
-      74: -6932359579589177105
-    second: rifle_prone_forward_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_prone_forward_stop
+      name: prone_forward_stop
       takeName: mixamo.com
-      internalID: -6932359579589177105
+      internalID: 2704882913266347914
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

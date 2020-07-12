@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1375678011490289748
     second: receive_uppercut_to_the_face
-  - first:
-      74: 1944207713746261440
-    second: receive_uppercut_to_the_face
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: receive_uppercut_to_the_face
       takeName: mixamo.com
-      internalID: 1944207713746261440
+      internalID: -1375678011490289748
       firstFrame: 0
       lastFrame: 37
       wrapMode: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7700349767174931420
     second: aim_pistol
-  - first:
-      74: -2253777790569030670
-    second: pistol_seated_draw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_seated_draw
+      name: aim_pistol
       takeName: mixamo.com
-      internalID: -2253777790569030670
+      internalID: 7700349767174931420
       firstFrame: 0
       lastFrame: 163
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

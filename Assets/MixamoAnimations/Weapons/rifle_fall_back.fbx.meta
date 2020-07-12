@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1284925483742652826
     second: fall_over
-  - first:
-      74: 531469692027533789
-    second: rifle_fall_back
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_fall_back
+      name: fall_over
       takeName: mixamo.com
-      internalID: 531469692027533789
+      internalID: 1284925483742652826
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

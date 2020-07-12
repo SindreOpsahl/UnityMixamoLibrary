@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4974626159415070413
     second: illegal_elbow_punch(2)
-  - first:
-      74: 5698305427999143905
-    second: illegal_elbow_punch(2)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: illegal_elbow_punch(2)
       takeName: mixamo.com
-      internalID: 5698305427999143905
+      internalID: 4974626159415070413
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0

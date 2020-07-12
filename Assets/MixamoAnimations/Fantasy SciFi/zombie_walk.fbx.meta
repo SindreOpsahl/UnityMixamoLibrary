@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8206450268209654776
     second: zombie_walk
-  - first:
-      74: -6895579369270085982
-    second: zombie_walk
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: zombie_walk
       takeName: mixamo.com
-      internalID: -6895579369270085982
+      internalID: 8206450268209654776
       firstFrame: 0
       lastFrame: 121
       wrapMode: 0

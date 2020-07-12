@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5268006546011203843
     second: sitting_disapproval
-  - first:
-      74: 8909208066074213266
-    second: sitting_disapproval
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_disapproval
       takeName: mixamo.com
-      internalID: 8909208066074213266
+      internalID: 5268006546011203843
       firstFrame: 0
       lastFrame: 118
       wrapMode: 0

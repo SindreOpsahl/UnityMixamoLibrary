@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8012296169752417878
     second: tut_hip_hop_dance
-  - first:
-      74: 7048342536729836191
-    second: tut_hip_hop_dance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: tut_hip_hop_dance
       takeName: mixamo.com
-      internalID: 7048342536729836191
+      internalID: 8012296169752417878
       firstFrame: 0
       lastFrame: 508
       wrapMode: 0

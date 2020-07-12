@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -6499854256330979536
     second: great_sword_impact(2)
-  - first:
-      74: 1389104064659968134
-    second: 2hand_crouch_impact
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_crouch_impact
+      name: great_sword_impact(2)
       takeName: mixamo.com
-      internalID: 1389104064659968134
+      internalID: -6499854256330979536
       firstFrame: 0
       lastFrame: 29
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

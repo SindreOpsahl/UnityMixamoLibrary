@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3697035533061398696
     second: roar
-  - first:
-      74: 1726955049913459981
-    second: orc_roar
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: orc_roar
+      name: roar
       takeName: mixamo.com
-      internalID: 1726955049913459981
+      internalID: 3697035533061398696
       firstFrame: 0
       lastFrame: 162
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

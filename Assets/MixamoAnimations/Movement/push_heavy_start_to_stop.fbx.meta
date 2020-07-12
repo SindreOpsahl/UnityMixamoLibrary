@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -508507281085051157
     second: push
-  - first:
-      74: 1691449930009325858
-    second: push_heavy_start_to_stop
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: push_heavy_start_to_stop
+      name: push
       takeName: mixamo.com
-      internalID: 1691449930009325858
+      internalID: -508507281085051157
       firstFrame: 0
       lastFrame: 240
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

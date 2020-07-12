@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8683274456248483642
     second: jumping_to_hanging
-  - first:
-      74: -1000438478527219556
-    second: hang_jump_to_brace_stagger
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: hang_jump_to_brace_stagger
+      name: jumping_to_hanging
       takeName: mixamo.com
-      internalID: -1000438478527219556
+      internalID: -8683274456248483642
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -654629107853996010
     second: put_back_rifle_behind_shoulder
-  - first:
-      74: -4286618695367892374
-    second: rifle_holster_shoulder
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_holster_shoulder
+      name: put_back_rifle_behind_shoulder
       takeName: mixamo.com
-      internalID: -4286618695367892374
+      internalID: -654629107853996010
       firstFrame: 0
       lastFrame: 119
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6927267789926399765
     second: one_hand_club_combo
-  - first:
-      74: 3154607973694985808
-    second: 1hand_attack_combo_light_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_attack_combo_light_1
+      name: one_hand_club_combo
       takeName: mixamo.com
-      internalID: 3154607973694985808
+      internalID: 6927267789926399765
       firstFrame: 0
       lastFrame: 109
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7851190291277816406
     second: great_sword_jump_attack
-  - first:
-      74: 7573071311739490614
-    second: 2hand_attack_jumping
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_attack_jumping
+      name: great_sword_jump_attack
       takeName: mixamo.com
-      internalID: 7573071311739490614
+      internalID: 7851190291277816406
       firstFrame: 0
       lastFrame: 65
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

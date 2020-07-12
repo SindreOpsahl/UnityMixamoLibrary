@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4242242536197724150
     second: swing_dancing_1
-  - first:
-      74: -2092289577353163283
-    second: swing_dancing_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: swing_dancing_1
       takeName: mixamo.com
-      internalID: -2092289577353163283
+      internalID: 4242242536197724150
       firstFrame: 0
       lastFrame: 699
       wrapMode: 0

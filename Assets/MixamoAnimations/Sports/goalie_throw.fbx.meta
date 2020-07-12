@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -573343620686261058
     second: goalie_throw
-  - first:
-      74: -2811235780767479511
-    second: goalie_throw
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: goalie_throw
       takeName: mixamo.com
-      internalID: -2811235780767479511
+      internalID: -573343620686261058
       firstFrame: 0
       lastFrame: 115
       wrapMode: 0

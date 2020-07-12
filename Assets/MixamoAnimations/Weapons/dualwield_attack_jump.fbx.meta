@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2970922166220768068
     second: jump_attack
-  - first:
-      74: 1543935540189160998
-    second: dualwield_attack_jump
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: dualwield_attack_jump
+      name: jump_attack
       takeName: mixamo.com
-      internalID: 1543935540189160998
+      internalID: 2970922166220768068
       firstFrame: 0
       lastFrame: 114
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 8323832786495117565
     second: spat_in_face
-  - first:
-      74: 100852057913561534
-    second: spat_in_face
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: spat_in_face
       takeName: mixamo.com
-      internalID: 100852057913561534
+      internalID: 8323832786495117565
       firstFrame: 0
       lastFrame: 76
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9038996090792525824
     second: sword_and_shield_power_up
-  - first:
-      74: -1636626811720851798
-    second: 1hand_shield_magic_charge
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_shield_magic_charge
+      name: sword_and_shield_power_up
       takeName: mixamo.com
-      internalID: -1636626811720851798
+      internalID: 9038996090792525824
       firstFrame: 0
       lastFrame: 71
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

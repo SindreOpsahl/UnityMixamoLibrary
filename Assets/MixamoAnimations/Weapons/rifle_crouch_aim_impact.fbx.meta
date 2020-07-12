@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4368561430592293938
     second: hit_reaction(1)
-  - first:
-      74: 6461331850168136653
-    second: rifle_crouch_aim_impact
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_crouch_aim_impact
+      name: hit_reaction(1)
       takeName: mixamo.com
-      internalID: 6461331850168136653
+      internalID: -4368561430592293938
       firstFrame: 0
       lastFrame: 55
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

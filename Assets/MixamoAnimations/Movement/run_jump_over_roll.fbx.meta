@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1309304053724882795
     second: jumping(3)
-  - first:
-      74: -7007734072758144254
-    second: run_jump_over_roll
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_jump_over_roll
+      name: jumping(3)
       takeName: mixamo.com
-      internalID: -7007734072758144254
+      internalID: 1309304053724882795
       firstFrame: 0
       lastFrame: 63
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

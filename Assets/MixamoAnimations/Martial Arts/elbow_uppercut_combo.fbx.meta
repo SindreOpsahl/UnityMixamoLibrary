@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6712445317473838064
     second: elbow_uppercut_combo
-  - first:
-      74: 6134496632036464064
-    second: elbow_uppercut_combo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: elbow_uppercut_combo
       takeName: mixamo.com
-      internalID: 6134496632036464064
+      internalID: 6712445317473838064
       firstFrame: 0
       lastFrame: 73
       wrapMode: 0

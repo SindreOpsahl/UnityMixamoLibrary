@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7865097236571252532
     second: batter_on_deck
-  - first:
-      74: -5562439990726592114
-    second: batter_on_deck
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: batter_on_deck
       takeName: mixamo.com
-      internalID: -5562439990726592114
+      internalID: 7865097236571252532
       firstFrame: 0
       lastFrame: 1120
       wrapMode: 0

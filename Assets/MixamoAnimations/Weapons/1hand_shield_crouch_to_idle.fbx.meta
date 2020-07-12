@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4213951382655006863
     second: sword_and_shield_crouching
-  - first:
-      74: 6840839113519108786
-    second: 1hand_shield_crouch_to_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_shield_crouch_to_idle
+      name: sword_and_shield_crouching
       takeName: mixamo.com
-      internalID: 6840839113519108786
+      internalID: 4213951382655006863
       firstFrame: 0
       lastFrame: 15
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

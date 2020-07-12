@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 2680746270082313269
     second: swimming_to_edge
-  - first:
-      74: -7498546542677353160
-    second: swim_to_edge
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: swim_to_edge
+      name: swimming_to_edge
       takeName: mixamo.com
-      internalID: -7498546542677353160
+      internalID: 2680746270082313269
       firstFrame: 0
       lastFrame: 150
       wrapMode: 0
@@ -54,11 +51,11 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0

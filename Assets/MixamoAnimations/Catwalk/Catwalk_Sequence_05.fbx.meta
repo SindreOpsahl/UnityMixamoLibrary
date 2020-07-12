@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7814825774877336863
     second: Catwalk_Sequence_05
-  - first:
-      74: -7303797441052298290
-    second: Catwalk_Sequence_05
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Catwalk_Sequence_05
       takeName: mixamo.com
-      internalID: -7303797441052298290
+      internalID: 7814825774877336863
       firstFrame: 0
       lastFrame: 305
       wrapMode: 0

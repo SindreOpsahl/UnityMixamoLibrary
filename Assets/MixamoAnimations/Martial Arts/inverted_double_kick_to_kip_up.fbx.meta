@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5614455731482949209
     second: inverted_double_kick_to_kip_up
-  - first:
-      74: -2821225592863923995
-    second: inverted_double_kick_to_kip_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: inverted_double_kick_to_kip_up
       takeName: mixamo.com
-      internalID: -2821225592863923995
+      internalID: -5614455731482949209
       firstFrame: 0
       lastFrame: 96
       wrapMode: 0

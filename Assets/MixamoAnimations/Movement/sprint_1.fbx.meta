@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6861445081996442198
     second: sprint
-  - first:
-      74: 7983104178087582734
-    second: sprint_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: sprint_1
+      name: sprint
       takeName: mixamo.com
-      internalID: 7983104178087582734
+      internalID: 6861445081996442198
       firstFrame: 0
       lastFrame: 16
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

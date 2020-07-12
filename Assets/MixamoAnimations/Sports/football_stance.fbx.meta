@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7955208838610150183
     second: football_stance
-  - first:
-      74: 5577327735169003253
-    second: football_stance
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: football_stance
       takeName: mixamo.com
-      internalID: 5577327735169003253
+      internalID: -7955208838610150183
       firstFrame: 0
       lastFrame: 76
       wrapMode: 0

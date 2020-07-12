@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6488396792035508865
     second: pontera
-  - first:
-      74: 1094250857666511602
-    second: pontera
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: pontera
       takeName: mixamo.com
-      internalID: 1094250857666511602
+      internalID: 6488396792035508865
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0

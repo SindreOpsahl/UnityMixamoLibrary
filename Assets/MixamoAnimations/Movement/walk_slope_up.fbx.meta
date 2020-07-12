@@ -12,9 +12,6 @@ ModelImporter:
   - first:
       74: -8059349601223461061
     second: climbing_slope
-  - first:
-      74: 3538934940888075676
-    second: walk_slope_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,9 +41,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: walk_slope_up
+      name: climbing_slope
       takeName: mixamo.com
-      internalID: 3538934940888075676
+      internalID: -8059349601223461061
       firstFrame: 0
       lastFrame: 139
       wrapMode: 0
@@ -57,13 +54,13 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
       keepOriginalPositionXZ: 0
-      heightFromFeet: 0
+      heightFromFeet: 1
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []

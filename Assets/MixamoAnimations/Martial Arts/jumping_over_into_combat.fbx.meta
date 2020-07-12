@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8324002385598873464
     second: jumping_over_into_combat
-  - first:
-      74: 1349200302111190925
-    second: jumping_over_into_combat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: jumping_over_into_combat
       takeName: mixamo.com
-      internalID: 1349200302111190925
+      internalID: -8324002385598873464
       firstFrame: 0
       lastFrame: 125
       wrapMode: 0

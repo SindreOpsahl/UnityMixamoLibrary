@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5693444336278418148
     second: receive_stomach_uppercut
-  - first:
-      74: 7970055136517091792
-    second: receive_stomach_uppercut
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: receive_stomach_uppercut
       takeName: mixamo.com
-      internalID: 7970055136517091792
+      internalID: 5693444336278418148
       firstFrame: 0
       lastFrame: 45
       wrapMode: 0

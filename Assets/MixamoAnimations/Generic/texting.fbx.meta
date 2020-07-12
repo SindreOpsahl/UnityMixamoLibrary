@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7309663568634383408
     second: texting
-  - first:
-      74: 5821665526448250008
-    second: texting
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: texting
       takeName: mixamo.com
-      internalID: 5821665526448250008
+      internalID: -7309663568634383408
       firstFrame: 0
       lastFrame: 556
       wrapMode: 0

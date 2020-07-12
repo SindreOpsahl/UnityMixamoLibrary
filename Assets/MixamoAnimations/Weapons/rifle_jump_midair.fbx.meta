@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7284213031989373608
     second: jump_loop
-  - first:
-      74: 9074514604994953032
-    second: rifle_jump_midair
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_jump_midair
+      name: jump_loop
       takeName: mixamo.com
-      internalID: 9074514604994953032
+      internalID: -7284213031989373608
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

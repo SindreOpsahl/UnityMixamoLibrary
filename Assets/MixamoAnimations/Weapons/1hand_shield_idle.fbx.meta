@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 7758182878065157250
     second: sword_and_shield_idle(3)
-  - first:
-      74: 6995789506758680664
-    second: 1hand_shield_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_shield_idle
+      name: sword_and_shield_idle(3)
       takeName: mixamo.com
-      internalID: 6995789506758680664
+      internalID: 7758182878065157250
       firstFrame: 0
       lastFrame: 76
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -43,7 +43,7 @@ ModelImporter:
     - serializedVersion: 16
       name: cover_idle
       takeName: mixamo.com
-      internalID: 505857894935605901
+      internalID: -158936851143625206
       firstFrame: 0
       lastFrame: 68
       wrapMode: 0
@@ -52,12 +52,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

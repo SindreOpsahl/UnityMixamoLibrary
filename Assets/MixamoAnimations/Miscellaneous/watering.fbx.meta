@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -1288876380243120314
     second: watering
-  - first:
-      74: 6159983554583916728
-    second: watering
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: watering
       takeName: mixamo.com
-      internalID: 6159983554583916728
+      internalID: -1288876380243120314
       firstFrame: 0
       lastFrame: 168
       wrapMode: 0

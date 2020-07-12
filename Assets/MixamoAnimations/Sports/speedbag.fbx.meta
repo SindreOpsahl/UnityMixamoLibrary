@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3249310227550016905
     second: speedbag
-  - first:
-      74: 8000384821045361996
-    second: speedbag
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: speedbag
       takeName: mixamo.com
-      internalID: 8000384821045361996
+      internalID: 3249310227550016905
       firstFrame: 0
       lastFrame: 199
       wrapMode: 0

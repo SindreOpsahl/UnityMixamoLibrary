@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 5604479842846028965
     second: aiming
-  - first:
-      74: 7400751862790119878
-    second: pistol_turn180_to_aim
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_turn180_to_aim
+      name: aiming
       takeName: mixamo.com
-      internalID: 7400751862790119878
+      internalID: 5604479842846028965
       firstFrame: 0
       lastFrame: 60
       wrapMode: 0
@@ -55,9 +52,9 @@ ModelImporter:
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

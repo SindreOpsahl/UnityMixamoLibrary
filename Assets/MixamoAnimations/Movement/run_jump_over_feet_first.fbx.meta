@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -4329867266750630718
     second: jumping(6)
-  - first:
-      74: -2034556083077019837
-    second: run_jump_over_feet_first
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: run_jump_over_feet_first
+      name: jumping(6)
       takeName: mixamo.com
-      internalID: -2034556083077019837
+      internalID: -4329867266750630718
       firstFrame: 0
       lastFrame: 36
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

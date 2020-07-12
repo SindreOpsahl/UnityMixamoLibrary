@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 6875575173555234575
     second: check_shoe_rifle
-  - first:
-      74: 3292803854242902691
-    second: rifle_aim_idle_check_shoe
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rifle_aim_idle_check_shoe
+      name: check_shoe_rifle
       takeName: mixamo.com
-      internalID: 3292803854242902691
+      internalID: 6875575173555234575
       firstFrame: 0
       lastFrame: 141
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

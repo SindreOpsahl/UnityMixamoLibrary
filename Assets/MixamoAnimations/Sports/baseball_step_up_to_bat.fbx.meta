@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -8091278980805420094
     second: baseball_step_up_to_bat
-  - first:
-      74: -544223312669159899
-    second: baseball_step_up_to_bat
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: baseball_step_up_to_bat
       takeName: mixamo.com
-      internalID: -544223312669159899
+      internalID: -8091278980805420094
       firstFrame: 0
       lastFrame: 312
       wrapMode: 0

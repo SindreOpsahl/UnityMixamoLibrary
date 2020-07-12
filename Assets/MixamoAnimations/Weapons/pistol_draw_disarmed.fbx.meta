@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2078212023024110797
     second: disarmed
-  - first:
-      74: -4661537838839703869
-    second: pistol_draw_disarmed
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: pistol_draw_disarmed
+      name: disarmed
       takeName: mixamo.com
-      internalID: -4661537838839703869
+      internalID: -2078212023024110797
       firstFrame: 0
       lastFrame: 112
       wrapMode: 0
@@ -54,9 +51,9 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

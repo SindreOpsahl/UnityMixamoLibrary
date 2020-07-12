@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3391456099807766548
     second: left_cover_sneak
-  - first:
-      74: 8626401521441464818
-    second: cover_walk_left
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: cover_walk_left
+      name: left_cover_sneak
       takeName: mixamo.com
-      internalID: 8626401521441464818
+      internalID: 3391456099807766548
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

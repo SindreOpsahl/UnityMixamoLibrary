@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3121239209564133773
     second: bencao
-  - first:
-      74: -5178852625619293050
-    second: bencao
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: bencao
       takeName: mixamo.com
-      internalID: -5178852625619293050
+      internalID: 3121239209564133773
       firstFrame: 0
       lastFrame: 41
       wrapMode: 0

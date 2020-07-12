@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3925453576972066838
     second: unarmed_jump
-  - first:
-      74: -8662771641650255752
-    second: jump_11
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jump_11
+      name: unarmed_jump
       takeName: mixamo.com
-      internalID: -8662771641650255752
+      internalID: -3925453576972066838
       firstFrame: 0
       lastFrame: 70
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

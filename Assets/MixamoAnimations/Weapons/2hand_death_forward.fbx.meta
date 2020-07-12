@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2144482283691829538
     second: two_handed_sword_death(1)
-  - first:
-      74: 5161902835712609593
-    second: 2hand_death_forward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_death_forward
+      name: two_handed_sword_death(1)
       takeName: mixamo.com
-      internalID: 5161902835712609593
+      internalID: -2144482283691829538
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

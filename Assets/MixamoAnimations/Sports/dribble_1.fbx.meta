@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3757271216760188447
     second: dribble_1
-  - first:
-      74: -5793270983584871569
-    second: dribble_1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: dribble_1
       takeName: mixamo.com
-      internalID: -5793270983584871569
+      internalID: -3757271216760188447
       firstFrame: 0
       lastFrame: 52
       wrapMode: 0

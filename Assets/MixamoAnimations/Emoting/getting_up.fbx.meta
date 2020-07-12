@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2028029467652069185
     second: getting_up(2)
-  - first:
-      74: 38007314734021162
-    second: getting_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: getting_up
+      name: getting_up(2)
       takeName: mixamo.com
-      internalID: 38007314734021162
+      internalID: -2028029467652069185
       firstFrame: 0
       lastFrame: 228
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

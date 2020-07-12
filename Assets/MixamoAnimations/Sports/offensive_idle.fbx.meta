@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -976650349616012037
     second: offensive_idle
-  - first:
-      74: 8429187815815102932
-    second: offensive_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: offensive_idle
       takeName: mixamo.com
-      internalID: 8429187815815102932
+      internalID: -976650349616012037
       firstFrame: 0
       lastFrame: 317
       wrapMode: 0

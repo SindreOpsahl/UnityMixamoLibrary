@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3737951435625992034
     second: Standing_Torch_Turn_Left_180
-  - first:
-      74: 6989136548331548980
-    second: Standing_Torch_Turn_Left_180
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Turn_Left_180
       takeName: mixamo.com
-      internalID: 6989136548331548980
+      internalID: -3737951435625992034
       firstFrame: 0
       lastFrame: 47
       wrapMode: 0

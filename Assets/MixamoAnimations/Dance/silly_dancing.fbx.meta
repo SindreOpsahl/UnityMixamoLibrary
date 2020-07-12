@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 1741365352440682940
     second: silly_dancing
-  - first:
-      74: -1101940688821261901
-    second: silly_dancing
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: silly_dancing
       takeName: mixamo.com
-      internalID: -1101940688821261901
+      internalID: 1741365352440682940
       firstFrame: 0
       lastFrame: 163
       wrapMode: 0

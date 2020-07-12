@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -180044321760212997
     second: drunk_idle_variation
-  - first:
-      74: 8733307466147640328
-    second: drunk_idle_stumble
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: drunk_idle_stumble
+      name: drunk_idle_variation
       takeName: mixamo.com
-      internalID: 8733307466147640328
+      internalID: -180044321760212997
       firstFrame: 0
       lastFrame: 162
       wrapMode: 0
@@ -52,12 +49,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

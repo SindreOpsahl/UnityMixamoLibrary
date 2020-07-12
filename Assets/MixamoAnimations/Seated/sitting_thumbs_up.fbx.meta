@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2878235803420773225
     second: sitting_thumbs_up
-  - first:
-      74: 382601558493756360
-    second: sitting_thumbs_up
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: sitting_thumbs_up
       takeName: mixamo.com
-      internalID: 382601558493756360
+      internalID: -2878235803420773225
       firstFrame: 0
       lastFrame: 115
       wrapMode: 0

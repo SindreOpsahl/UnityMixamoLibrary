@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 9030426252261907517
     second: Standing_Torch_Run_Forward
-  - first:
-      74: 3649062426834599723
-    second: Standing_Torch_Run_Forward
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Standing_Torch_Run_Forward
       takeName: mixamo.com
-      internalID: 3649062426834599723
+      internalID: 9030426252261907517
       firstFrame: 0
       lastFrame: 20
       wrapMode: 0

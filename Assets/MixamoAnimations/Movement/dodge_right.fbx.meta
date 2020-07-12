@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -5895432838552692854
     second: dodging_right
-  - first:
-      74: 5198944745992629760
-    second: dodge_right
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: dodge_right
+      name: dodging_right
       takeName: mixamo.com
-      internalID: 5198944745992629760
+      internalID: -5895432838552692854
       firstFrame: 0
       lastFrame: 43
       wrapMode: 0
@@ -54,9 +51,9 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0

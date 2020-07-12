@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 3141334144629188526
     second: sword_and_shield_block
-  - first:
-      74: 7113054577393456676
-    second: 1hand_shield_block_start
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 1hand_shield_block_start
+      name: sword_and_shield_block
       takeName: mixamo.com
-      internalID: 7113054577393456676
+      internalID: 3141334144629188526
       firstFrame: 0
       lastFrame: 17
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

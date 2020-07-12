@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -7802991576157818173
     second: great_sword_casting
-  - first:
-      74: -6521473526164676233
-    second: 2hand_magic_charge_attack
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: 2hand_magic_charge_attack
+      name: great_sword_casting
       takeName: mixamo.com
-      internalID: -6521473526164676233
+      internalID: -7802991576157818173
       firstFrame: 0
       lastFrame: 144
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

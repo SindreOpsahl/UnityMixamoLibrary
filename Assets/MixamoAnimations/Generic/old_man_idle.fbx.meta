@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: 4191568101931216504
     second: old_man_idle
-  - first:
-      74: -6964967629146625038
-    second: old_man_idle
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: old_man_idle
       takeName: mixamo.com
-      internalID: -6964967629146625038
+      internalID: 4191568101931216504
       firstFrame: 0
       lastFrame: 365
       wrapMode: 0

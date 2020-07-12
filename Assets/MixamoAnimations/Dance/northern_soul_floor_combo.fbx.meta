@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -2666455925742220974
     second: northern_soul_floor_combo
-  - first:
-      74: 6134198364446657205
-    second: northern_soul_floor_combo
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +40,7 @@ ModelImporter:
     - serializedVersion: 16
       name: northern_soul_floor_combo
       takeName: mixamo.com
-      internalID: 6134198364446657205
+      internalID: -2666455925742220974
       firstFrame: 0
       lastFrame: 318
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0

@@ -9,9 +9,6 @@ ModelImporter:
   - first:
       74: -3550465132743523626
     second: rope_climb
-  - first:
-      74: 9150159928455869690
-    second: rope_climb_3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: rope_climb_3
+      name: rope_climb
       takeName: mixamo.com
-      internalID: 9150159928455869690
+      internalID: -3550465132743523626
       firstFrame: 0
       lastFrame: 78
       wrapMode: 0
@@ -54,10 +51,10 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
